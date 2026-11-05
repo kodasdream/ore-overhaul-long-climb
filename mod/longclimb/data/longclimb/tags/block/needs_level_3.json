@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:aluminum_block",
+  "longclimb:aluminum_ore",
+  "longclimb:deepslate_aluminum_ore",
+  {
+   "id": "#ddsstinkers:needs_level_3",
+   "required": false
+  }
+ ]
+}

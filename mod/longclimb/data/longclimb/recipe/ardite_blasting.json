@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_ardite",
+ "result": {
+  "id": "longclimb:ardite_ingot"
+ },
+ "experience": 1.1,
+ "cookingtime": 180
+}

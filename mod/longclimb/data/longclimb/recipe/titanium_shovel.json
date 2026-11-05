@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:titanium_ingot",
+  "H": "minecraft:diamond"
+ },
+ "result": {
+  "id": "longclimb:titanium_shovel",
+  "count": 1
+ }
+}

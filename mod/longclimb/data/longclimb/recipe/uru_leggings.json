@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMM",
+  "M M",
+  "M M"
+ ],
+ "key": {
+  "M": "longclimb:uru_ingot"
+ },
+ "result": {
+  "id": "longclimb:uru_leggings",
+  "count": 1
+ }
+}

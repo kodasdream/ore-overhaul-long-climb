@@ -1,0 +1,13 @@
+{
+ "values": [
+  "longclimb:abyssum_block",
+  "longclimb:deepslate_tungsten_ore",
+  "longclimb:end_abyssum_ore",
+  "longclimb:tungsten_block",
+  "longclimb:tungsten_ore",
+  {
+   "id": "#ddsstinkers:needs_level_17",
+   "required": false
+  }
+ ]
+}

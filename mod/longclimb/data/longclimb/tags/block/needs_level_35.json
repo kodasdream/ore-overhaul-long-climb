@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_void_crystal_ore",
+  "longclimb:void_crystal_block",
+  {
+   "id": "#ddsstinkers:needs_level_35",
+   "required": false
+  }
+ ]
+}

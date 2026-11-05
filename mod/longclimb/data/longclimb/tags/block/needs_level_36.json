@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:dragonstone_block",
+  "longclimb:end_dragonstone_ore",
+  {
+   "id": "#ddsstinkers:needs_level_36",
+   "required": false
+  }
+ ]
+}

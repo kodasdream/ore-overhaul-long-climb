@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:prismium_block"
+ ],
+ "result": {
+  "id": "longclimb:prismium_gem",
+  "count": 9
+ }
+}

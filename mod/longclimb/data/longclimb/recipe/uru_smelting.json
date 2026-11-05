@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_uru",
+ "result": {
+  "id": "longclimb:uru_ingot"
+ },
+ "experience": 1.5,
+ "cookingtime": 440
+}

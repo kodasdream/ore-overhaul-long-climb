@@ -1,0 +1,12 @@
+{
+ "values": [
+  "#minecraft:needs_stone_tool",
+  "longclimb:deepslate_tin_ore",
+  "longclimb:tin_block",
+  "longclimb:tin_ore",
+  {
+   "id": "#ddsstinkers:needs_level_1",
+   "required": false
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ardite_block"
+ ],
+ "result": {
+  "id": "longclimb:ardite_ingot",
+  "count": 9
+ }
+}

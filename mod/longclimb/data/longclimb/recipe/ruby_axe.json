@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:ruby_gem",
+  "H": "longclimb:platinum_ingot"
+ },
+ "result": {
+  "id": "longclimb:ruby_axe",
+  "count": 1
+ }
+}

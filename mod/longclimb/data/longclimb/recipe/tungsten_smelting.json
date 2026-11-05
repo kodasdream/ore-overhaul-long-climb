@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_tungsten",
+ "result": {
+  "id": "longclimb:tungsten_ingot"
+ },
+ "experience": 1.2,
+ "cookingtime": 380
+}

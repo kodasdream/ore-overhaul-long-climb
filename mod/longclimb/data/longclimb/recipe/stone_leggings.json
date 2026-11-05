@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMM",
+  "M M",
+  "M M"
+ ],
+ "key": {
+  "M": "#minecraft:stone_tool_materials"
+ },
+ "result": {
+  "id": "longclimb:stone_leggings",
+  "count": 1
+ }
+}

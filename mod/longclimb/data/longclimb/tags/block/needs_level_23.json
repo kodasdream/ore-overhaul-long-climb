@@ -1,0 +1,12 @@
+{
+ "values": [
+  "longclimb:end_uru_ore",
+  "longclimb:nether_valyrium_ore",
+  "longclimb:uru_block",
+  "longclimb:valyrium_block",
+  {
+   "id": "#ddsstinkers:needs_level_23",
+   "required": false
+  }
+ ]
+}

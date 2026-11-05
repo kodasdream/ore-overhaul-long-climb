@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_titanium",
+ "result": {
+  "id": "longclimb:titanium_ingot"
+ },
+ "experience": 1.35,
+ "cookingtime": 410
+}

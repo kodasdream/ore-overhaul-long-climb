@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:deepslate_palladium_ore",
+  "longclimb:palladium_block",
+  "longclimb:palladium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_18",
+   "required": false
+  }
+ ]
+}

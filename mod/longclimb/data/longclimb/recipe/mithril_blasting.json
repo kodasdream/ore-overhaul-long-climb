@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_mithril",
+ "result": {
+  "id": "longclimb:mithril_ingot"
+ },
+ "experience": 1.75,
+ "cookingtime": 245
+}

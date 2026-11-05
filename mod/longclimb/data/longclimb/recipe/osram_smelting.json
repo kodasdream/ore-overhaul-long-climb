@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_osram",
+ "result": {
+  "id": "longclimb:osram_ingot"
+ },
+ "experience": 1.05,
+ "cookingtime": 350
+}

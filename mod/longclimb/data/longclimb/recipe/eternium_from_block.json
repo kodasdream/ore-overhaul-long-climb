@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:eternium_block"
+ ],
+ "result": {
+  "id": "longclimb:eternium_ingot",
+  "count": 9
+ }
+}

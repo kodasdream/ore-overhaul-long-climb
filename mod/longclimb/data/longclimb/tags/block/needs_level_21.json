@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:chromium_block",
+  "longclimb:nether_chromium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_21",
+   "required": false
+  }
+ ]
+}

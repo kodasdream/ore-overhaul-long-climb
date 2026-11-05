@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:black_opal_gem",
+  "H": "longclimb:painite_gem",
+  "G": "longclimb:painite_gem"
+ },
+ "result": {
+  "id": "longclimb:black_opal_pickaxe",
+  "count": 1
+ }
+}

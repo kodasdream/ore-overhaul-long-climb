@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:deepslate_painite_ore",
+  "longclimb:painite_block",
+  "longclimb:painite_ore",
+  {
+   "id": "#ddsstinkers:needs_level_31",
+   "required": false
+  }
+ ]
+}

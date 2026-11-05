@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " M ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:celestium_ingot",
+  "H": "longclimb:cosmite_ingot"
+ },
+ "result": {
+  "id": "longclimb:celestium_sword",
+  "count": 1
+ }
+}

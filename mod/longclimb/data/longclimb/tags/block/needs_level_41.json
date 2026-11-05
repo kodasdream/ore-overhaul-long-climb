@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:astralite_block",
+  "longclimb:end_astralite_ore",
+  {
+   "id": "#ddsstinkers:needs_level_41",
+   "required": false
+  }
+ ]
+}

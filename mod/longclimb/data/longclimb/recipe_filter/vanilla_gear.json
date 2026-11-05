@@ -1,0 +1,184 @@
+{
+ "filters": [
+  {
+   "output": "minecraft:copper_pickaxe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_axe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_shovel",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_hoe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_sword",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_helmet",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_chestplate",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_leggings",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:copper_boots",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_pickaxe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_axe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_shovel",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_hoe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_sword",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_helmet",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_chestplate",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_leggings",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:iron_boots",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_pickaxe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_axe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_shovel",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_hoe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_sword",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_helmet",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_chestplate",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_leggings",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:diamond_boots",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_pickaxe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_axe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_shovel",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_hoe",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_sword",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_helmet",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_chestplate",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_leggings",
+   "id": "minecraft:*",
+   "remove": true
+  },
+  {
+   "output": "minecraft:netherite_boots",
+   "id": "minecraft:*",
+   "remove": true
+  }
+ ]
+}

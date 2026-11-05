@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "longclimb:void_crystal"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "longclimb:void_crystal"
+   }
+  ]
+ }
+}

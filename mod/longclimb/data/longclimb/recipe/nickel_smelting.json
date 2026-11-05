@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_nickel",
+ "result": {
+  "id": "longclimb:nickel_ingot"
+ },
+ "experience": 0.9,
+ "cookingtime": 320
+}

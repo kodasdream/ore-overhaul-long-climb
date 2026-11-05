@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:duranite_ingot"
+ },
+ "result": {
+  "id": "longclimb:duranite_block",
+  "count": 1
+ }
+}

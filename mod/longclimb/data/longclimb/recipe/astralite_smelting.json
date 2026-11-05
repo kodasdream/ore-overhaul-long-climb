@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_astralite",
+ "result": {
+  "id": "longclimb:astralite_ingot"
+ },
+ "experience": 2.4,
+ "cookingtime": 620
+}

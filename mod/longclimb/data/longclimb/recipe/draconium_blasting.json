@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_draconium",
+ "result": {
+  "id": "longclimb:draconium_ingot"
+ },
+ "experience": 1.8,
+ "cookingtime": 250
+}

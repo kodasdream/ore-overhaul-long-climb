@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:black_opal_block",
+  "longclimb:nether_black_opal_ore",
+  {
+   "id": "#ddsstinkers:needs_level_32",
+   "required": false
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " M ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:vibranium_ingot",
+  "H": "longclimb:endorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:vibranium_sword",
+  "count": 1
+ }
+}

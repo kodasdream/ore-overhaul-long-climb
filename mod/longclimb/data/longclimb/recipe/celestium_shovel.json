@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:celestium_ingot",
+  "H": "longclimb:cosmite_ingot"
+ },
+ "result": {
+  "id": "longclimb:celestium_shovel",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_eezo",
+ "result": {
+  "id": "longclimb:eezo_ingot"
+ },
+ "experience": 1.05,
+ "cookingtime": 350
+}

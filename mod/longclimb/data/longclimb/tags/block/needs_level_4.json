@@ -1,0 +1,10 @@
+{
+ "values": [
+  "minecraft:copper_ore",
+  "minecraft:deepslate_copper_ore",
+  {
+   "id": "#ddsstinkers:needs_level_4",
+   "required": false
+  }
+ ]
+}

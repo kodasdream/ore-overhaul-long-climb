@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M M",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:painite_gem"
+ },
+ "result": {
+  "id": "longclimb:painite_chestplate",
+  "count": 1
+ }
+}

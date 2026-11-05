@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:cosmite_block",
+  "longclimb:nether_cosmite_ore",
+  {
+   "id": "#ddsstinkers:needs_level_39",
+   "required": false
+  }
+ ]
+}

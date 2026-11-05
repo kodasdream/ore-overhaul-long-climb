@@ -1,0 +1,13 @@
+{
+ "values": [
+  "longclimb:deepslate_tiberium_ore",
+  "longclimb:tiberium_block",
+  "longclimb:tiberium_ore",
+  "minecraft:deepslate_iron_ore",
+  "minecraft:iron_ore",
+  {
+   "id": "#ddsstinkers:needs_level_7",
+   "required": false
+  }
+ ]
+}

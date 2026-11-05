@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:tin_ingot",
+  "H": "#minecraft:stone_tool_materials"
+ },
+ "result": {
+  "id": "longclimb:tin_axe",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_starsteel_ore",
+  "longclimb:starsteel_block",
+  {
+   "id": "#ddsstinkers:needs_level_34",
+   "required": false
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:chromium_ingot",
+  "H": "longclimb:titanium_ingot"
+ },
+ "result": {
+  "id": "longclimb:chromium_hoe",
+  "count": 1
+ }
+}

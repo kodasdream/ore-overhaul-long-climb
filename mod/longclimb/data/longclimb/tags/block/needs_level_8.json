@@ -1,0 +1,20 @@
+{
+ "values": [
+  "#minecraft:needs_iron_tool",
+  "longclimb:deepslate_thorium_ore",
+  "longclimb:deepslate_uranium_ore",
+  "longclimb:thorium_block",
+  "longclimb:thorium_ore",
+  "longclimb:uranium_block",
+  "longclimb:uranium_ore",
+  "minecraft:deepslate_gold_ore",
+  "minecraft:deepslate_redstone_ore",
+  "minecraft:gold_ore",
+  "minecraft:nether_gold_ore",
+  "minecraft:redstone_ore",
+  {
+   "id": "#ddsstinkers:needs_level_8",
+   "required": false
+  }
+ ]
+}

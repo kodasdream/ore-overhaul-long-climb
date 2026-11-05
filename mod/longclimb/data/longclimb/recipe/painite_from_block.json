@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:painite_block"
+ ],
+ "result": {
+  "id": "longclimb:painite_gem",
+  "count": 9
+ }
+}

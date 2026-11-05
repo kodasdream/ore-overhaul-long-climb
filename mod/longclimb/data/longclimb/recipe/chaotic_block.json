@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:chaotic_ingot"
+ },
+ "result": {
+  "id": "longclimb:chaotic_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:cosmite_ingot",
+  "H": "longclimb:neutronium_ingot"
+ },
+ "result": {
+  "id": "longclimb:cosmite_axe",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_ovium",
+ "result": {
+  "id": "longclimb:ovium_ingot"
+ },
+ "experience": 1.0,
+ "cookingtime": 340
+}

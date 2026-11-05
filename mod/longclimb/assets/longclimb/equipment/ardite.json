@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "longclimb:ardite"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "longclimb:ardite"
+   }
+  ]
+ }
+}

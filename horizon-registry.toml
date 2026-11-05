@@ -1,0 +1,9 @@
+name = "Ore Overhaul Long Climb"
+summary = "50 ore tiers: every ore needs a pickaxe from the tier below, diamond sits at tier 20, and each tier has its own tools and armor."
+description = """
+Ore tiers 1 to 50, each needing a pickaxe of the tier below. Diamond is tier 20, and 30 more tiers go far past it, through the Nether and the End.
+
+Early alpha: recipes are placeholders and the pacing isn't tuned yet. See the README for what's in and what isn't.
+"""
+authors = ["Zsombor Cservid"]
+license = "MIT"

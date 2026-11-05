@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:deepslate_lead_ore",
+  "longclimb:lead_block",
+  "longclimb:lead_ore",
+  {
+   "id": "#ddsstinkers:needs_level_6",
+   "required": false
+  }
+ ]
+}

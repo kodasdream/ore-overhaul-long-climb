@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:thorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:thorium_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "template": "minecraft:iron_sword",
+ "rarity": "epic",
+ "components": {
+  "minecraft:max_damage": 5304,
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 17.63,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -2.4,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:repairable": {
+   "items": "longclimb:cosmite_ingot"
+  }
+ }
+}

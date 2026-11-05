@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:chromium_block"
+ ],
+ "result": {
+  "id": "longclimb:chromium_ingot",
+  "count": 9
+ }
+}

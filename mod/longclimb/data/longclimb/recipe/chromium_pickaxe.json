@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:chromium_ingot",
+  "H": "longclimb:titanium_ingot",
+  "G": "minecraft:diamond"
+ },
+ "result": {
+  "id": "longclimb:chromium_pickaxe",
+  "count": 1
+ }
+}

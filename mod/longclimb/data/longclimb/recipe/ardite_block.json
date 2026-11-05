@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:ardite_ingot"
+ },
+ "result": {
+  "id": "longclimb:ardite_block",
+  "count": 1
+ }
+}

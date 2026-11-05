@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_zinc",
+ "result": {
+  "id": "longclimb:zinc_ingot"
+ },
+ "experience": 0.45,
+ "cookingtime": 115
+}

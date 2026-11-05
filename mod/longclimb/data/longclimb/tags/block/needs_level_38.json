@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_neutronium_ore",
+  "longclimb:neutronium_block",
+  {
+   "id": "#ddsstinkers:needs_level_38",
+   "required": false
+  }
+ ]
+}

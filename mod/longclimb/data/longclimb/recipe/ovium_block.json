@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:ovium_ingot"
+ },
+ "result": {
+  "id": "longclimb:ovium_block",
+  "count": 1
+ }
+}

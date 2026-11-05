@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:prismium_gem",
+  "H": "longclimb:voidsteel_ingot"
+ },
+ "result": {
+  "id": "longclimb:prismium_shovel",
+  "count": 1
+ }
+}

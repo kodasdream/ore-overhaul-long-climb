@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMM",
+  "M M"
+ ],
+ "key": {
+  "M": "longclimb:genesium_ingot"
+ },
+ "result": {
+  "id": "longclimb:genesium_helmet",
+  "count": 1
+ }
+}

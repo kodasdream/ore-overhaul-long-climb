@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:cobalt_block",
+  "longclimb:nether_cobalt_ore",
+  {
+   "id": "#ddsstinkers:needs_level_16",
+   "required": false
+  }
+ ]
+}

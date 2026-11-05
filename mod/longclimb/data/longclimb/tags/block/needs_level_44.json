@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:chaotic_block",
+  "longclimb:end_chaotic_ore",
+  {
+   "id": "#ddsstinkers:needs_level_44",
+   "required": false
+  }
+ ]
+}

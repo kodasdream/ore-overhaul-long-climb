@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " M ",
+  " H "
+ ],
+ "key": {
+  "M": "minecraft:diamond",
+  "H": "longclimb:palladium_ingot"
+ },
+ "result": {
+  "id": "minecraft:diamond_sword",
+  "count": 1
+ }
+}

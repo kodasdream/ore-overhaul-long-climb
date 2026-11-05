@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:nickel_ingot",
+  "H": "longclimb:boron_ingot"
+ },
+ "result": {
+  "id": "longclimb:nickel_pickaxe",
+  "count": 1
+ }
+}

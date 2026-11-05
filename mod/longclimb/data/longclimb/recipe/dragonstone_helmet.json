@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MMM",
+  "M M"
+ ],
+ "key": {
+  "M": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:dragonstone_helmet",
+  "count": 1
+ }
+}

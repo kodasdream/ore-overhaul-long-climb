@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:singularite_block"
+ ],
+ "result": {
+  "id": "longclimb:singularite_gem",
+  "count": 9
+ }
+}

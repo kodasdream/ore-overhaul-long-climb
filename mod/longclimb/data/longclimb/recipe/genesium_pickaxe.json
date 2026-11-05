@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:genesium_ingot",
+  "H": "longclimb:omnium_gem",
+  "G": "longclimb:omnium_gem"
+ },
+ "result": {
+  "id": "longclimb:genesium_pickaxe",
+  "count": 1
+ }
+}

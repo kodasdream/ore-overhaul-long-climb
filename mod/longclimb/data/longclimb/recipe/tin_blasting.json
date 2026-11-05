@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_tin",
+ "result": {
+  "id": "longclimb:tin_ingot"
+ },
+ "experience": 0.4,
+ "cookingtime": 110
+}

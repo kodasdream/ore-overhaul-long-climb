@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:ardite_ingot",
+  "H": "longclimb:sapphire_gem"
+ },
+ "result": {
+  "id": "longclimb:ardite_shovel",
+  "count": 1
+ }
+}

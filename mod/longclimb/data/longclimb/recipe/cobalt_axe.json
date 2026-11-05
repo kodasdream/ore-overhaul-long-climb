@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:cobalt_ingot",
+  "H": "longclimb:ardite_ingot"
+ },
+ "result": {
+  "id": "longclimb:cobalt_axe",
+  "count": 1
+ }
+}

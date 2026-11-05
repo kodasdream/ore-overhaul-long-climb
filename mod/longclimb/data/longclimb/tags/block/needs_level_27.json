@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:adamant_block",
+  "longclimb:end_adamant_ore",
+  {
+   "id": "#ddsstinkers:needs_level_27",
+   "required": false
+  }
+ ]
+}

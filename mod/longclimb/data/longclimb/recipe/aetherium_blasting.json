@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_aetherium",
+ "result": {
+  "id": "longclimb:aetherium_ingot"
+ },
+ "experience": 2.0,
+ "cookingtime": 270
+}

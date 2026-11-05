@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:astralite_block"
+ ],
+ "result": {
+  "id": "longclimb:astralite_ingot",
+  "count": 9
+ }
+}

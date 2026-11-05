@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_prismium_ore",
+  "longclimb:prismium_block",
+  {
+   "id": "#ddsstinkers:needs_level_43",
+   "required": false
+  }
+ ]
+}

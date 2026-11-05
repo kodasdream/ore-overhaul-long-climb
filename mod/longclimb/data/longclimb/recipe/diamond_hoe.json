@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "minecraft:diamond",
+  "H": "longclimb:palladium_ingot"
+ },
+ "result": {
+  "id": "minecraft:diamond_hoe",
+  "count": 1
+ }
+}

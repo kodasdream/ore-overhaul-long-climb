@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:boron_ingot"
+ },
+ "result": {
+  "id": "longclimb:boron_block",
+  "count": 1
+ }
+}

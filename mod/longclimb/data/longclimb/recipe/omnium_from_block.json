@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:omnium_block"
+ ],
+ "result": {
+  "id": "longclimb:omnium_gem",
+  "count": 9
+ }
+}

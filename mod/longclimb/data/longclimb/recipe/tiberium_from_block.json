@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tiberium_block"
+ ],
+ "result": {
+  "id": "longclimb:tiberium_ingot",
+  "count": 9
+ }
+}

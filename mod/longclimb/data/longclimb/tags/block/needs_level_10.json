@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:boron_block",
+  "longclimb:boron_ore",
+  "longclimb:deepslate_boron_ore",
+  {
+   "id": "#ddsstinkers:needs_level_10",
+   "required": false
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:eternium_ingot",
+  "H": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:eternium_shovel",
+  "count": 1
+ }
+}

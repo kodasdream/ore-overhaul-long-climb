@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " M ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:painite_gem",
+  "H": "longclimb:orichalcum_ingot"
+ },
+ "result": {
+  "id": "longclimb:painite_sword",
+  "count": 1
+ }
+}

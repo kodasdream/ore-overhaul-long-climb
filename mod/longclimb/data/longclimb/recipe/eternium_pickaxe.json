@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:eternium_ingot",
+  "H": "longclimb:dragonstone_gem",
+  "G": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:eternium_pickaxe",
+  "count": 1
+ }
+}

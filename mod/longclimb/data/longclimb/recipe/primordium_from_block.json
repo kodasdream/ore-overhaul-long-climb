@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:primordium_block"
+ ],
+ "result": {
+  "id": "longclimb:primordium_ingot",
+  "count": 9
+ }
+}

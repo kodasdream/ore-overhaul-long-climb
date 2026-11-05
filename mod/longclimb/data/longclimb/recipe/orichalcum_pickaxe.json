@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:orichalcum_ingot",
+  "H": "longclimb:draconium_ingot",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:orichalcum_pickaxe",
+  "count": 1
+ }
+}

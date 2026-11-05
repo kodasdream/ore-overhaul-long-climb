@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:primordium_ingot",
+  "H": "longclimb:singularite_gem"
+ },
+ "result": {
+  "id": "longclimb:primordium_hoe",
+  "count": 1
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:silver_ingot",
+  "H": "minecraft:copper_ingot"
+ },
+ "result": {
+  "id": "longclimb:silver_shovel",
+  "count": 1
+ }
+}

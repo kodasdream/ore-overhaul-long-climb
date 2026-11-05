@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_magnesium",
+ "result": {
+  "id": "longclimb:magnesium_ingot"
+ },
+ "experience": 0.6,
+ "cookingtime": 130
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_omnium_ore",
+  "longclimb:omnium_block",
+  {
+   "id": "#ddsstinkers:needs_level_48",
+   "required": false
+  }
+ ]
+}

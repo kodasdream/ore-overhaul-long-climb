@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:genesium_block",
+  "longclimb:nether_genesium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_49",
+   "required": false
+  }
+ ]
+}

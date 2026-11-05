@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_voidsteel_ore",
+  "longclimb:voidsteel_block",
+  {
+   "id": "#ddsstinkers:needs_level_42",
+   "required": false
+  }
+ ]
+}

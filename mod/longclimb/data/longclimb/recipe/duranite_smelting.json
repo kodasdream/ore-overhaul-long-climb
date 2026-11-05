@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_duranite",
+ "result": {
+  "id": "longclimb:duranite_ingot"
+ },
+ "experience": 1.3,
+ "cookingtime": 400
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:black_opal_block"
+ ],
+ "result": {
+  "id": "longclimb:black_opal_gem",
+  "count": 9
+ }
+}

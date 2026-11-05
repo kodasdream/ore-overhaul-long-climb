@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M M",
+  "M M"
+ ],
+ "key": {
+  "M": "longclimb:omnium_gem"
+ },
+ "result": {
+  "id": "longclimb:omnium_boots",
+  "count": 1
+ }
+}

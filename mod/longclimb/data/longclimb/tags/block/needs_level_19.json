@@ -1,0 +1,15 @@
+{
+ "values": [
+  "longclimb:deepslate_duranite_ore",
+  "longclimb:duranite_block",
+  "longclimb:duranite_ore",
+  "longclimb:nether_prometheum_ore",
+  "longclimb:prometheum_block",
+  "minecraft:deepslate_diamond_ore",
+  "minecraft:diamond_ore",
+  {
+   "id": "#ddsstinkers:needs_level_19",
+   "required": false
+  }
+ ]
+}

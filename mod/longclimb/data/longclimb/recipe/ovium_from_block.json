@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ovium_block"
+ ],
+ "result": {
+  "id": "longclimb:ovium_ingot",
+  "count": 9
+ }
+}

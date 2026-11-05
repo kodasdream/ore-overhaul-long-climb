@@ -1,0 +1,9 @@
+{
+ "values": [
+  "minecraft:ancient_debris",
+  {
+   "id": "#ddsstinkers:needs_level_24",
+   "required": false
+  }
+ ]
+}

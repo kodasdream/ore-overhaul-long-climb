@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_voidsteel",
+ "result": {
+  "id": "longclimb:voidsteel_ingot"
+ },
+ "experience": 2.45,
+ "cookingtime": 315
+}

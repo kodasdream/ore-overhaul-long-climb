@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "longclimb:celestium"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "longclimb:celestium"
+   }
+  ]
+ }
+}

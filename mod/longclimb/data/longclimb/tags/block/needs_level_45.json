@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:chronite_block",
+  "longclimb:end_chronite_ore",
+  {
+   "id": "#ddsstinkers:needs_level_45",
+   "required": false
+  }
+ ]
+}

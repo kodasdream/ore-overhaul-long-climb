@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:silver_ingot"
+ },
+ "result": {
+  "id": "longclimb:silver_block",
+  "count": 1
+ }
+}

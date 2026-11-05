@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " M ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:genesium_ingot",
+  "H": "longclimb:omnium_gem"
+ },
+ "result": {
+  "id": "longclimb:genesium_sword",
+  "count": 1
+ }
+}

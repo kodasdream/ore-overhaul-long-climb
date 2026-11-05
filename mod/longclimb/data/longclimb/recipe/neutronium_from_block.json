@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:neutronium_block"
+ ],
+ "result": {
+  "id": "longclimb:neutronium_ingot",
+  "count": 9
+ }
+}

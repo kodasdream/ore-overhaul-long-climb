@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_mithril_ore",
+  "longclimb:mithril_block",
+  {
+   "id": "#ddsstinkers:needs_level_28",
+   "required": false
+  }
+ ]
+}

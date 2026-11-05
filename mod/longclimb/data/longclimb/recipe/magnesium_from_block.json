@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:magnesium_block"
+ ],
+ "result": {
+  "id": "longclimb:magnesium_ingot",
+  "count": 9
+ }
+}

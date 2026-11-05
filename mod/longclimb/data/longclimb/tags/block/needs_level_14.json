@@ -1,0 +1,15 @@
+{
+ "values": [
+  "longclimb:deepslate_sapphire_ore",
+  "longclimb:eezo_block",
+  "longclimb:end_eezo_ore",
+  "longclimb:nether_osram_ore",
+  "longclimb:osram_block",
+  "longclimb:sapphire_block",
+  "longclimb:sapphire_ore",
+  {
+   "id": "#ddsstinkers:needs_level_14",
+   "required": false
+  }
+ ]
+}

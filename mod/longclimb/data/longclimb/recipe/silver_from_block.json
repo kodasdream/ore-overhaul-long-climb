@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:silver_block"
+ ],
+ "result": {
+  "id": "longclimb:silver_ingot",
+  "count": 9
+ }
+}

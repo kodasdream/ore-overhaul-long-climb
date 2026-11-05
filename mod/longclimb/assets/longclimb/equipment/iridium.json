@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "longclimb:iridium"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "longclimb:iridium"
+   }
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:chronite_ingot",
+  "H": "longclimb:chaotic_ingot"
+ },
+ "result": {
+  "id": "longclimb:chronite_hoe",
+  "count": 1
+ }
+}

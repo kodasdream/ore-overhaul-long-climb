@@ -1,0 +1,15 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "M M",
+  "M M"
+ ],
+ "key": {
+  "M": "longclimb:platinum_ingot"
+ },
+ "result": {
+  "id": "longclimb:platinum_boots",
+  "count": 1
+ }
+}

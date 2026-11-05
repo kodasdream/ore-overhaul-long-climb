@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:vibranium_block"
+ ],
+ "result": {
+  "id": "longclimb:vibranium_ingot",
+  "count": 9
+ }
+}

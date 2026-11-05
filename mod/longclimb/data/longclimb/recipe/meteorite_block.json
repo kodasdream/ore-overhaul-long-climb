@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:meteorite_ingot"
+ },
+ "result": {
+  "id": "longclimb:meteorite_block",
+  "count": 1
+ }
+}

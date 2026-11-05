@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:chaotic_ingot",
+  "H": "longclimb:prismium_gem"
+ },
+ "result": {
+  "id": "longclimb:chaotic_axe",
+  "count": 1
+ }
+}

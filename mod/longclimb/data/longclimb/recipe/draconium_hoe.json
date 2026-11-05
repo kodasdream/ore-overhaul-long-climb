@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:draconium_ingot",
+  "H": "longclimb:mithril_ingot"
+ },
+ "result": {
+  "id": "longclimb:draconium_hoe",
+  "count": 1
+ }
+}

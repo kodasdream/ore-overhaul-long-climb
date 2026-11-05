@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:cobalt_ingot"
+ },
+ "result": {
+  "id": "longclimb:cobalt_block",
+  "count": 1
+ }
+}

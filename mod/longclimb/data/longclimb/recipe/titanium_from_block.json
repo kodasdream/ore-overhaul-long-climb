@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:titanium_block"
+ ],
+ "result": {
+  "id": "longclimb:titanium_ingot",
+  "count": 9
+ }
+}

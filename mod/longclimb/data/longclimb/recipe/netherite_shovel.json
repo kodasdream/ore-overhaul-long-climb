@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "minecraft:netherite_ingot",
+  "H": "longclimb:valyrium_ingot"
+ },
+ "result": {
+  "id": "minecraft:netherite_shovel",
+  "count": 1
+ }
+}

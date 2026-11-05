@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_orichalcum",
+ "result": {
+  "id": "longclimb:orichalcum_ingot"
+ },
+ "experience": 1.85,
+ "cookingtime": 510
+}

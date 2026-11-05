@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_palladium",
+ "result": {
+  "id": "longclimb:palladium_ingot"
+ },
+ "experience": 1.25,
+ "cookingtime": 390
+}

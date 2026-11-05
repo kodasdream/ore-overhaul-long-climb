@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:aluminum_block"
+ ],
+ "result": {
+  "id": "longclimb:aluminum_ingot",
+  "count": 9
+ }
+}

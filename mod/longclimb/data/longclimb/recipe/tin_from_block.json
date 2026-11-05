@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tin_block"
+ ],
+ "result": {
+  "id": "longclimb:tin_ingot",
+  "count": 9
+ }
+}

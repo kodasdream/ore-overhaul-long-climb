@@ -1,0 +1,12 @@
+{
+ "values": [
+  "#minecraft:needs_diamond_tool",
+  "longclimb:deepslate_titanium_ore",
+  "longclimb:titanium_block",
+  "longclimb:titanium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_20",
+   "required": false
+  }
+ ]
+}

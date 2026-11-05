@@ -1,0 +1,18 @@
+{
+ "type": "neoforge:remove_features",
+ "biomes": "#minecraft:is_overworld",
+ "features": [
+  "minecraft:ore_copper",
+  "minecraft:ore_copper_large",
+  "minecraft:ore_iron_upper",
+  "minecraft:ore_iron_middle",
+  "minecraft:ore_iron_small",
+  "minecraft:ore_diamond",
+  "minecraft:ore_diamond_medium",
+  "minecraft:ore_diamond_large",
+  "minecraft:ore_diamond_buried"
+ ],
+ "steps": [
+  "underground_ores"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:nickel_ingot"
+ },
+ "result": {
+  "id": "longclimb:nickel_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_endorium_ore",
+  "longclimb:endorium_block",
+  {
+   "id": "#ddsstinkers:needs_level_25",
+   "required": false
+  }
+ ]
+}

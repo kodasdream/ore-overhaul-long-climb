@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:tiberium_ingot"
+ },
+ "result": {
+  "id": "longclimb:tiberium_block",
+  "count": 1
+ }
+}

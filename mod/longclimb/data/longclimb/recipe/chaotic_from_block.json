@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:chaotic_block"
+ ],
+ "result": {
+  "id": "longclimb:chaotic_ingot",
+  "count": 9
+ }
+}

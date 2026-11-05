@@ -1,0 +1,16 @@
+{
+ "values": [
+  "longclimb:deepslate_iridium_ore",
+  "longclimb:deepslate_osmium_ore",
+  "longclimb:iridium_block",
+  "longclimb:iridium_ore",
+  "longclimb:osmium_block",
+  "longclimb:osmium_ore",
+  "minecraft:deepslate_lapis_ore",
+  "minecraft:lapis_ore",
+  {
+   "id": "#ddsstinkers:needs_level_9",
+   "required": false
+  }
+ ]
+}

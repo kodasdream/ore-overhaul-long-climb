@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_vibranium_ore",
+  "longclimb:vibranium_block",
+  {
+   "id": "#ddsstinkers:needs_level_26",
+   "required": false
+  }
+ ]
+}

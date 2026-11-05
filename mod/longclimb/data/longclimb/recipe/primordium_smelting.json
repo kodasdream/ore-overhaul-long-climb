@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_primordium",
+ "result": {
+  "id": "longclimb:primordium_ingot"
+ },
+ "experience": 2.7,
+ "cookingtime": 680
+}

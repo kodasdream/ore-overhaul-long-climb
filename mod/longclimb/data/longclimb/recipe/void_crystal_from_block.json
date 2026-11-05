@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:void_crystal_block"
+ ],
+ "result": {
+  "id": "longclimb:void_crystal_gem",
+  "count": 9
+ }
+}

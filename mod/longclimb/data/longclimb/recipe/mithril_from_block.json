@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:mithril_block"
+ ],
+ "result": {
+  "id": "longclimb:mithril_ingot",
+  "count": 9
+ }
+}

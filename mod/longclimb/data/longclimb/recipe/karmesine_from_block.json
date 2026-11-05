@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:karmesine_block"
+ ],
+ "result": {
+  "id": "longclimb:karmesine_ingot",
+  "count": 9
+ }
+}

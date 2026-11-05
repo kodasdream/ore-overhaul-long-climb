@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:nether_singularite_ore",
+  "longclimb:singularite_block",
+  {
+   "id": "#ddsstinkers:needs_level_46",
+   "required": false
+  }
+ ]
+}

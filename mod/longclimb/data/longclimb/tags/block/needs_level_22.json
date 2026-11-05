@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:nether_tanzanite_ore",
+  "longclimb:tanzanite_block",
+  {
+   "id": "#ddsstinkers:needs_level_22",
+   "required": false
+  }
+ ]
+}

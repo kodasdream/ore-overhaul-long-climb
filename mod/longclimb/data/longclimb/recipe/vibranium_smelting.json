@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_vibranium",
+ "result": {
+  "id": "longclimb:vibranium_ingot"
+ },
+ "experience": 1.65,
+ "cookingtime": 470
+}

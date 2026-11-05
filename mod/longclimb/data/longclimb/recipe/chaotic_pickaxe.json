@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:chaotic_ingot",
+  "H": "longclimb:prismium_gem",
+  "G": "longclimb:prismium_gem"
+ },
+ "result": {
+  "id": "longclimb:chaotic_pickaxe",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_orichalcum_ore",
+  "longclimb:orichalcum_block",
+  {
+   "id": "#ddsstinkers:needs_level_30",
+   "required": false
+  }
+ ]
+}

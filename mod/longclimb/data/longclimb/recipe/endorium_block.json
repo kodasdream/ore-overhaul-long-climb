@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:endorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:endorium_block",
+  "count": 1
+ }
+}

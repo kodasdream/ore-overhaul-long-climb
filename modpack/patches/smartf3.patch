@@ -1,0 +1,40 @@
+diff -ruN orig/smartf3/horizon-native.json patched/smartf3/horizon-native.json
+--- orig/smartf3/horizon-native.json	2026-11-05 04:28:48.831611049 +0200
++++ patched/smartf3/horizon-native.json	2026-11-05 04:30:41.853185897 +0200
+@@ -1,8 +1,8 @@
+ {
+   "game": "26.3",
+-  "horizon": "142388e1c136e622652ec7505af15d8ad195e041",
++  "horizon": "6475f62f3c834b7489e1816bf47f47ea5eb2b879",
+   "id": "smartf3",
+   "mixins": "0d6b103c70633d8fd9443d8d0acd3aadaacedb06",
+   "schema": 1,
+   "version": "0.1.0"
+-}
++}
+\ No newline at end of file
+diff -ruN orig/smartf3/mixins/smartf3/horizon-mixin.toml patched/smartf3/mixins/smartf3/horizon-mixin.toml
+--- orig/smartf3/mixins/smartf3/horizon-mixin.toml	2026-11-05 04:28:48.833279549 +0200
++++ patched/smartf3/mixins/smartf3/horizon-mixin.toml	2026-11-05 04:30:41.853046597 +0200
+@@ -11,7 +11,7 @@
+ # is made for this one commit. Its other hooks use only hook points
+ # (NATIVE_HOOKS_API 1).
+ [compatibility]
+-horizon_revision = "142388e1c136e622652ec7505af15d8ad195e041"
++horizon_revision = "6475f62f3c834b7489e1816bf47f47ea5eb2b879"
+ 
+ [[module]]
+ id = "runtime"
+diff -ruN orig/smartf3/mixins/smartf3/native.rs patched/smartf3/mixins/smartf3/native.rs
+--- orig/smartf3/mixins/smartf3/native.rs	2026-11-05 04:28:48.833540549 +0200
++++ patched/smartf3/mixins/smartf3/native.rs	2026-11-05 04:30:41.838547797 +0200
+@@ -537,9 +537,6 @@
+         if let Some((_, d)) = self.dragon_hit() {
+             offer(d, "minecraft:ender_dragon".to_owned());
+         }
+-        if let Some((_, d)) = self.guest_hit() {
+-            offer(d, "minecraft:player".to_owned());
+-        }
+         let (distance, kind) = best?;
+         self.before_block(distance).then_some(kind)
+     }

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:prometheum_block"
+ ],
+ "result": {
+  "id": "longclimb:prometheum_ingot",
+  "count": 9
+ }
+}

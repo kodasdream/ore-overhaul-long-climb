@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:platinum_block"
+ ],
+ "result": {
+  "id": "longclimb:platinum_ingot",
+  "count": 9
+ }
+}

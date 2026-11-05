@@ -1,0 +1,14 @@
+{
+ "values": [
+  "longclimb:deepslate_meteorite_ore",
+  "longclimb:deepslate_nickel_ore",
+  "longclimb:meteorite_block",
+  "longclimb:meteorite_ore",
+  "longclimb:nickel_block",
+  "longclimb:nickel_ore",
+  {
+   "id": "#ddsstinkers:needs_level_11",
+   "required": false
+  }
+ ]
+}

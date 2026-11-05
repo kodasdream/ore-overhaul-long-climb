@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_chaotic",
+ "result": {
+  "id": "longclimb:chaotic_ingot"
+ },
+ "experience": 2.55,
+ "cookingtime": 650
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:end_eternium_ore",
+  "longclimb:eternium_block",
+  {
+   "id": "#ddsstinkers:needs_level_37",
+   "required": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MGM",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:starsteel_ingot",
+  "H": "longclimb:aetherium_ingot",
+  "G": "longclimb:black_opal_gem"
+ },
+ "result": {
+  "id": "longclimb:starsteel_pickaxe",
+  "count": 1
+ }
+}

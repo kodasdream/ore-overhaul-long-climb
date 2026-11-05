@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:ruby_gem"
+ },
+ "result": {
+  "id": "longclimb:ruby_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "values": [
+  "longclimb:aetherium_block",
+  "longclimb:end_aetherium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_33",
+   "required": false
+  }
+ ]
+}

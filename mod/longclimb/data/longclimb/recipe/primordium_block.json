@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:primordium_ingot"
+ },
+ "result": {
+  "id": "longclimb:primordium_block",
+  "count": 1
+ }
+}

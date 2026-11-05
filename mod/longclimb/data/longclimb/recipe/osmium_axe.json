@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "MM ",
+  "MH ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:osmium_ingot",
+  "H": "longclimb:thorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:osmium_axe",
+  "count": 1
+ }
+}

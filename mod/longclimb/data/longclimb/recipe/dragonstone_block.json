@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:dragonstone_block",
+  "count": 1
+ }
+}

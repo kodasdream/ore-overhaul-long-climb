@@ -1,0 +1,14 @@
+{
+ "layers": {
+  "humanoid": [
+   {
+    "texture": "longclimb:silver"
+   }
+  ],
+  "humanoid_leggings": [
+   {
+    "texture": "longclimb:silver"
+   }
+  ]
+ }
+}

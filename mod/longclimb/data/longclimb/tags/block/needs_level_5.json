@@ -1,0 +1,15 @@
+{
+ "values": [
+  "longclimb:deepslate_magnesium_ore",
+  "longclimb:deepslate_silver_ore",
+  "longclimb:magnesium_block",
+  "longclimb:magnesium_ore",
+  "longclimb:silver_block",
+  "longclimb:silver_ore",
+  "minecraft:nether_quartz_ore",
+  {
+   "id": "#ddsstinkers:needs_level_5",
+   "required": false
+  }
+ ]
+}

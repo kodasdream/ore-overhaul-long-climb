@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:deepslate_zinc_ore",
+  "longclimb:zinc_block",
+  "longclimb:zinc_ore",
+  {
+   "id": "#ddsstinkers:needs_level_2",
+   "required": false
+  }
+ ]
+}

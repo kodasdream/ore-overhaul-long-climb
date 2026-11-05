@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_endorium",
+ "result": {
+  "id": "longclimb:endorium_ingot"
+ },
+ "experience": 1.6,
+ "cookingtime": 460
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:dragonstone_block"
+ ],
+ "result": {
+  "id": "longclimb:dragonstone_gem",
+  "count": 9
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:palladium_ingot",
+  "H": "longclimb:tungsten_ingot"
+ },
+ "result": {
+  "id": "longclimb:palladium_shovel",
+  "count": 1
+ }
+}

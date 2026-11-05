@@ -1,0 +1,11 @@
+{
+ "values": [
+  "longclimb:deepslate_primordium_ore",
+  "longclimb:primordium_block",
+  "longclimb:primordium_ore",
+  {
+   "id": "#ddsstinkers:needs_level_47",
+   "required": false
+  }
+ ]
+}

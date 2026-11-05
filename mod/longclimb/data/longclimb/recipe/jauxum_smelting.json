@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_jauxum",
+ "result": {
+  "id": "longclimb:jauxum_ingot"
+ },
+ "experience": 1.0,
+ "cookingtime": 340
+}

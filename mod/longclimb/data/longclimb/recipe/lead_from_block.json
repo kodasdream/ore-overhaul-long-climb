@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:lead_block"
+ ],
+ "result": {
+  "id": "longclimb:lead_ingot",
+  "count": 9
+ }
+}

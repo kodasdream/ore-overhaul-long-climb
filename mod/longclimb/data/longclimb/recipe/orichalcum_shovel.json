@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " M ",
+  " H ",
+  " H "
+ ],
+ "key": {
+  "M": "longclimb:orichalcum_ingot",
+  "H": "longclimb:draconium_ingot"
+ },
+ "result": {
+  "id": "longclimb:orichalcum_shovel",
+  "count": 1
+ }
+}
