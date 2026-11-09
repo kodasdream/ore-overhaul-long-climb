@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:medusa_quartz_block"
+ ],
+ "result": {
+  "id": "longclimb:medusa_quartz_gem",
+  "count": 9
+ }
+}

@@ -12,8 +12,8 @@ import subprocess
 import sys
 import time
 
-USER_HOME = os.environ.get("WIN_HOME", "/mnt/c/Users/YOUR_WINDOWS_USER")
-WIN_HOME = os.environ.get("WIN_HOME_WIN", r"C:\Users\YOUR_WINDOWS_USER")
+USER_HOME = os.environ.get("WIN_HOME", "/mnt/c/Users/feri1")
+WIN_HOME = os.environ.get("WIN_HOME_WIN", r"C:\Users\feri1")
 VER = f"{USER_HOME}/AppData/Roaming/horizon-launcher/versions/" + sys.argv[1]
 SCRATCH = f"{USER_HOME}/AppData/Local/Temp/lcsave"
 WIN = WIN_HOME + r"\AppData\Local\Temp\lcsave"

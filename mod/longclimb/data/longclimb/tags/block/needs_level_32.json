@@ -1,7 +1,15 @@
 {
  "values": [
   "longclimb:black_opal_block",
+  "longclimb:deepslate_medusa_quartz_ore",
+  "longclimb:deepslate_peacock_topaz_ore",
+  "longclimb:medusa_quartz_block",
+  "longclimb:medusa_quartz_ore",
   "longclimb:nether_black_opal_ore",
+  "longclimb:nether_pink_diamond_ore",
+  "longclimb:peacock_topaz_block",
+  "longclimb:peacock_topaz_ore",
+  "longclimb:pink_diamond_block",
   {
    "id": "#ddsstinkers:needs_level_32",
    "required": false

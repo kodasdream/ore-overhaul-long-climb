@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ilmenite_block"
+ ],
+ "result": {
+  "id": "longclimb:ilmenite_ingot",
+  "count": 9
+ }
+}

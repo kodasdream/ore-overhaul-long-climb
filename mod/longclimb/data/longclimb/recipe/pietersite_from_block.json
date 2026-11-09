@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:pietersite_block"
+ ],
+ "result": {
+  "id": "longclimb:pietersite_gem",
+  "count": 9
+ }
+}

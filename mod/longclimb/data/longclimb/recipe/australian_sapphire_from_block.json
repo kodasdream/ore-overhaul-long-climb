@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:australian_sapphire_block"
+ ],
+ "result": {
+  "id": "longclimb:australian_sapphire_gem",
+  "count": 9
+ }
+}

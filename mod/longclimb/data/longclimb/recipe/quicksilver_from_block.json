@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:quicksilver_block"
+ ],
+ "result": {
+  "id": "longclimb:quicksilver_gem",
+  "count": 9
+ }
+}

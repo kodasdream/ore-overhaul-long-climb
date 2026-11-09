@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:starsteel_ingot",
-  "H": "longclimb:aetherium_ingot"
+  "H": "#longclimb:materials_level_34",
+  "G": "#longclimb:gems_level_33"
  },
  "result": {
   "id": "longclimb:starsteel_axe",

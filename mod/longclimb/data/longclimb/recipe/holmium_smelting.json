@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_holmium",
+ "result": {
+  "id": "longclimb:holmium_ingot"
+ },
+ "experience": 1.55,
+ "cookingtime": 450
+}

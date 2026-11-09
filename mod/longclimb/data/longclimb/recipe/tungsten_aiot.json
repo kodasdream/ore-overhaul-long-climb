@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:tungsten_pickaxe",
+  "A": "longclimb:tungsten_axe",
+  "S": "longclimb:tungsten_shovel",
+  "O": "longclimb:tungsten_hoe",
+  "W": "longclimb:tungsten_sword",
+  "M": "longclimb:tungsten_ingot"
+ },
+ "result": {
+  "id": "longclimb:tungsten_aiot",
+  "count": 1
+ }
+}

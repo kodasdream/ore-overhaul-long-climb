@@ -1,0 +1,8 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:deep_dark"
+ ],
+ "features": "longclimb:ore_iridium",
+ "step": "underground_ores"
+}

@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:diamond_ore",
+ "properties": {
+  "hardness": 13.15,
+  "explosion_resistance": 8.8
+ },
+ "components": {
+  "minecraft:rarity": "rare"
+ }
+}

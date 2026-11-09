@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:osmium_pickaxe",
+  "A": "longclimb:osmium_axe",
+  "S": "longclimb:osmium_shovel",
+  "O": "longclimb:osmium_hoe",
+  "W": "longclimb:osmium_sword",
+  "M": "longclimb:osmium_ingot"
+ },
+ "result": {
+  "id": "longclimb:osmium_aiot",
+  "count": 1
+ }
+}

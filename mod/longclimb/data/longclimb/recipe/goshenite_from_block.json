@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:goshenite_block"
+ ],
+ "result": {
+  "id": "longclimb:goshenite_gem",
+  "count": 9
+ }
+}

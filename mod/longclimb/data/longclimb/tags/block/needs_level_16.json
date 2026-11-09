@@ -1,7 +1,16 @@
 {
  "values": [
   "longclimb:cobalt_block",
+  "longclimb:deepslate_iolite_ore",
+  "longclimb:deepslate_yellow_onyx_ore",
+  "longclimb:deepslate_zirconium_ore",
+  "longclimb:iolite_block",
+  "longclimb:iolite_ore",
   "longclimb:nether_cobalt_ore",
+  "longclimb:yellow_onyx_block",
+  "longclimb:yellow_onyx_ore",
+  "longclimb:zirconium_block",
+  "longclimb:zirconium_ore",
   {
    "id": "#ddsstinkers:needs_level_16",
    "required": false

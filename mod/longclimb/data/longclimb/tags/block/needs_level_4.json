@@ -1,5 +1,11 @@
 {
  "values": [
+  "longclimb:azurite_block",
+  "longclimb:azurite_ore",
+  "longclimb:deepslate_azurite_ore",
+  "longclimb:deepslate_malachite_ore",
+  "longclimb:malachite_block",
+  "longclimb:malachite_ore",
   "minecraft:copper_ore",
   "minecraft:deepslate_copper_ore",
   {

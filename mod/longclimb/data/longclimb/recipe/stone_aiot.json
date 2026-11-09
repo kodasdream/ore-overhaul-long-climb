@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:stone_pickaxe",
+  "A": "minecraft:stone_axe",
+  "S": "minecraft:stone_shovel",
+  "O": "minecraft:stone_hoe",
+  "W": "minecraft:stone_sword",
+  "M": "#minecraft:stone_tool_materials"
+ },
+ "result": {
+  "id": "longclimb:stone_aiot",
+  "count": 1
+ }
+}

@@ -3,6 +3,8 @@
   "longclimb:celestium_block",
   "longclimb:celestium_ore",
   "longclimb:deepslate_celestium_ore",
+  "longclimb:end_potassium_ore",
+  "longclimb:potassium_block",
   {
    "id": "#ddsstinkers:needs_level_40",
    "required": false

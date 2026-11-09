@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:lead_block",
+  "T": "longclimb:lead_shovel",
+  "H": "longclimb:silver_block"
+ },
+ "result": {
+  "id": "longclimb:lead_excavator",
+  "count": 1
+ }
+}

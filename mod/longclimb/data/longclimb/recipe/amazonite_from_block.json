@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:amazonite_block"
+ ],
+ "result": {
+  "id": "longclimb:amazonite_gem",
+  "count": 9
+ }
+}

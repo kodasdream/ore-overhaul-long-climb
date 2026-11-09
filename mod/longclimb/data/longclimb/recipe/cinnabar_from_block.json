@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:cinnabar_block"
+ ],
+ "result": {
+  "id": "longclimb:cinnabar_gem",
+  "count": 9
+ }
+}

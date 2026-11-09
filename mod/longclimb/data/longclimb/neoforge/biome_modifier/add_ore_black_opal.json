@@ -1,0 +1,8 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:soul_sand_valley"
+ ],
+ "features": "longclimb:ore_black_opal",
+ "step": "underground_ores"
+}

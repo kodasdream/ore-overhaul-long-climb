@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:sunstone_gem"
+ },
+ "result": {
+  "id": "longclimb:sunstone_block",
+  "count": 1
+ }
+}

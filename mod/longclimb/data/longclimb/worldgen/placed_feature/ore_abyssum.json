@@ -2,8 +2,8 @@
  "feature": "longclimb:ore_abyssum",
  "placement": [
   {
-   "type": "minecraft:rarity_filter",
-   "chance": 2
+   "type": "minecraft:count",
+   "count": 20
   },
   {
    "type": "minecraft:in_square"
@@ -13,11 +13,24 @@
    "height": {
     "type": "minecraft:uniform",
     "min_inclusive": {
-     "absolute": 0
+     "absolute": 10
     },
     "max_inclusive": {
-     "absolute": 90
+     "absolute": 60
     }
+   }
+  },
+  {
+   "type": "minecraft:environment_scan",
+   "direction_of_search": "up",
+   "max_steps": 32,
+   "target_condition": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "minecraft:end_stone"
+   },
+   "allowed_search_condition": {
+    "type": "minecraft:matching_blocks",
+    "blocks": "minecraft:air"
    }
   },
   {

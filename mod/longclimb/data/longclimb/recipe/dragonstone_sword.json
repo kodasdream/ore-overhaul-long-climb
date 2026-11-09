@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " M ",
-  " H "
+  "  M  ",
+  "  M  ",
+  " MGM ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:dragonstone_gem",
-  "H": "longclimb:void_crystal_gem"
+  "H": "#longclimb:materials_level_36",
+  "G": "#longclimb:gems_level_36"
  },
  "result": {
   "id": "longclimb:dragonstone_sword",

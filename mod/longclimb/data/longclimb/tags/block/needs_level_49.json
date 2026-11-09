@@ -1,7 +1,10 @@
 {
  "values": [
+  "longclimb:bedrock_genesium_ore",
+  "longclimb:deepslate_matizium_ore",
   "longclimb:genesium_block",
-  "longclimb:nether_genesium_ore",
+  "longclimb:matizium_block",
+  "longclimb:matizium_ore",
   {
    "id": "#ddsstinkers:needs_level_49",
    "required": false

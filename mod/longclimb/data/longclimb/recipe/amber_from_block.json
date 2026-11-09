@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:amber_block"
+ ],
+ "result": {
+  "id": "longclimb:amber_gem",
+  "count": 9
+ }
+}

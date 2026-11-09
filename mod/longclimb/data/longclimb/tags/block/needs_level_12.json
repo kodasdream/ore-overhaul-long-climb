@@ -1,11 +1,22 @@
 {
  "values": [
-  "longclimb:deepslate_karmesine_ore",
+  "longclimb:andesite_karmesine_ore",
+  "longclimb:deepslate_peridot_ore",
   "longclimb:deepslate_platinum_ore",
+  "longclimb:deepslate_shattuckite_ore",
+  "longclimb:deepslate_sunset_jasper_ore",
+  "longclimb:deepslate_topaz_ore",
   "longclimb:karmesine_block",
-  "longclimb:karmesine_ore",
+  "longclimb:peridot_block",
+  "longclimb:peridot_ore",
   "longclimb:platinum_block",
   "longclimb:platinum_ore",
+  "longclimb:shattuckite_block",
+  "longclimb:shattuckite_ore",
+  "longclimb:sunset_jasper_block",
+  "longclimb:sunset_jasper_ore",
+  "longclimb:topaz_block",
+  "longclimb:topaz_ore",
   {
    "id": "#ddsstinkers:needs_level_12",
    "required": false

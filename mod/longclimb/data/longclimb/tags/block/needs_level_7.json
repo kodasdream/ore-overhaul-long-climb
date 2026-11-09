@@ -1,8 +1,13 @@
 {
  "values": [
-  "longclimb:deepslate_tiberium_ore",
+  "longclimb:deepslate_garnet_ore",
+  "longclimb:deepslate_vanadium_ore",
+  "longclimb:garnet_block",
+  "longclimb:garnet_ore",
+  "longclimb:nether_tiberium_ore",
   "longclimb:tiberium_block",
-  "longclimb:tiberium_ore",
+  "longclimb:vanadium_block",
+  "longclimb:vanadium_ore",
   "minecraft:deepslate_iron_ore",
   "minecraft:iron_ore",
   {

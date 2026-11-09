@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:tin_block",
+  "T": "longclimb:tin_shovel",
+  "H": "minecraft:smooth_stone"
+ },
+ "result": {
+  "id": "longclimb:tin_excavator",
+  "count": 1
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:rare_sapphire_gem"
+ },
+ "result": {
+  "id": "longclimb:rare_sapphire_block",
+  "count": 1
+ }
+}

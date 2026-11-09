@@ -1,0 +1,622 @@
+{
+ "alexandrite": {
+  "color": 10049459,
+  "metal": false,
+  "name": "Alexandrite"
+ },
+ "amazonite": {
+  "color": 2673830,
+  "metal": false,
+  "name": "Amazonite"
+ },
+ "amber": {
+  "color": 16679173,
+  "metal": false,
+  "name": "Amber"
+ },
+ "americium": {
+  "color": 6371643,
+  "metal": true,
+  "name": "Americium"
+ },
+ "amethyst_crystal": {
+  "color": 10625242,
+  "metal": false,
+  "name": "Amethyst"
+ },
+ "ametrine": {
+  "color": 14311572,
+  "metal": false,
+  "name": "Ametrine"
+ },
+ "ammolite": {
+  "color": 9587261,
+  "metal": false,
+  "name": "Ammolite"
+ },
+ "anti_humoranium": {
+  "color": 5845587,
+  "metal": false,
+  "name": "Anti-Humoranium"
+ },
+ "aquamarine": {
+  "color": 2927343,
+  "metal": false,
+  "name": "Aquamarine"
+ },
+ "aquamorganite": {
+  "color": 9348565,
+  "metal": false,
+  "name": "Aquamorganite"
+ },
+ "australian_sapphire": {
+  "color": 2913459,
+  "metal": false,
+  "name": "Rare Sapphire"
+ },
+ "azurite": {
+  "color": 10122621,
+  "metal": false,
+  "name": "Azurite"
+ },
+ "bismuth": {
+  "color": 8092282,
+  "metal": true,
+  "name": "Bismuth"
+ },
+ "bixbite": {
+  "color": 7611952,
+  "metal": false,
+  "name": "Bixbite"
+ },
+ "bloodstone": {
+  "color": 6763056,
+  "metal": false,
+  "name": "Bloodstone"
+ },
+ "blue_john_fluorite": {
+  "color": 7099517,
+  "metal": false,
+  "name": "Blue John Fluorite"
+ },
+ "bluestone": {
+  "color": 12766881,
+  "metal": false,
+  "name": "Bluestone"
+ },
+ "brickerite": {
+  "color": 10110773,
+  "metal": false,
+  "name": "Brickerite"
+ },
+ "cadmium": {
+  "color": 3755334,
+  "metal": true,
+  "name": "Cadmium"
+ },
+ "calcium": {
+  "color": 8816004,
+  "metal": true,
+  "name": "Calcium"
+ },
+ "carnotite": {
+  "color": 8156716,
+  "metal": true,
+  "name": "Carnotite"
+ },
+ "catseye": {
+  "color": 7481405,
+  "metal": false,
+  "name": "Catseye"
+ },
+ "chalcanthite": {
+  "color": 5666294,
+  "metal": false,
+  "name": "Chalcanthite"
+ },
+ "chloronium": {
+  "color": 10471680,
+  "metal": false,
+  "name": "Chloronium"
+ },
+ "chrysolite": {
+  "color": 11331362,
+  "metal": false,
+  "name": "Chrysolite"
+ },
+ "cinnabar": {
+  "color": 10761782,
+  "metal": false,
+  "name": "Cinnabar"
+ },
+ "citrine": {
+  "color": 15259170,
+  "metal": false,
+  "name": "Citrine"
+ },
+ "cyan_emerald": {
+  "color": 5102250,
+  "metal": false,
+  "name": "Cyan Emerald"
+ },
+ "cyber_crystal": {
+  "color": 14015136,
+  "metal": false,
+  "name": "Cyber Crystal"
+ },
+ "epidote": {
+  "color": 5010752,
+  "metal": false,
+  "name": "Epidote"
+ },
+ "europium": {
+  "color": 14406546,
+  "metal": true,
+  "name": "Europium"
+ },
+ "fire_opal": {
+  "color": 7285289,
+  "metal": false,
+  "name": "Fire Opal"
+ },
+ "fluorite": {
+  "color": 7240646,
+  "metal": false,
+  "name": "Fluorite"
+ },
+ "garnet": {
+  "color": 8982030,
+  "metal": false,
+  "name": "Garnet"
+ },
+ "goshenite": {
+  "color": 8816262,
+  "metal": false,
+  "name": "Goshenite"
+ },
+ "grandidierite": {
+  "color": 1436088,
+  "metal": false,
+  "name": "Grandidierite"
+ },
+ "green_catseye": {
+  "color": 5977891,
+  "metal": false,
+  "name": "Catseye"
+ },
+ "hackmanite": {
+  "color": 14119154,
+  "metal": false,
+  "name": "Hackmantite"
+ },
+ "hercynite": {
+  "color": 3752349,
+  "metal": false,
+  "name": "Hercynite"
+ },
+ "holmium": {
+  "color": 7371599,
+  "metal": true,
+  "name": "Holmium"
+ },
+ "howlite": {
+  "color": 5855579,
+  "metal": false,
+  "name": "Howlite"
+ },
+ "humoranium": {
+  "color": 8151338,
+  "metal": false,
+  "name": "Humoranium"
+ },
+ "ilmenite": {
+  "color": 10376759,
+  "metal": true,
+  "name": "Ilmenite"
+ },
+ "indigolite": {
+  "color": 4434831,
+  "metal": false,
+  "name": "Indigolite"
+ },
+ "indium": {
+  "color": 6381413,
+  "metal": true,
+  "name": "Indium"
+ },
+ "iolite": {
+  "color": 7108547,
+  "metal": false,
+  "name": "Iolite"
+ },
+ "iris_agate": {
+  "color": 12037488,
+  "metal": false,
+  "name": "Iris Agate"
+ },
+ "jade": {
+  "color": 6009153,
+  "metal": false,
+  "name": "Jade"
+ },
+ "jasper": {
+  "color": 13844013,
+  "metal": false,
+  "name": "Jasper"
+ },
+ "kunzite": {
+  "color": 15809720,
+  "metal": false,
+  "name": "Kunzite"
+ },
+ "labradorite": {
+  "color": 1598351,
+  "metal": false,
+  "name": "Labradorite"
+ },
+ "larimar": {
+  "color": 13686686,
+  "metal": false,
+  "name": "Larimar"
+ },
+ "lithium": {
+  "color": 8553861,
+  "metal": true,
+  "name": "Lithium"
+ },
+ "malachite": {
+  "color": 5228696,
+  "metal": false,
+  "name": "Malachite"
+ },
+ "manganese": {
+  "color": 12676188,
+  "metal": true,
+  "name": "Manganese"
+ },
+ "maradonyx": {
+  "color": 11847597,
+  "metal": true,
+  "name": "Maradonyx"
+ },
+ "matizium": {
+  "color": 8219833,
+  "metal": true,
+  "name": "Matizium"
+ },
+ "matrix_opal": {
+  "color": 3392691,
+  "metal": false,
+  "name": "Matrix Opal"
+ },
+ "medusa_quartz": {
+  "color": 3586775,
+  "metal": false,
+  "name": "Medusa Quartz"
+ },
+ "molybdenum": {
+  "color": 5334918,
+  "metal": true,
+  "name": "Molybdenum"
+ },
+ "moonstone": {
+  "color": 13097121,
+  "metal": false,
+  "name": "Moonstone"
+ },
+ "moss_agate": {
+  "color": 5142614,
+  "metal": false,
+  "name": "Moss Agate"
+ },
+ "mystic_topaz": {
+  "color": 11636824,
+  "metal": false,
+  "name": "Mystic Topaz"
+ },
+ "niobium": {
+  "color": 12012987,
+  "metal": true,
+  "name": "Niobium"
+ },
+ "olivine": {
+  "color": 8504350,
+  "metal": false,
+  "name": "Olivine"
+ },
+ "onyx": {
+  "color": 6908265,
+  "metal": false,
+  "name": "Onyx"
+ },
+ "opal": {
+  "color": 11769575,
+  "metal": false,
+  "name": "Opal"
+ },
+ "orange_diamond": {
+  "color": 7680552,
+  "metal": false,
+  "name": "Orange Diamond"
+ },
+ "palintinium": {
+  "color": 13793832,
+  "metal": true,
+  "name": "Palintinium"
+ },
+ "peacock_topaz": {
+  "color": 5283772,
+  "metal": false,
+  "name": "Peacock Topaz Ore"
+ },
+ "pelenium": {
+  "color": 7416115,
+  "metal": true,
+  "name": "Pelenium"
+ },
+ "peridot": {
+  "color": 4057416,
+  "metal": false,
+  "name": "Peridot"
+ },
+ "pietersite": {
+  "color": 6770764,
+  "metal": false,
+  "name": "Pietersite"
+ },
+ "pink_diamond": {
+  "color": 7883091,
+  "metal": false,
+  "name": "Pink Diamond"
+ },
+ "pink_ruby": {
+  "color": 15410275,
+  "metal": false,
+  "name": "Pink Ruby"
+ },
+ "pitambari_neelam": {
+  "color": 8226448,
+  "metal": false,
+  "name": "Pitambari Neelam"
+ },
+ "potassium": {
+  "color": 14146462,
+  "metal": true,
+  "name": "Potassium"
+ },
+ "prism": {
+  "color": 8036482,
+  "metal": false,
+  "name": "Prism"
+ },
+ "purple_diamond": {
+  "color": 13812142,
+  "metal": false,
+  "name": "Purple Diamond"
+ },
+ "pyrite": {
+  "color": 7223076,
+  "metal": false,
+  "name": "Pyrite"
+ },
+ "quicksilver": {
+  "color": 9013384,
+  "metal": false,
+  "name": "Quicksilver"
+ },
+ "rainbow_fluorite": {
+  "color": 8017817,
+  "metal": false,
+  "name": "Rainbow Fluorite"
+ },
+ "rainbow_opal": {
+  "color": 9070237,
+  "metal": false,
+  "name": "Rainbow Opal"
+ },
+ "rare_amethyst": {
+  "color": 9191130,
+  "metal": false,
+  "name": "Rare Amethyst"
+ },
+ "rare_citrine": {
+  "color": 16750861,
+  "metal": false,
+  "name": "Rare Citrine"
+ },
+ "rare_sapphire": {
+  "color": 7644321,
+  "metal": false,
+  "name": "Rare Sapphire"
+ },
+ "rare_tanzanite": {
+  "color": 2198896,
+  "metal": false,
+  "name": "Rare Tanzanite"
+ },
+ "rare_tourmaline": {
+  "color": 8395677,
+  "metal": false,
+  "name": "Bicolor Tourmaline"
+ },
+ "raspberry_diamond": {
+  "color": 15812515,
+  "metal": false,
+  "name": "Raspberry Diamond"
+ },
+ "red_diamond": {
+  "color": 7743271,
+  "metal": false,
+  "name": "Red Diamond"
+ },
+ "rhodonite": {
+  "color": 13746070,
+  "metal": false,
+  "name": "Rhodonite"
+ },
+ "rose_quartz": {
+  "color": 16028415,
+  "metal": false,
+  "name": "Rose Quartz"
+ },
+ "ruthenium": {
+  "color": 9020713,
+  "metal": true,
+  "name": "Ruthenium"
+ },
+ "rutile": {
+  "color": 13650249,
+  "metal": false,
+  "name": "Rutile"
+ },
+ "sardonyx": {
+  "color": 16346653,
+  "metal": false,
+  "name": "Sardonyx"
+ },
+ "scandium": {
+  "color": 6906185,
+  "metal": true,
+  "name": "Scandium"
+ },
+ "seaborgium": {
+  "color": 8996894,
+  "metal": true,
+  "name": "Seaborgium"
+ },
+ "serpentine": {
+  "color": 13687690,
+  "metal": false,
+  "name": "Serpentine"
+ },
+ "shattuckite": {
+  "color": 8154467,
+  "metal": false,
+  "name": "Shattuckite"
+ },
+ "silicon": {
+  "color": 8421250,
+  "metal": false,
+  "name": "Silicon"
+ },
+ "smoky_quartz": {
+  "color": 10978143,
+  "metal": false,
+  "name": "Smoky Quartz"
+ },
+ "sonoranite": {
+  "color": 7382308,
+  "metal": false,
+  "name": "Sonoranite"
+ },
+ "spinel": {
+  "color": 16209133,
+  "metal": false,
+  "name": "Spinel"
+ },
+ "stibnite": {
+  "color": 7960953,
+  "metal": false,
+  "name": "Stibnite"
+ },
+ "sugilite": {
+  "color": 6111366,
+  "metal": false,
+  "name": "Sugillite"
+ },
+ "sulfur": {
+  "color": 7486499,
+  "metal": false,
+  "name": "Sulfur"
+ },
+ "sunset_jasper": {
+  "color": 8548363,
+  "metal": false,
+  "name": "Sunset Jasper"
+ },
+ "sunstone": {
+  "color": 7221550,
+  "metal": false,
+  "name": "Sunstone"
+ },
+ "tantalum": {
+  "color": 5723222,
+  "metal": true,
+  "name": "Tantalum"
+ },
+ "technetium": {
+  "color": 5598578,
+  "metal": true,
+  "name": "Technetium"
+ },
+ "topaz": {
+  "color": 14912287,
+  "metal": false,
+  "name": "Topaz"
+ },
+ "tourmaline": {
+  "color": 13488384,
+  "metal": false,
+  "name": "Tourmaline"
+ },
+ "turquoise": {
+  "color": 1760710,
+  "metal": false,
+  "name": "Turquoise"
+ },
+ "vanadium": {
+  "color": 11296109,
+  "metal": true,
+  "name": "Vanadium"
+ },
+ "vesuvianite": {
+  "color": 6792039,
+  "metal": false,
+  "name": "Vesuviante"
+ },
+ "watermelon_tourmaline": {
+  "color": 9927515,
+  "metal": false,
+  "name": "Watermelon Tourmaline"
+ },
+ "wernerite": {
+  "color": 14709066,
+  "metal": false,
+  "name": "Wernerite"
+ },
+ "white_diamond": {
+  "color": 14145949,
+  "metal": false,
+  "name": "White Diamond"
+ },
+ "xernium": {
+  "color": 14395031,
+  "metal": true,
+  "name": "Xernium"
+ },
+ "yellow_onyx": {
+  "color": 16695837,
+  "metal": false,
+  "name": "Yellow Onyx"
+ },
+ "yttrium": {
+  "color": 9271876,
+  "metal": true,
+  "name": "Yttrium"
+ },
+ "yurium": {
+  "color": 6374206,
+  "metal": true,
+  "name": "Yurium"
+ },
+ "zircon": {
+  "color": 9662059,
+  "metal": false,
+  "name": "Zircon"
+ },
+ "zirconium": {
+  "color": 9335892,
+  "metal": true,
+  "name": "Zirconium"
+ }
+}

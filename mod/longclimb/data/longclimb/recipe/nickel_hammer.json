@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:nickel_block",
+  "T": "longclimb:nickel_pickaxe",
+  "H": "longclimb:boron_block"
+ },
+ "result": {
+  "id": "longclimb:nickel_hammer",
+  "count": 1
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_potassium",
+ "result": {
+  "id": "longclimb:potassium_ingot"
+ },
+ "experience": 2.35,
+ "cookingtime": 610
+}

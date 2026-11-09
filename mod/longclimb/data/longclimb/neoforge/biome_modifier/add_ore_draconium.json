@@ -1,0 +1,9 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:small_end_islands",
+  "minecraft:end_barrens"
+ ],
+ "features": "longclimb:ore_draconium",
+ "step": "underground_ores"
+}

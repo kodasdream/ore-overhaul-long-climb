@@ -1,5 +1,11 @@
 {
  "values": [
+  "longclimb:calcium_block",
+  "longclimb:calcium_ore",
+  "longclimb:deepslate_calcium_ore",
+  "longclimb:deepslate_silicon_ore",
+  "longclimb:silicon_block",
+  "longclimb:silicon_ore",
   {
    "id": "#ddsstinkers:needs_level_0",
    "required": false

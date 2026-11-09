@@ -1,6 +1,15 @@
 {
  "values": [
+  "longclimb:deepslate_jasper_ore",
+  "longclimb:deepslate_lithium_ore",
+  "longclimb:deepslate_onyx_ore",
   "longclimb:deepslate_zinc_ore",
+  "longclimb:jasper_block",
+  "longclimb:jasper_ore",
+  "longclimb:lithium_block",
+  "longclimb:lithium_ore",
+  "longclimb:onyx_block",
+  "longclimb:onyx_ore",
   "longclimb:zinc_block",
   "longclimb:zinc_ore",
   {

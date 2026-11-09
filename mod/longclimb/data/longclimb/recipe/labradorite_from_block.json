@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:labradorite_block"
+ ],
+ "result": {
+  "id": "longclimb:labradorite_gem",
+  "count": 9
+ }
+}

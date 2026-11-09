@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:boron_pickaxe",
+  "A": "longclimb:boron_axe",
+  "S": "longclimb:boron_shovel",
+  "O": "longclimb:boron_hoe",
+  "W": "longclimb:boron_sword",
+  "M": "longclimb:boron_ingot"
+ },
+ "result": {
+  "id": "longclimb:boron_aiot",
+  "count": 1
+ }
+}

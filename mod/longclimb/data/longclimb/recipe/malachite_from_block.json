@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:malachite_block"
+ ],
+ "result": {
+  "id": "longclimb:malachite_gem",
+  "count": 9
+ }
+}

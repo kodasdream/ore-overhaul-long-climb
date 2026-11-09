@@ -164,6 +164,24 @@ def tool(kind, color, handle_color):
     return _stack(paint(_layer(h), handle_color), paint(_layer(a), color), paint(_layer(b), handle_color))
 
 
+def _shifted(path, dx, dy):
+    """A tool layer moved a little, so several heads can share one handle."""
+    g = _layer(path)
+    out = Image.new("L", g.size, CLEAR)
+    out.paste(g, (dx, dy))
+    return out
+
+
+def hammer(color, handle_color):
+    """A two-faced sledge on a long haft (Tinkers' hammer layers)."""
+    return _stack(paint(_layer("hammer/handle.png"), handle_color), paint(_layer("hammer/back.png"), color), paint(_layer("hammer/front.png"), color), paint(_layer("hammer/head.png"), color))
+
+
+def excavator(color, handle_color):
+    """A broad scoop on a gripped haft (Tinkers' excavator layers)."""
+    return _stack(paint(_layer("excavator/handle.png"), handle_color), paint(_layer("excavator/grip.png"), handle_color), paint(_layer("excavator/head.png"), color), paint(_layer("excavator/binding.png"), handle_color))
+
+
 def ingot(color):
     g = polys(
         (BASE, [(3, 17), (18, 8), (29, 14), (14, 23)]),            # top
@@ -272,6 +290,13 @@ STONES = {
     "deepslate": [(88, 88, 96), (76, 76, 84), (66, 66, 73), (56, 56, 63), (38, 38, 44)],
     "nether": [(134, 54, 54), (112, 42, 44), (92, 34, 38), (76, 28, 34), (48, 16, 22)],
     "end": [(232, 236, 172), (220, 224, 158), (206, 210, 144), (190, 194, 130), (150, 152, 98)],
+    "andesite": [(150, 152, 150), (136, 138, 137), (124, 126, 125), (112, 114, 113), (88, 90, 90)],
+    "diorite": [(214, 214, 214), (196, 196, 197), (178, 178, 180), (160, 160, 162), (120, 120, 124)],
+    "granite": [(176, 122, 100), (158, 108, 88), (142, 94, 78), (124, 82, 68), (92, 58, 48)],
+    "bedrock": [(92, 92, 92), (70, 70, 70), (52, 52, 52), (36, 36, 36), (18, 18, 18)],
+    "magma": [(214, 96, 30), (176, 62, 26), (132, 40, 26), (94, 28, 24), (52, 14, 16)],
+    "meteorite": [(92, 72, 60), (76, 58, 50), (62, 48, 42), (50, 38, 34), (30, 22, 20)],
+    "obsidiorite": [(62, 50, 86), (48, 38, 70), (38, 30, 56), (28, 22, 44), (14, 10, 24)],
 }
 _stone_cache = {}
 
@@ -388,3 +413,132 @@ def equipment(mid, color, leggings=False):
         _box(g, 80, 32, 8, 24, 8)  # arm
         _box(g, 0, 32, 8, 24, 8)  # boot
     return paint(g, color)
+
+
+def _aiot_grid():
+    """A paxel on one haft: pick spike up-left, axe blade down-right, spade point straight ahead. Hard edges, no blending."""
+    g = new_grid()
+    d = ImageDraw.Draw(g)
+    # Pick spike: a long curved arm from the collar to the upper left.
+    d.polygon([(19, 9), (15, 6), (10, 4), (4, 3), (9, 6), (13, 9), (17, 13)], fill=BASE)
+    d.line([(5, 3), (10, 4), (15, 6), (19, 9)], fill=LIGHT)
+    d.line([(9, 6), (13, 9), (17, 13)], fill=LOW)
+    # Axe blade: a broad bearded blade to the lower right, with a bright cutting edge.
+    d.polygon([(20, 13), (22, 11), (25, 12), (30, 13), (31, 18), (30, 24), (26, 29), (25, 23), (23, 19), (21, 16)], fill=BASE)
+    d.line([(30, 13), (31, 18), (30, 24), (26, 29)], fill=SHINE)
+    d.line([(29, 14), (30, 18), (29, 23), (26, 27)], fill=LIGHT)
+    d.polygon([(21, 14), (24, 14), (25, 19), (25, 22), (23, 18)], fill=LOW)
+    # Spade point: past the collar, along the haft.
+    d.polygon([(21, 7), (23, 3), (29, 1), (30, 2), (28, 8), (24, 11)], fill=BASE)
+    d.line([(23, 4), (28, 2)], fill=SHINE)
+    d.line([(25, 10), (28, 7)], fill=LOW)
+    d.line([(24, 6), (27, 4)], fill=LIGHT)
+    return g
+
+
+def _aiot_handle():
+    g = new_grid()
+    d = ImageDraw.Draw(g)
+    d.line([(2, 28), (17, 13)], fill=BASE, width=2)
+    d.line([(3, 28), (18, 13)], fill=LOW)
+    d.line([(2, 27), (16, 13)], fill=LIGHT)
+    # Grip wraps stay inside the haft; a small pommel closes the end.
+    for k in range(4):
+        g.putpixel((5 + k * 2, 25 - k * 2), SHADOW)
+        g.putpixel((6 + k * 2, 25 - k * 2), SHADOW)
+    d.polygon([(1, 28), (3, 27), (4, 29), (2, 30)], fill=SHADOW)
+    return g
+
+
+def _aiot_collar():
+    g = new_grid()
+    d = ImageDraw.Draw(g)
+    d.polygon([(17, 10), (20, 8), (24, 11), (22, 14), (19, 15), (16, 13)], fill=BASE)
+    d.line([(17, 10), (20, 8)], fill=SHINE)
+    d.line([(17, 12), (20, 10), (23, 12)], fill=LIGHT)
+    d.line([(16, 13), (19, 15), (22, 14)], fill=SHADOW)
+    return g
+
+
+def aiot(color, handle_color):
+    """One outline around the whole tool, so the three heads read as one piece."""
+    parts = [(_aiot_handle(), handle_color), (_aiot_grid(), color), (_aiot_collar(), handle_color)]
+    mask = new_grid()
+    for g, _ in parts:
+        mask.paste(g, (0, 0), g.point(lambda v: 0 if v == CLEAR else 255))
+    edge = outline(mask.copy())
+    out = Image.new("RGBA", (32, 32))
+    for g, c in parts:
+        out.alpha_composite(paint(g, c))
+    dark = paint(edge.point(lambda v: OUTLINE if v == OUTLINE else CLEAR), color)
+    out.alpha_composite(dark)
+    return out
+
+
+_DARK, _MID, _LIGHT, _HIGH, _LINE = (58, 38, 22), (92, 62, 36), (128, 90, 54), (160, 118, 74), (34, 22, 14)
+
+
+def _planks(px, seed=0):
+    """Hard-edged planks: dark gaps every 8 rows, a knot or two, no noise."""
+    for y in range(32):
+        for x in range(32):
+            band = (y + seed) // 8
+            shift = 11 * band
+            row = (y + seed) % 8
+            if row == 7 or (x + shift) % 16 == 15:
+                px[x, y] = (*_DARK, 255)
+            elif row == 0:
+                px[x, y] = (*_HIGH, 255)
+            elif ((x + shift) * 5 + band * 3) % 7 == 0 and row in (2, 3, 5):
+                px[x, y] = (*_MID, 255)
+            else:
+                px[x, y] = (*_LIGHT, 255)
+
+
+def table_top():
+    """A dark frame round five by five clear cells."""
+    img = Image.new("RGBA", (32, 32), (*_LINE, 255))
+    px = img.load()
+    for r in range(5):
+        for c in range(5):
+            x0, y0 = 2 + c * 6, 2 + r * 6
+            for y in range(y0, y0 + 5):
+                for x in range(x0, x0 + 5):
+                    edge = x == x0 or y == y0
+                    px[x, y] = (*(_HIGH if edge else _LIGHT), 255)
+    return img
+
+
+def table_side():
+    """Planks with a hanging saw and a banded top rail."""
+    img = Image.new("RGBA", (32, 32))
+    px = img.load()
+    _planks(px)
+    for x in range(32):
+        for y in range(5):
+            px[x, y] = (*(_LINE if y == 4 else _DARK if y == 0 else _MID), 255)
+    steel, shine, dark = (176, 182, 192, 255), (226, 232, 240, 255), (92, 98, 110, 255)
+    # A saw: blade, teeth, grip.
+    for x in range(7, 25):
+        px[x, 13] = shine
+        for y in range(14, 18):
+            px[x, y] = steel
+        if x % 2:
+            px[x, 18] = dark
+    for y in range(11, 21):
+        for x in range(4, 7):
+            px[x, y] = (*_LINE, 255) if x == 4 or y in (11, 20) else (*_HIGH, 255)
+    # A hammer on the rail below it.
+    for x in range(10, 22):
+        px[x, 26] = (*_HIGH, 255)
+        px[x, 27] = (*_DARK, 255)
+    for y in range(23, 30):
+        for x in range(21, 26):
+            px[x, y] = shine if y == 23 else dark if y == 29 else steel
+    return img
+
+
+def table_bottom():
+    img = Image.new("RGBA", (32, 32))
+    _planks(img.load(), 4)
+    return img

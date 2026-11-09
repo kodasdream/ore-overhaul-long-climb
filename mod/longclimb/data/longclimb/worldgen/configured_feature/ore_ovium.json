@@ -1,21 +1,14 @@
 {
  "type": "minecraft:ore",
- "size": 4,
+ "size": 10,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:stone_ore_replaceables"
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:diorite"
    },
-   "state": "longclimb:ovium_ore"
-  },
-  {
-   "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:deepslate_ore_replaceables"
-   },
-   "state": "longclimb:deepslate_ovium_ore"
+   "state": "longclimb:diorite_ovium_ore"
   }
  ]
 }

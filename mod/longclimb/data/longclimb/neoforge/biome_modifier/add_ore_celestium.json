@@ -1,0 +1,12 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:snowy_plains",
+  "minecraft:ice_spikes",
+  "minecraft:snowy_slopes",
+  "minecraft:frozen_peaks",
+  "minecraft:snowy_taiga"
+ ],
+ "features": "longclimb:ore_celestium",
+ "step": "underground_ores"
+}

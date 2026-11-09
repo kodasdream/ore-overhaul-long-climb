@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:ametrine_gem"
+ },
+ "result": {
+  "id": "longclimb:ametrine_block",
+  "count": 1
+ }
+}

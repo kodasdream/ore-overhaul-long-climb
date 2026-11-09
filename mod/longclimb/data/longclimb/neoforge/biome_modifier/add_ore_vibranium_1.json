@@ -1,0 +1,12 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:desert",
+  "minecraft:windswept_hills",
+  "minecraft:windswept_gravelly_hills",
+  "minecraft:windswept_forest",
+  "minecraft:savanna_plateau"
+ ],
+ "features": "longclimb:ore_vibranium_1",
+ "step": "underground_ores"
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:painite_pickaxe",
+  "A": "longclimb:painite_axe",
+  "S": "longclimb:painite_shovel",
+  "O": "longclimb:painite_hoe",
+  "W": "longclimb:painite_sword",
+  "M": "longclimb:painite_gem"
+ },
+ "result": {
+  "id": "longclimb:painite_aiot",
+  "count": 1
+ }
+}

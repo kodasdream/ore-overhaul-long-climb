@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:ruby_block",
+  "T": "longclimb:ruby_pickaxe",
+  "H": "longclimb:platinum_block"
+ },
+ "result": {
+  "id": "longclimb:ruby_hammer",
+  "count": 1
+ }
+}

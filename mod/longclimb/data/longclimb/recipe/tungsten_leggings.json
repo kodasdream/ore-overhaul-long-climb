@@ -2,9 +2,11 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MMM",
-  "M M",
-  "M M"
+  "MMMMM",
+  "M   M",
+  "M   M",
+  "M   M",
+  "M   M"
  ],
  "key": {
   "M": "longclimb:tungsten_ingot"

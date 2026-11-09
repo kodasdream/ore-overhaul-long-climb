@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:anti_humoranium_gem"
+ },
+ "result": {
+  "id": "longclimb:anti_humoranium_block",
+  "count": 1
+ }
+}

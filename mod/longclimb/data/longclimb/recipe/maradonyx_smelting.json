@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_maradonyx",
+ "result": {
+  "id": "longclimb:maradonyx_ingot"
+ },
+ "experience": 2.15,
+ "cookingtime": 570
+}

@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:voidsteel_block",
+  "T": "longclimb:voidsteel_shovel",
+  "H": "longclimb:astralite_block",
+  "G": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:voidsteel_excavator",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ametrine_block"
+ ],
+ "result": {
+  "id": "longclimb:ametrine_gem",
+  "count": 9
+ }
+}

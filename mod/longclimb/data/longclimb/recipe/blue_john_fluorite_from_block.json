@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:blue_john_fluorite_block"
+ ],
+ "result": {
+  "id": "longclimb:blue_john_fluorite_gem",
+  "count": 9
+ }
+}

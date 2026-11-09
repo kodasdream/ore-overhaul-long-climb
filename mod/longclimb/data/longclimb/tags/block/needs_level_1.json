@@ -1,6 +1,9 @@
 {
  "values": [
   "#minecraft:needs_stone_tool",
+  "longclimb:amber_block",
+  "longclimb:amber_ore",
+  "longclimb:deepslate_amber_ore",
   "longclimb:deepslate_tin_ore",
   "longclimb:tin_block",
   "longclimb:tin_ore",

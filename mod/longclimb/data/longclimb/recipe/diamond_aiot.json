@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:diamond_pickaxe",
+  "A": "minecraft:diamond_axe",
+  "S": "minecraft:diamond_shovel",
+  "O": "minecraft:diamond_hoe",
+  "W": "minecraft:diamond_sword",
+  "M": "minecraft:diamond"
+ },
+ "result": {
+  "id": "longclimb:diamond_aiot",
+  "count": 1
+ }
+}

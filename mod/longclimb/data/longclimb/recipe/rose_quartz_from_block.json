@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:rose_quartz_block"
+ ],
+ "result": {
+  "id": "longclimb:rose_quartz_gem",
+  "count": 9
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:sulfur_block"
+ ],
+ "result": {
+  "id": "longclimb:sulfur_gem",
+  "count": 9
+ }
+}

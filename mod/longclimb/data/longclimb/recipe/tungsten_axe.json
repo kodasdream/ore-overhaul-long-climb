@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:tungsten_ingot",
-  "H": "longclimb:cobalt_ingot"
+  "H": "#longclimb:materials_level_17",
+  "G": "#longclimb:gems_level_15"
  },
  "result": {
   "id": "longclimb:tungsten_axe",

@@ -2,7 +2,7 @@
  "template": "minecraft:iron_hoe",
  "rarity": "common",
  "components": {
-  "minecraft:max_damage": 119,
+  "minecraft:max_damage": 158,
   "minecraft:attribute_modifiers": [
    {
     "type": "minecraft:attack_damage",
@@ -30,7 +30,7 @@
     },
     {
      "blocks": "#minecraft:mineable/hoe",
-     "speed": 3.46,
+     "speed": 4.47,
      "correct_for_drops": true
     }
    ]

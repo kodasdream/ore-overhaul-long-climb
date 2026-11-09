@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:void_crystal_pickaxe",
+  "A": "longclimb:void_crystal_axe",
+  "S": "longclimb:void_crystal_shovel",
+  "O": "longclimb:void_crystal_hoe",
+  "W": "longclimb:void_crystal_sword",
+  "M": "longclimb:void_crystal_gem"
+ },
+ "result": {
+  "id": "longclimb:void_crystal_aiot",
+  "count": 1
+ }
+}

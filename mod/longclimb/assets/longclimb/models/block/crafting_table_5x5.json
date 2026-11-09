@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/cube_bottom_top",
+ "textures": {
+  "top": "longclimb:block/crafting_table_5x5_top",
+  "side": "longclimb:block/crafting_table_5x5_side",
+  "bottom": "longclimb:block/crafting_table_5x5_bottom"
+ }
+}

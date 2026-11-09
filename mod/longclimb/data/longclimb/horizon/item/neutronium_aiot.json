@@ -1,0 +1,62 @@
+{
+ "template": "minecraft:iron_axe",
+ "rarity": "epic",
+ "components": {
+  "minecraft:max_damage": 24430,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_39",
+     "correct_for_drops": false
+    },
+    {
+     "blocks": "#minecraft:mineable/pickaxe",
+     "speed": 14.51,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/axe",
+     "speed": 14.51,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/shovel",
+     "speed": 14.51,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/hoe",
+     "speed": 14.51,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "minecraft:cobweb",
+     "speed": 15.0,
+     "correct_for_drops": true
+    }
+   ]
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 16.25,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -2.4,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:weapon": {
+   "item_damage_per_attack": 1
+  },
+  "minecraft:repairable": {
+   "items": "longclimb:neutronium_ingot"
+  }
+ }
+}

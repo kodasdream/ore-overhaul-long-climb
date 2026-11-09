@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:primordium_ingot",
-  "H": "longclimb:singularite_gem"
+  "H": "#longclimb:materials_level_47",
+  "G": "#longclimb:gems_level_47"
  },
  "result": {
   "id": "longclimb:primordium_axe",

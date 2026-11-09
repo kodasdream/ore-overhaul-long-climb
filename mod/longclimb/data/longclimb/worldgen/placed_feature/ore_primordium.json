@@ -2,8 +2,8 @@
  "feature": "longclimb:ore_primordium",
  "placement": [
   {
-   "type": "minecraft:rarity_filter",
-   "chance": 64
+   "type": "minecraft:count",
+   "count": 3
   },
   {
    "type": "minecraft:in_square"
@@ -16,7 +16,7 @@
      "absolute": -64
     },
     "max_inclusive": {
-     "absolute": -62
+     "absolute": -60
     }
    }
   },

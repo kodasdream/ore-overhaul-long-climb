@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:pink_diamond_block"
+ ],
+ "result": {
+  "id": "longclimb:pink_diamond_gem",
+  "count": 9
+ }
+}

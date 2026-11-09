@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:pyrite_block"
+ ],
+ "result": {
+  "id": "longclimb:pyrite_gem",
+  "count": 9
+ }
+}

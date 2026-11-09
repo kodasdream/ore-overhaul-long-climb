@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:amber_gem"
+ },
+ "result": {
+  "id": "longclimb:amber_block",
+  "count": 1
+ }
+}

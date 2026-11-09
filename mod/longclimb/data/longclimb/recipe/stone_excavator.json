@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:smooth_stone",
+  "T": "minecraft:stone_shovel",
+  "H": "#minecraft:logs"
+ },
+ "result": {
+  "id": "longclimb:stone_excavator",
+  "count": 1
+ }
+}

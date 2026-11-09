@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:yurium_ingot"
+ },
+ "result": {
+  "id": "longclimb:yurium_block",
+  "count": 1
+ }
+}

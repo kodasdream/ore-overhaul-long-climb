@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:gold_block",
+  "T": "minecraft:golden_shovel",
+  "H": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "longclimb:golden_excavator",
+  "count": 1
+ }
+}

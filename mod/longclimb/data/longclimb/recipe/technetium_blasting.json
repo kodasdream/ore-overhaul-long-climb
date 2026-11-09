@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_technetium",
+ "result": {
+  "id": "longclimb:technetium_ingot"
+ },
+ "experience": 1.45,
+ "cookingtime": 215
+}

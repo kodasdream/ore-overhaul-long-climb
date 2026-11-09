@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:spinel_block"
+ ],
+ "result": {
+  "id": "longclimb:spinel_gem",
+  "count": 9
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:chaotic_pickaxe",
+  "A": "longclimb:chaotic_axe",
+  "S": "longclimb:chaotic_shovel",
+  "O": "longclimb:chaotic_hoe",
+  "W": "longclimb:chaotic_sword",
+  "M": "longclimb:chaotic_ingot"
+ },
+ "result": {
+  "id": "longclimb:chaotic_aiot",
+  "count": 1
+ }
+}

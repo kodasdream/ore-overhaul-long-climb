@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "longclimb:block/rainbow_opal_ore"
+ }
+}

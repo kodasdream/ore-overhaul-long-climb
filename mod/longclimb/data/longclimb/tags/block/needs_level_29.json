@@ -1,7 +1,15 @@
 {
  "values": [
+  "longclimb:chloronium_block",
+  "longclimb:chloronium_ore",
+  "longclimb:deepslate_chloronium_ore",
+  "longclimb:deepslate_prism_ore",
   "longclimb:draconium_block",
   "longclimb:end_draconium_ore",
+  "longclimb:nether_seaborgium_ore",
+  "longclimb:prism_block",
+  "longclimb:prism_ore",
+  "longclimb:seaborgium_block",
   {
    "id": "#ddsstinkers:needs_level_29",
    "required": false

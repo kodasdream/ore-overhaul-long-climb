@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:celestium_block",
+  "T": "longclimb:celestium_shovel",
+  "H": "longclimb:cosmite_block",
+  "G": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:celestium_excavator",
+  "count": 1
+ }
+}

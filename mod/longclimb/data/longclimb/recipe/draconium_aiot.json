@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:draconium_pickaxe",
+  "A": "longclimb:draconium_axe",
+  "S": "longclimb:draconium_shovel",
+  "O": "longclimb:draconium_hoe",
+  "W": "longclimb:draconium_sword",
+  "M": "longclimb:draconium_ingot"
+ },
+ "result": {
+  "id": "longclimb:draconium_aiot",
+  "count": 1
+ }
+}

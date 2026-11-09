@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:palintinium_block"
+ ],
+ "result": {
+  "id": "longclimb:palintinium_ingot",
+  "count": 9
+ }
+}

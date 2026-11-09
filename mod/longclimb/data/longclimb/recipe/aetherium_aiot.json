@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:aetherium_pickaxe",
+  "A": "longclimb:aetherium_axe",
+  "S": "longclimb:aetherium_shovel",
+  "O": "longclimb:aetherium_hoe",
+  "W": "longclimb:aetherium_sword",
+  "M": "longclimb:aetherium_ingot"
+ },
+ "result": {
+  "id": "longclimb:aetherium_aiot",
+  "count": 1
+ }
+}

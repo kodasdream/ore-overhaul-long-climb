@@ -2,8 +2,8 @@
  "feature": "longclimb:ore_tanzanite",
  "placement": [
   {
-   "type": "minecraft:rarity_filter",
-   "chance": 5
+   "type": "minecraft:count",
+   "count": 8
   },
   {
    "type": "minecraft:in_square"
@@ -16,7 +16,7 @@
      "absolute": 100
     },
     "max_inclusive": {
-     "absolute": 120
+     "absolute": 123
     }
    }
   },

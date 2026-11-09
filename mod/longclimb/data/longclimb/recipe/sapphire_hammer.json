@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:sapphire_block",
+  "T": "longclimb:sapphire_pickaxe",
+  "H": "longclimb:ruby_block",
+  "G": "longclimb:ruby_gem"
+ },
+ "result": {
+  "id": "longclimb:sapphire_hammer",
+  "count": 1
+ }
+}

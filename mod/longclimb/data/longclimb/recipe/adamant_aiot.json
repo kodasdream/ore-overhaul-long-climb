@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:adamant_pickaxe",
+  "A": "longclimb:adamant_axe",
+  "S": "longclimb:adamant_shovel",
+  "O": "longclimb:adamant_hoe",
+  "W": "longclimb:adamant_sword",
+  "M": "longclimb:adamant_ingot"
+ },
+ "result": {
+  "id": "longclimb:adamant_aiot",
+  "count": 1
+ }
+}

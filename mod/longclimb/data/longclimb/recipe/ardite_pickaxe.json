@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:ardite_ingot",
-  "H": "longclimb:sapphire_gem",
-  "G": "longclimb:sapphire_gem"
+  "H": "#longclimb:materials_level_15",
+  "G": "#longclimb:gems_level_15"
  },
  "result": {
   "id": "longclimb:ardite_pickaxe",

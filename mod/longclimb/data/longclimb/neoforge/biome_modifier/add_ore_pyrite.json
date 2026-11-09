@@ -1,0 +1,8 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:nether_wastes"
+ ],
+ "features": "longclimb:ore_pyrite",
+ "step": "underground_ores"
+}

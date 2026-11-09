@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:iron_block",
+ "properties": {
+  "hardness": 11.75,
+  "explosion_resistance": 21.5
+ },
+ "components": {
+  "minecraft:rarity": "rare"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:black_opal_pickaxe",
+  "A": "longclimb:black_opal_axe",
+  "S": "longclimb:black_opal_shovel",
+  "O": "longclimb:black_opal_hoe",
+  "W": "longclimb:black_opal_sword",
+  "M": "longclimb:black_opal_gem"
+ },
+ "result": {
+  "id": "longclimb:black_opal_aiot",
+  "count": 1
+ }
+}

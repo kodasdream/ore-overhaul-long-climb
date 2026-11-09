@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:ammolite_block"
+ ],
+ "result": {
+  "id": "longclimb:ammolite_gem",
+  "count": 9
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:primordium_pickaxe",
+  "A": "longclimb:primordium_axe",
+  "S": "longclimb:primordium_shovel",
+  "O": "longclimb:primordium_hoe",
+  "W": "longclimb:primordium_sword",
+  "M": "longclimb:primordium_ingot"
+ },
+ "result": {
+  "id": "longclimb:primordium_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:ruby_pickaxe",
+  "A": "longclimb:ruby_axe",
+  "S": "longclimb:ruby_shovel",
+  "O": "longclimb:ruby_hoe",
+  "W": "longclimb:ruby_sword",
+  "M": "longclimb:ruby_gem"
+ },
+ "result": {
+  "id": "longclimb:ruby_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "template": "minecraft:iron_axe",
+ "rarity": "common",
+ "components": {
+  "minecraft:max_damage": 865,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_4",
+     "correct_for_drops": false
+    },
+    {
+     "blocks": "#minecraft:mineable/pickaxe",
+     "speed": 4.73,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/axe",
+     "speed": 4.73,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/shovel",
+     "speed": 4.73,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/hoe",
+     "speed": 4.73,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "minecraft:cobweb",
+     "speed": 15.0,
+     "correct_for_drops": true
+    }
+   ]
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 5.18,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -2.4,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:weapon": {
+   "item_damage_per_attack": 1
+  },
+  "minecraft:repairable": {
+   "items": "longclimb:aluminum_ingot"
+  }
+ }
+}

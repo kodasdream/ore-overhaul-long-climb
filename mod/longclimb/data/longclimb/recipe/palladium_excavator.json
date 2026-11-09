@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:palladium_block",
+  "T": "longclimb:palladium_shovel",
+  "H": "longclimb:tungsten_block",
+  "G": "longclimb:sapphire_gem"
+ },
+ "result": {
+  "id": "longclimb:palladium_excavator",
+  "count": 1
+ }
+}

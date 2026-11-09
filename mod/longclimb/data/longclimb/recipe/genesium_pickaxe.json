@@ -2,13 +2,15 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:genesium_ingot",
-  "H": "longclimb:omnium_gem",
+  "H": "#longclimb:materials_level_49",
   "G": "longclimb:omnium_gem"
  },
  "result": {

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:indigolite_block"
+ ],
+ "result": {
+  "id": "longclimb:indigolite_gem",
+  "count": 9
+ }
+}

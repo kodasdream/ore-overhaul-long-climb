@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:yurium_block"
+ ],
+ "result": {
+  "id": "longclimb:yurium_ingot",
+  "count": 9
+ }
+}

@@ -1,8 +1,18 @@
 {
  "values": [
+  "longclimb:deepslate_mystic_topaz_ore",
+  "longclimb:deepslate_niobium_ore",
   "longclimb:deepslate_palladium_ore",
+  "longclimb:deepslate_spinel_ore",
+  "longclimb:end_palladium_ore",
+  "longclimb:mystic_topaz_block",
+  "longclimb:mystic_topaz_ore",
+  "longclimb:niobium_block",
+  "longclimb:niobium_ore",
   "longclimb:palladium_block",
   "longclimb:palladium_ore",
+  "longclimb:spinel_block",
+  "longclimb:spinel_ore",
   {
    "id": "#ddsstinkers:needs_level_18",
    "required": false

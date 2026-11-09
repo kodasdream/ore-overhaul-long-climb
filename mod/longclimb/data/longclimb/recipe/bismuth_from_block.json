@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:bismuth_block"
+ ],
+ "result": {
+  "id": "longclimb:bismuth_ingot",
+  "count": 9
+ }
+}

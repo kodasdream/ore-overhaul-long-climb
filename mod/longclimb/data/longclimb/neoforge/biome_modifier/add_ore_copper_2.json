@@ -1,0 +1,8 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:dripstone_caves"
+ ],
+ "features": "longclimb:ore_copper_2",
+ "step": "underground_ores"
+}

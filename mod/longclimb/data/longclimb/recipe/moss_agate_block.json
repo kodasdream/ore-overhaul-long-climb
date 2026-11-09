@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:moss_agate_gem"
+ },
+ "result": {
+  "id": "longclimb:moss_agate_block",
+  "count": 1
+ }
+}

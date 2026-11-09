@@ -1,6 +1,8 @@
 {
  "values": [
   "longclimb:cosmite_block",
+  "longclimb:end_larimar_ore",
+  "longclimb:larimar_block",
   "longclimb:nether_cosmite_ore",
   {
    "id": "#ddsstinkers:needs_level_39",

@@ -1,5 +1,13 @@
 {
  "values": [
+  "longclimb:deepslate_holmium_ore",
+  "longclimb:deepslate_labradorite_ore",
+  "longclimb:holmium_block",
+  "longclimb:holmium_ore",
+  "longclimb:labradorite_block",
+  "longclimb:labradorite_ore",
+  "longclimb:nether_sunstone_ore",
+  "longclimb:sunstone_block",
   "minecraft:ancient_debris",
   {
    "id": "#ddsstinkers:needs_level_24",

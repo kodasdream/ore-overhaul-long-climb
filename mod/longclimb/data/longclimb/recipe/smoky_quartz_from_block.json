@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:smoky_quartz_block"
+ ],
+ "result": {
+  "id": "longclimb:smoky_quartz_gem",
+  "count": 9
+ }
+}

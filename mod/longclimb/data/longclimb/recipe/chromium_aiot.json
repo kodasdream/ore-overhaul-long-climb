@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:chromium_pickaxe",
+  "A": "longclimb:chromium_axe",
+  "S": "longclimb:chromium_shovel",
+  "O": "longclimb:chromium_hoe",
+  "W": "longclimb:chromium_sword",
+  "M": "longclimb:chromium_ingot"
+ },
+ "result": {
+  "id": "longclimb:chromium_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:smoky_quartz_gem"
+ },
+ "result": {
+  "id": "longclimb:smoky_quartz_block",
+  "count": 1
+ }
+}

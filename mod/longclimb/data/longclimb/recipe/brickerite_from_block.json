@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:brickerite_block"
+ ],
+ "result": {
+  "id": "longclimb:brickerite_gem",
+  "count": 9
+ }
+}

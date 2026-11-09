@@ -1,8 +1,10 @@
 {
  "values": [
-  "longclimb:deepslate_primordium_ore",
+  "longclimb:bedrock_primordium_ore",
+  "longclimb:deepslate_pink_ruby_ore",
+  "longclimb:pink_ruby_block",
+  "longclimb:pink_ruby_ore",
   "longclimb:primordium_block",
-  "longclimb:primordium_ore",
   {
    "id": "#ddsstinkers:needs_level_47",
    "required": false

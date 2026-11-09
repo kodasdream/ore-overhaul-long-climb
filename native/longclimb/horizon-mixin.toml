@@ -1,0 +1,267 @@
+[mod]
+id = "longclimb"
+version = "0.5.0"
+priority = 60
+
+# Reads Horizon's recipe tables, so it builds on this commit (the 2026-11-04 Nightly).
+[compatibility]
+horizon_revision = "6475f62f3c834b7489e1816bf47f47ea5eb2b879"
+
+[[module]]
+id = "table"
+file = "crates/horizon-client/src/game.rs"
+name = "longclimb_table"
+source = "table.rs"
+
+[[module]]
+id = "manual"
+file = "crates/horizon-client/src/game.rs"
+name = "longclimb_manual"
+source = "manual.rs"
+
+[[module]]
+id = "scale"
+file = "crates/horizon-items/src/recipe_filters.rs"
+name = "longclimb_scale"
+source = "scale.rs"
+visibility = "pub"
+
+[[injection]]
+id = "scale_recipes"
+kind = "HEAD"
+target = "horizon_items::recipe_filters::RecipeFilters::apply"
+helper = "hooks/scale.rs"
+bindings = [
+  { name = "id", ty = "&str", value = "id" },
+  { name = "recipe", ty = "&mut serde_json::Value", value = "&mut *recipe" },
+]
+
+[[injection]]
+id = "block_entity"
+hook = "block_entity"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/block_entity.rs"
+bindings = [
+  { name = "block", ty = "&str", value = "block" },
+  { name = "entity", ty = "&mut Option<(String, horizon_world::nbt::Compound)>", value = "&mut *entity" },
+]
+
+[[injection]]
+id = "block_entity_ticks"
+hook = "block_entity_ticks"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/block_entity_ticks.rs"
+bindings = [
+  { name = "block", ty = "&str", value = "block" },
+  { name = "ticks", ty = "&mut bool", value = "&mut *ticks" },
+]
+
+[[injection]]
+id = "block_entity_tick"
+hook = "block_entity_tick"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/block_entity_tick.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "pos", ty = "[i32; 3]", value = "pos" },
+  { name = "entity", ty = "&mut horizon_client::containers::ModBlockEntity", value = "&mut *entity" },
+]
+
+[[injection]]
+id = "block_entity_container"
+hook = "block_entity_container"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/block_entity_container.rs"
+bindings = [
+  { name = "block", ty = "&str", value = "block" },
+  { name = "container", ty = "&mut Option<horizon_client::containers::ModContainer>", value = "&mut *container" },
+]
+
+[[injection]]
+id = "screen"
+hook = "screen"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/screen.rs"
+bindings = [
+  { name = "block", ty = "&str", value = "block" },
+  { name = "screen", ty = "&mut Option<crate::mod_api::NativeScreen>", value = "&mut *screen" },
+]
+
+[[injection]]
+id = "screen_draw"
+hook = "screen_draw"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/screen_draw.rs"
+bindings = [
+  { name = "game", ty = "&crate::game::Game<'_>", value = "&*self" },
+  { name = "block", ty = "&str", value = "block" },
+  { name = "batch", ty = "&mut horizon_client::hud::HudBatch", value = "&mut *batch" },
+  { name = "origin", ty = "[f32; 2]", value = "origin" },
+]
+
+[[injection]]
+id = "destroy_block"
+hook = "destroy_block"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/destroy_block.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "pos", ty = "[i32; 3]", value = "pos" },
+  { name = "state", ty = "horizon_world::registry::BlockStateId", value = "state" },
+  { name = "canceled", ty = "&mut bool", value = "&mut *canceled" },
+]
+
+[[injection]]
+id = "player_tick"
+hook = "player_tick"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/player_tick.rs"
+bindings = [{ name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" }]
+
+[[injection]]
+id = "use_item_on"
+hook = "use_item_on"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/use_item_on.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "stack", ty = "&horizon_client::items::ItemStack", value = "stack" },
+  { name = "pos", ty = "[i32; 3]", value = "pos" },
+  { name = "face", ty = "[i32; 3]", value = "face" },
+  { name = "claimed", ty = "&mut bool", value = "&mut *claimed" },
+]
+
+[[injection]]
+id = "crafter_click"
+kind = "HEAD"
+cancellable = true
+target = "horizon_client::game::machines::crafter::Game<'_>::crafter_click"
+helper = "hooks/crafter_click.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "slot", ty = "usize", value = "slot" },
+  { name = "shift", ty = "bool", value = "shift" },
+]
+
+[[injection]]
+id = "known_recipes"
+kind = "HEAD"
+cancellable = true
+target = "horizon_client::game::native_hooks::Game<'_>::native_known_recipes"
+helper = "hooks/known_recipes.rs"
+bindings = [{ name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" }]
+
+[[injection]]
+id = "recipe_place"
+kind = "HEAD"
+cancellable = true
+target = "horizon_client::game::native_recipes::Game<'_>::recipe_place"
+helper = "hooks/recipe_place.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "book_id", ty = "i32", value = "book_id" },
+  { name = "all", ty = "bool", value = "all" },
+]
+
+[[injection]]
+id = "place_recipe"
+kind = "HEAD"
+cancellable = true
+target = "horizon_client::game::recipe_book::Game<'_>::place_recipe"
+helper = "hooks/place_recipe.rs"
+bindings = [
+  { name = "game", ty = "&crate::game::Game<'_>", value = "&*self" },
+  { name = "entry_index", ty = "usize", value = "entry_index" },
+]
+
+[[injection]]
+id = "panel_page"
+kind = "HEAD"
+cancellable = true
+target = "horizon_client::game::native_hooks::Game<'_>::native_panel_recipes"
+helper = "hooks/panel_page.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "mod_id", ty = "&str", value = "mod_id" },
+  { name = "title", ty = "&str", value = "title" },
+  { name = "tabs", ty = "&[NativeStack]", value = "&tabs" },
+  { name = "tab", ty = "u32", value = "tab" },
+  { name = "views", ty = "&[NativeRecipeView]", value = "&views" },
+]
+
+[[injection]]
+id = "before_removal"
+kind = "HEAD"
+target = "horizon_client::game::spill::GameLevel<'_>::remove_entity"
+helper = "hooks/before_removal.rs"
+bindings = [
+  { name = "level", ty = "&mut crate::game::GameLevel<'_>", value = "&mut *self" },
+  { name = "pos", ty = "BlockPos", value = "pos" },
+]
+
+[[injection]]
+id = "manual_key"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_frame"
+helper = "hooks/manual_key.rs"
+bindings = [{ name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" }]
+
+[[injection]]
+id = "listed"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_mods"
+helper = "hooks/listed.rs"
+bindings = [{ name = "mods", ty = "&mut Vec<crate::game::native_hooks::NativeMod>", value = "&mut *mods" }]
+
+[[injection]]
+id = "manual_tap"
+hook = "input_key"
+hook_version = 1
+kind = "HEAD"
+helper = "hooks/manual_tap.rs"
+bindings = [
+  { name = "game", ty = "&crate::game::Game<'_>", value = "&*self" },
+  { name = "event", ty = "&winit::event::KeyEvent", value = "event" },
+]
+
+[[injection]]
+id = "clock"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_hud"
+helper = "hooks/clock.rs"
+bindings = [
+  { name = "game", ty = "&crate::game::Game<'_>", value = "&*self" },
+  { name = "batch", ty = "&mut horizon_client::hud::HudBatch", value = "&mut *batch" },
+  { name = "corners", ty = "&mut horizon_client::extras_hud::Corners", value = "&mut *corners" },
+]
+
+[[injection]]
+id = "settings"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_settings"
+helper = "hooks/settings.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "mod_id", ty = "&str", value = "mod_id" },
+  { name = "buttons", ty = "&mut Vec<String>", value = "&mut *buttons" },
+]
+
+[[injection]]
+id = "settings_click"
+kind = "HEAD"
+target = "horizon_client::game::native_hooks::Game<'_>::native_settings_click"
+helper = "hooks/settings_click.rs"
+bindings = [
+  { name = "game", ty = "&mut crate::game::Game<'_>", value = "&mut *self" },
+  { name = "mod_id", ty = "&str", value = "mod_id" },
+  { name = "button", ty = "usize", value = "button" },
+]

@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:adamant_ingot",
-  "H": "longclimb:vibranium_ingot",
-  "G": "longclimb:tanzanite_gem"
+  "H": "#longclimb:materials_level_27",
+  "G": "#longclimb:gems_level_23"
  },
  "result": {
   "id": "longclimb:adamant_pickaxe",

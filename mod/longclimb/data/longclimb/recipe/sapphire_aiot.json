@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:sapphire_pickaxe",
+  "A": "longclimb:sapphire_axe",
+  "S": "longclimb:sapphire_shovel",
+  "O": "longclimb:sapphire_hoe",
+  "W": "longclimb:sapphire_sword",
+  "M": "longclimb:sapphire_gem"
+ },
+ "result": {
+  "id": "longclimb:sapphire_aiot",
+  "count": 1
+ }
+}

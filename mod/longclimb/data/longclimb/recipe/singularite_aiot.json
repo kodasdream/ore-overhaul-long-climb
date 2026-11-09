@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:singularite_pickaxe",
+  "A": "longclimb:singularite_axe",
+  "S": "longclimb:singularite_shovel",
+  "O": "longclimb:singularite_hoe",
+  "W": "longclimb:singularite_sword",
+  "M": "longclimb:singularite_gem"
+ },
+ "result": {
+  "id": "longclimb:singularite_aiot",
+  "count": 1
+ }
+}

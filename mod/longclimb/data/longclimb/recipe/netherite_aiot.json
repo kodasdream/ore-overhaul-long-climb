@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:netherite_pickaxe",
+  "A": "minecraft:netherite_axe",
+  "S": "minecraft:netherite_shovel",
+  "O": "minecraft:netherite_hoe",
+  "W": "minecraft:netherite_sword",
+  "M": "minecraft:netherite_ingot"
+ },
+ "result": {
+  "id": "longclimb:netherite_aiot",
+  "count": 1
+ }
+}

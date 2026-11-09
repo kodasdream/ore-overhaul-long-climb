@@ -1,7 +1,15 @@
 {
  "values": [
+  "longclimb:alexandrite_block",
+  "longclimb:alexandrite_ore",
+  "longclimb:carnotite_block",
   "longclimb:chromium_block",
+  "longclimb:deepslate_alexandrite_ore",
+  "longclimb:deepslate_tantalum_ore",
+  "longclimb:nether_carnotite_ore",
   "longclimb:nether_chromium_ore",
+  "longclimb:tantalum_block",
+  "longclimb:tantalum_ore",
   {
    "id": "#ddsstinkers:needs_level_21",
    "required": false

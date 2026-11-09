@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:yellow_onyx_block"
+ ],
+ "result": {
+  "id": "longclimb:yellow_onyx_gem",
+  "count": 9
+ }
+}

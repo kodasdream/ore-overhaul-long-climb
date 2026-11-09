@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:zinc_pickaxe",
+  "A": "longclimb:zinc_axe",
+  "S": "longclimb:zinc_shovel",
+  "O": "longclimb:zinc_hoe",
+  "W": "longclimb:zinc_sword",
+  "M": "longclimb:zinc_ingot"
+ },
+ "result": {
+  "id": "longclimb:zinc_aiot",
+  "count": 1
+ }
+}

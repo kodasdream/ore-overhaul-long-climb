@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:obsidiorite_block"
+ ],
+ "result": {
+  "id": "longclimb:obsidiorite_ingot",
+  "count": 9
+ }
+}

@@ -32,6 +32,12 @@ SOFTWARE.
 
 Ingots, gems, crystals, raw ores, ore blocks, storage blocks and armor are drawn by `tools/generator/art.py` for this mod. No textures, code or data from Minecraft, Mojang or Microsoft are included.
 
+## The Age of Ores
+
+124 of the ores (tiers 1 to 50, beside each tier's ladder ore) are the ones *The Age of Ores (Crystalcraft Unlimited Java)* by Lcs128 adds, with the places it spawns them: their names, which dimension and biomes, and whether each is a metal or a gem. That mod is All Rights Reserved, so none of its textures, code or data files are in this repo or its releases. The art here is drawn by `tools/generator/art.py` in each ore's colour.
+
+`tools/pack/aoo_private.py` can build a resource pack from a copy of that mod you downloaded yourself, for your own game. Don't share the pack it makes.
+
 ## Material names and starting stats
 
 The list of materials and many starting stats come from the Tinkers setup in the Dungeons, Dragons and Space Shuttles 1.12.2 modpack, which draws on these mods: Tinkers' Construct, TAIGA, Thermal Foundation, NuclearCraft, TechReborn, Mekanism, Immersive Engineering and Draconic Evolution. No code or assets from them are used, apart from the Tinkers textures above. If you made one of these and want a name or number changed, please open an issue.

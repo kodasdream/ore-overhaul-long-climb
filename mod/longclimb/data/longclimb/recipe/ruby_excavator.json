@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:ruby_block",
+  "T": "longclimb:ruby_shovel",
+  "H": "longclimb:platinum_block"
+ },
+ "result": {
+  "id": "longclimb:ruby_excavator",
+  "count": 1
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "template": "minecraft:iron_pickaxe",
+ "rarity": "epic",
+ "components": {
+  "minecraft:max_damage": 15068,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_35",
+     "correct_for_drops": false
+    },
+    {
+     "blocks": "#minecraft:mineable/pickaxe",
+     "speed": 5.12,
+     "correct_for_drops": true
+    }
+   ]
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 13.57,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -3.2,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:repairable": {
+   "items": "longclimb:starsteel_ingot"
+  }
+ }
+}

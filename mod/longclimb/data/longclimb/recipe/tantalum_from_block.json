@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:tantalum_block"
+ ],
+ "result": {
+  "id": "longclimb:tantalum_ingot",
+  "count": 9
+ }
+}

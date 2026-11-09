@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:celestium_pickaxe",
+  "A": "longclimb:celestium_axe",
+  "S": "longclimb:celestium_shovel",
+  "O": "longclimb:celestium_hoe",
+  "W": "longclimb:celestium_sword",
+  "M": "longclimb:celestium_ingot"
+ },
+ "result": {
+  "id": "longclimb:celestium_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:vibranium_pickaxe",
+  "A": "longclimb:vibranium_axe",
+  "S": "longclimb:vibranium_shovel",
+  "O": "longclimb:vibranium_hoe",
+  "W": "longclimb:vibranium_sword",
+  "M": "longclimb:vibranium_ingot"
+ },
+ "result": {
+  "id": "longclimb:vibranium_aiot",
+  "count": 1
+ }
+}

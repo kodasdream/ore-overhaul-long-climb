@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:block",
+ "random_sequence": "longclimb:blocks/fire_opal_block",
+ "pools": [
+  {
+   "rolls": 1,
+   "condition": {
+    "type": "minecraft:survives_explosion"
+   },
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "longclimb:fire_opal_block"
+    }
+   ]
+  }
+ ]
+}

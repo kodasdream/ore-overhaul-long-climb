@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_lithium",
+ "result": {
+  "id": "longclimb:lithium_ingot"
+ },
+ "experience": 0.45,
+ "cookingtime": 230
+}

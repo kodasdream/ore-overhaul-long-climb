@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:stibnite_block"
+ ],
+ "result": {
+  "id": "longclimb:stibnite_gem",
+  "count": 9
+ }
+}

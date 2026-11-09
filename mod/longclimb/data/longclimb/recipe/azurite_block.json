@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:azurite_gem"
+ },
+ "result": {
+  "id": "longclimb:azurite_block",
+  "count": 1
+ }
+}

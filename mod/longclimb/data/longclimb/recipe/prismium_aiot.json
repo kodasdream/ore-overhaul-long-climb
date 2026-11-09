@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:prismium_pickaxe",
+  "A": "longclimb:prismium_axe",
+  "S": "longclimb:prismium_shovel",
+  "O": "longclimb:prismium_hoe",
+  "W": "longclimb:prismium_sword",
+  "M": "longclimb:prismium_gem"
+ },
+ "result": {
+  "id": "longclimb:prismium_aiot",
+  "count": 1
+ }
+}

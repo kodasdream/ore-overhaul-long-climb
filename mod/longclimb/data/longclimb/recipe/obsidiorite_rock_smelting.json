@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:obsidiorite_rock",
+ "result": {
+  "id": "longclimb:obsidiorite_ingot"
+ },
+ "experience": 1.0,
+ "cookingtime": 300
+}

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_zirconium",
+ "result": {
+  "id": "longclimb:zirconium_ingot"
+ },
+ "experience": 1.15,
+ "cookingtime": 370
+}

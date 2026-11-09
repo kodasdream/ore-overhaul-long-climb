@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:omnium_pickaxe",
+  "A": "longclimb:omnium_axe",
+  "S": "longclimb:omnium_shovel",
+  "O": "longclimb:omnium_hoe",
+  "W": "longclimb:omnium_sword",
+  "M": "longclimb:omnium_gem"
+ },
+ "result": {
+  "id": "longclimb:omnium_aiot",
+  "count": 1
+ }
+}

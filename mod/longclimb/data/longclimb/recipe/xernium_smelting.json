@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_xernium",
+ "result": {
+  "id": "longclimb:xernium_ingot"
+ },
+ "experience": 2.75,
+ "cookingtime": 690
+}

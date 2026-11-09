@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:genesium_block",
+  "T": "longclimb:genesium_pickaxe",
+  "H": "longclimb:omnium_block",
+  "G": "longclimb:omnium_gem"
+ },
+ "result": {
+  "id": "longclimb:genesium_hammer",
+  "count": 1
+ }
+}

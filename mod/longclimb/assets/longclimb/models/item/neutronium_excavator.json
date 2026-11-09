@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/handheld",
+ "textures": {
+  "layer0": "longclimb:item/neutronium_excavator"
+ }
+}

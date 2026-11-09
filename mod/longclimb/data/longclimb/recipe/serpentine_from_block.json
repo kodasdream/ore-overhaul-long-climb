@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:serpentine_block"
+ ],
+ "result": {
+  "id": "longclimb:serpentine_gem",
+  "count": 9
+ }
+}

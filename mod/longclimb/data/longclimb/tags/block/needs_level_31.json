@@ -1,8 +1,16 @@
 {
  "values": [
+  "longclimb:deepslate_grandidierite_ore",
   "longclimb:deepslate_painite_ore",
+  "longclimb:deepslate_pitambari_neelam_ore",
+  "longclimb:grandidierite_block",
+  "longclimb:grandidierite_ore",
+  "longclimb:nether_yurium_ore",
   "longclimb:painite_block",
   "longclimb:painite_ore",
+  "longclimb:pitambari_neelam_block",
+  "longclimb:pitambari_neelam_ore",
+  "longclimb:yurium_block",
   {
    "id": "#ddsstinkers:needs_level_31",
    "required": false

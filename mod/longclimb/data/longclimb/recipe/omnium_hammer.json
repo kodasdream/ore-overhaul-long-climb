@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:omnium_block",
+  "T": "longclimb:omnium_pickaxe",
+  "H": "longclimb:primordium_block",
+  "G": "longclimb:singularite_gem"
+ },
+ "result": {
+  "id": "longclimb:omnium_hammer",
+  "count": 1
+ }
+}

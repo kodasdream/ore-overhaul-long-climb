@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:turquoise_gem"
+ },
+ "result": {
+  "id": "longclimb:turquoise_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:sardonyx_block"
+ ],
+ "result": {
+  "id": "longclimb:sardonyx_gem",
+  "count": 9
+ }
+}

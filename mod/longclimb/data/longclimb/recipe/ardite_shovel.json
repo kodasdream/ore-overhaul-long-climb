@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " H ",
-  " H "
+  " MMM ",
+  " MGM ",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:ardite_ingot",
-  "H": "longclimb:sapphire_gem"
+  "H": "#longclimb:materials_level_15",
+  "G": "#longclimb:gems_level_15"
  },
  "result": {
   "id": "longclimb:ardite_shovel",

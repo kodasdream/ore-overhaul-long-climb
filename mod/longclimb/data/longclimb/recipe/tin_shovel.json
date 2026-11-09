@@ -2,13 +2,15 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " H ",
-  " H "
+  " MMM ",
+  " MMM ",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:tin_ingot",
-  "H": "#minecraft:stone_tool_materials"
+  "H": "#longclimb:materials_level_1"
  },
  "result": {
   "id": "longclimb:tin_shovel",

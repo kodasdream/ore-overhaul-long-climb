@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:starsteel_pickaxe",
+  "A": "longclimb:starsteel_axe",
+  "S": "longclimb:starsteel_shovel",
+  "O": "longclimb:starsteel_hoe",
+  "W": "longclimb:starsteel_sword",
+  "M": "longclimb:starsteel_ingot"
+ },
+ "result": {
+  "id": "longclimb:starsteel_aiot",
+  "count": 1
+ }
+}

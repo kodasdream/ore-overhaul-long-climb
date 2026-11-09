@@ -1,0 +1,8 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:warped_forest"
+ ],
+ "features": "longclimb:ore_catseye",
+ "step": "underground_ores"
+}

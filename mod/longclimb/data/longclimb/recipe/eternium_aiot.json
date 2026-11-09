@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:eternium_pickaxe",
+  "A": "longclimb:eternium_axe",
+  "S": "longclimb:eternium_shovel",
+  "O": "longclimb:eternium_hoe",
+  "W": "longclimb:eternium_sword",
+  "M": "longclimb:eternium_ingot"
+ },
+ "result": {
+  "id": "longclimb:eternium_aiot",
+  "count": 1
+ }
+}

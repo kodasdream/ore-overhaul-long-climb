@@ -1,20 +1,20 @@
 # Ore Overhaul Long Climb
 
-A content mod for [Horizon](https://github.com/horizon-rust/horizon) (Minecraft: Java Edition 26.3 rewritten in Rust) that stretches mining into 50 ore tiers. Every ore needs a pickaxe from the tier below it. Diamond sits at tier 20, and 30 more tiers go far past it, through the Nether and the End.
+A mod for [Horizon](https://github.com/horizon-rust/horizon) (Minecraft: Java Edition 26.3 rewritten in Rust) that stretches mining into 50 ore tiers. Every ore needs a pickaxe from the tier below it. Diamond sits at tier 20, and 30 more tiers go far past it, through the Nether and the End.
 
 The goal is a very slow climb: around 70 hours to reach diamond gear. That number is a target and hasn't been measured yet.
 
 ![Armor and ores in game](docs/armor.png)
 
-**Status: early alpha.** Don't expect it to be balanced.
+**Status: alpha.** Don't expect it to be balanced.
 
 | In this version | Not yet |
 |---|---|
-| Ore tiers 1 to 50, tested in game with real pickaxes | The 5x5 crafting table (recipes are ordinary 3x3 for now) |
-| 61 new ores and metals generating in the Overworld, Nether and End | Recipe balance: most are placeholders |
-| Tools for each tier past stone, using vanilla's own at copper, iron, diamond and netherite | Pacing towards 70 hours |
-| Armor for every material, 32x32 art | Chest loot and villager trades still let you skip tiers |
-| Vanilla gear past stone now needs the tier below | Tougher mobs (planned to stay slight) |
+| Ore tiers 1 to 50, each with its ladder ore plus 1 to 4 more: 188 ores in all, in the Overworld, Nether and End | Pacing towards 70 hours (unmeasured) |
+| Tools and armor for every tier, hammers and excavators (3x3), and an AIOT per tier | Chest loot and villager trades still let you skip tiers |
+| A 5x5 crafting table: everything past the stone pickaxe needs it and 2 to 3 times the material, in the recipe's own shape | Tougher mobs (planned to stay slight) |
+| A manual (press B), a 24-hour clock under the minimap | |
+| Mining Tooltips: durability and mining level on every tool and ore | |
 
 [The full tier table](docs/tiers.md) lists each ore, where it generates and its stats. Stone counts as tier 1: a wooden pickaxe mines it, and a stone pickaxe mines tier 2. Wood is the starting tool.
 
@@ -22,14 +22,33 @@ The goal is a very slow climb: around 70 hours to reach diamond gear. That numbe
 
 ## Install
 
-You need Horizon's Nightly from 2026-11-04 or newer. Older builds refuse this mod.
+You need Horizon's Nightly from 2026-11-04 or newer.
 
-1. Download `longclimb-0.2.0.hmod` from [Releases](https://github.com/kodasdream/ore-overhaul-long-climb/releases).
-2. Put it in `horizon-mods/` inside your game folder (the one holding `options.txt`).
-3. In the game, open **Options → Mods** and turn it on.
-4. Restart the game and create a **new world**. Ores only change in newly generated terrain.
+1. Download from [Releases](https://github.com/kodasdream/ore-overhaul-long-climb/releases): `longclimb-0.5.0.hmod`, `longclimb-0.5.0.hnmod` and, if you want the tooltips, `miningtips-1.1.0.hnmod`.
+2. Put the `.hmod` in `horizon-mods/` and the `.hnmod` files in `horizon-native-mods/`, inside your game folder (the one holding `options.txt`).
+3. Build the game with them. Native mods run with full access to your computer, so read their source (it's in this repo, and inside each `.hnmod`) before you trust them:
 
-Horizon's docs say content mods work on LAN and dedicated servers when everyone has the same version. I haven't tested that with this mod yet.
+```bash
+horizon-launcher native-build --ignore-pins --trust-native-code
+```
+
+4. In the game, open **Options → Mods** and turn them on, then restart and create a **new world**. Ores only change in newly generated terrain.
+
+The `.hmod` alone gives you the ores, tiers, items and recipes, but not the 5x5 table, the 3x3 hammers, the manual or the clock: those need `longclimb-0.5.0.hnmod`.
+
+Horizon's docs say mods work on LAN and dedicated servers when everyone has the same version. I haven't tested that with this mod yet.
+
+## What's where
+
+- `mod/longclimb`: the content mod, as generated.
+- `native/longclimb`: the 5x5 table, the recipe rewrite, hammers and excavators, AIOT right clicks, the manual and the clock.
+- `native/miningtips`: Mining Tooltips, a separate mod.
+- `tools/generator`: writes `mod/` from one table (`design.py`). `tools/pack/aoo_private.py` builds a personal resource pack from your own copy of The Age of Ores (see NOTICE).
+- `tests/`: the scripts that drive a real game to check mining levels, crafting and worldgen.
+
+## Extended Classic Tinkers
+
+Tinkers' Construct 1.12 for Horizon, built on this mod's tiers, lives in its own repo: [Extended Classic Tinkers for Horizon](https://github.com/kodasdream/extended-classic-tinkers-horizon).
 
 ## The modpack
 
@@ -46,7 +65,7 @@ This is the set of mods I play it with. Long Climb doesn't need any of them.
 | Minimap | 2.0.0 | Horizon's mod list |
 | Wisdom Shaders V3 | 1.1.0 | Horizon's mod list |
 
-The five mods in `modpack-native-mods-0.2.0.zip` go in `horizon-native-mods/`, and then the launcher builds the game with them:
+The five mods in `modpack-native-mods-0.2.0.zip` (on the 0.2.0 release) go in `horizon-native-mods/`, and then the launcher builds the game with them:
 
 ```bash
 horizon-launcher native-build --ignore-pins --trust-native-code

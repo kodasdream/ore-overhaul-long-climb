@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:singularite_gem",
-  "H": "longclimb:chronite_ingot",
-  "G": "longclimb:prismium_gem"
+  "H": "#longclimb:materials_level_46",
+  "G": "#longclimb:gems_level_44"
  },
  "result": {
   "id": "longclimb:singularite_pickaxe",

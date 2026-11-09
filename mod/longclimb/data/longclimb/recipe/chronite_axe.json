@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:chronite_ingot",
-  "H": "longclimb:chaotic_ingot"
+  "H": "#longclimb:materials_level_45",
+  "G": "#longclimb:gems_level_44"
  },
  "result": {
   "id": "longclimb:chronite_axe",

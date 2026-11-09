@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:endorium_block",
+  "T": "longclimb:endorium_shovel",
+  "H": "minecraft:netherite_block",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:endorium_excavator",
+  "count": 1
+ }
+}

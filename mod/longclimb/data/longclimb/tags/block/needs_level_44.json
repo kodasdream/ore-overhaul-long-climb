@@ -2,6 +2,8 @@
  "values": [
   "longclimb:chaotic_block",
   "longclimb:end_chaotic_ore",
+  "longclimb:end_purple_diamond_ore",
+  "longclimb:purple_diamond_block",
   {
    "id": "#ddsstinkers:needs_level_44",
    "required": false

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:jasper_block"
+ ],
+ "result": {
+  "id": "longclimb:jasper_gem",
+  "count": 9
+ }
+}

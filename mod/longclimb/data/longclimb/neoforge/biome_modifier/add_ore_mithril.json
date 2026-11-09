@@ -1,0 +1,11 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:flower_forest",
+  "minecraft:cherry_grove",
+  "minecraft:meadow",
+  "minecraft:dappled_forest"
+ ],
+ "features": "longclimb:ore_mithril",
+ "step": "underground_ores"
+}

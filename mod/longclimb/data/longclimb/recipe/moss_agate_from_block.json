@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:moss_agate_block"
+ ],
+ "result": {
+  "id": "longclimb:moss_agate_gem",
+  "count": 9
+ }
+}

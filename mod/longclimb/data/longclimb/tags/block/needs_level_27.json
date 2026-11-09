@@ -1,7 +1,15 @@
 {
  "values": [
   "longclimb:adamant_block",
+  "longclimb:deepslate_hercynite_ore",
+  "longclimb:deepslate_vesuvianite_ore",
   "longclimb:end_adamant_ore",
+  "longclimb:hercynite_block",
+  "longclimb:hercynite_ore",
+  "longclimb:humoranium_block",
+  "longclimb:nether_humoranium_ore",
+  "longclimb:vesuvianite_block",
+  "longclimb:vesuvianite_ore",
   {
    "id": "#ddsstinkers:needs_level_27",
    "required": false

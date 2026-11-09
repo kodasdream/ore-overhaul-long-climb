@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:carnotite_block"
+ ],
+ "result": {
+  "id": "longclimb:carnotite_ingot",
+  "count": 9
+ }
+}

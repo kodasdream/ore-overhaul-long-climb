@@ -1,14 +1,14 @@
 {
  "type": "minecraft:ore",
- "size": 2,
+ "size": 5,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:base_stone_nether"
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:lava"
    },
-   "state": "longclimb:nether_singularite_ore"
+   "state": "longclimb:molten_singularite_ore"
   }
  ]
 }

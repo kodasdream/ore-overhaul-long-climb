@@ -1,8 +1,14 @@
 {
  "values": [
   "longclimb:deepslate_lead_ore",
+  "longclimb:deepslate_smoky_quartz_ore",
+  "longclimb:deepslate_stibnite_ore",
   "longclimb:lead_block",
   "longclimb:lead_ore",
+  "longclimb:smoky_quartz_block",
+  "longclimb:smoky_quartz_ore",
+  "longclimb:stibnite_block",
+  "longclimb:stibnite_ore",
   {
    "id": "#ddsstinkers:needs_level_6",
    "required": false

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:matrix_opal_block"
+ ],
+ "result": {
+  "id": "longclimb:matrix_opal_gem",
+  "count": 9
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:jasper_gem"
+ },
+ "result": {
+  "id": "longclimb:jasper_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:anti_humoranium_block"
+ ],
+ "result": {
+  "id": "longclimb:anti_humoranium_gem",
+  "count": 9
+ }
+}

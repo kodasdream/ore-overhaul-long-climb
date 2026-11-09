@@ -1,7 +1,16 @@
 {
  "values": [
-  "longclimb:end_mithril_ore",
+  "longclimb:americium_block",
+  "longclimb:americium_ore",
+  "longclimb:ammolite_block",
+  "longclimb:ammolite_ore",
+  "longclimb:deepslate_americium_ore",
+  "longclimb:deepslate_ammolite_ore",
+  "longclimb:deepslate_mithril_ore",
   "longclimb:mithril_block",
+  "longclimb:mithril_ore",
+  "longclimb:nether_orange_diamond_ore",
+  "longclimb:orange_diamond_block",
   {
    "id": "#ddsstinkers:needs_level_28",
    "required": false

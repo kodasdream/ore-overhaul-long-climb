@@ -1,7 +1,11 @@
 {
  "values": [
   "longclimb:chronite_block",
-  "longclimb:end_chronite_ore",
+  "longclimb:chronite_ore",
+  "longclimb:deepslate_chronite_ore",
+  "longclimb:deepslate_rare_sapphire_ore",
+  "longclimb:rare_sapphire_block",
+  "longclimb:rare_sapphire_ore",
   {
    "id": "#ddsstinkers:needs_level_45",
    "required": false

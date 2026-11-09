@@ -1,6 +1,6 @@
 id = "longclimb"
 name = "Ore Overhaul Long Climb"
-version = "0.2.0"
+version = "0.5.0"
 description = "50 ore tiers: every ore needs a pickaxe from the tier below, diamond sits at tier 20, and each tier has its own tools and armor."
 authors = ["Zsombor"]
 api = "0.2"

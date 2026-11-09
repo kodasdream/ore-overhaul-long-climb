@@ -1,7 +1,9 @@
 {
  "values": [
   "longclimb:end_omnium_ore",
+  "longclimb:end_xernium_ore",
   "longclimb:omnium_block",
+  "longclimb:xernium_block",
   {
    "id": "#ddsstinkers:needs_level_48",
    "required": false

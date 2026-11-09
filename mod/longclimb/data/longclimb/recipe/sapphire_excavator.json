@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:sapphire_block",
+  "T": "longclimb:sapphire_shovel",
+  "H": "longclimb:ruby_block",
+  "G": "longclimb:ruby_gem"
+ },
+ "result": {
+  "id": "longclimb:sapphire_excavator",
+  "count": 1
+ }
+}

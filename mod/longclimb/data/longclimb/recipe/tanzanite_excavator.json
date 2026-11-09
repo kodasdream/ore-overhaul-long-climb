@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:tanzanite_block",
+  "T": "longclimb:tanzanite_shovel",
+  "H": "longclimb:chromium_block",
+  "G": "minecraft:diamond"
+ },
+ "result": {
+  "id": "longclimb:tanzanite_excavator",
+  "count": 1
+ }
+}

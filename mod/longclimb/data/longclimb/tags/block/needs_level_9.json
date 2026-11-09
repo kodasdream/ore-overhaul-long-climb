@@ -1,11 +1,23 @@
 {
  "values": [
+  "longclimb:amethyst_crystal_block",
+  "longclimb:amethyst_crystal_ore",
+  "longclimb:deepslate_amethyst_crystal_ore",
   "longclimb:deepslate_iridium_ore",
+  "longclimb:deepslate_moss_agate_ore",
   "longclimb:deepslate_osmium_ore",
+  "longclimb:deepslate_pietersite_ore",
+  "longclimb:deepslate_quicksilver_ore",
   "longclimb:iridium_block",
   "longclimb:iridium_ore",
+  "longclimb:moss_agate_block",
+  "longclimb:moss_agate_ore",
   "longclimb:osmium_block",
   "longclimb:osmium_ore",
+  "longclimb:pietersite_block",
+  "longclimb:pietersite_ore",
+  "longclimb:quicksilver_block",
+  "longclimb:quicksilver_ore",
   "minecraft:deepslate_lapis_ore",
   "minecraft:lapis_ore",
   {

@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:valyrium_ingot",
-  "H": "longclimb:tanzanite_gem"
+  "H": "#longclimb:materials_level_23",
+  "G": "#longclimb:gems_level_23"
  },
  "result": {
   "id": "longclimb:valyrium_axe",

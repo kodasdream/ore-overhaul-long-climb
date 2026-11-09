@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:bloodstone_block"
+ ],
+ "result": {
+  "id": "longclimb:bloodstone_gem",
+  "count": 9
+ }
+}

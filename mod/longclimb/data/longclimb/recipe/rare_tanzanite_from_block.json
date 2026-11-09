@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:rare_tanzanite_block"
+ ],
+ "result": {
+  "id": "longclimb:rare_tanzanite_gem",
+  "count": 9
+ }
+}

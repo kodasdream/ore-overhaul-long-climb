@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:prismium_block",
+  "T": "longclimb:prismium_pickaxe",
+  "H": "longclimb:voidsteel_block",
+  "G": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:prismium_hammer",
+  "count": 1
+ }
+}

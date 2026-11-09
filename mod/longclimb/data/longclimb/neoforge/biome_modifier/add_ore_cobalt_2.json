@@ -1,0 +1,6 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": "#minecraft:is_nether",
+ "features": "longclimb:ore_cobalt_2",
+ "step": "underground_ores"
+}

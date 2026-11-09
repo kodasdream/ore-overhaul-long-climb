@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:eternium_block",
+  "T": "longclimb:eternium_pickaxe",
+  "H": "longclimb:dragonstone_block",
+  "G": "longclimb:dragonstone_gem"
+ },
+ "result": {
+  "id": "longclimb:eternium_hammer",
+  "count": 1
+ }
+}

@@ -2,7 +2,7 @@
  "template": "minecraft:iron_sword",
  "rarity": "common",
  "components": {
-  "minecraft:max_damage": 119,
+  "minecraft:max_damage": 158,
   "minecraft:attribute_modifiers": [
    {
     "type": "minecraft:attack_damage",

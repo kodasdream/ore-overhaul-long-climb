@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:larimar_block"
+ ],
+ "result": {
+  "id": "longclimb:larimar_gem",
+  "count": 9
+ }
+}

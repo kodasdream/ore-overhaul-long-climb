@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:genesium_pickaxe",
+  "A": "longclimb:genesium_axe",
+  "S": "longclimb:genesium_shovel",
+  "O": "longclimb:genesium_hoe",
+  "W": "longclimb:genesium_sword",
+  "M": "longclimb:genesium_ingot"
+ },
+ "result": {
+  "id": "longclimb:genesium_aiot",
+  "count": 1
+ }
+}

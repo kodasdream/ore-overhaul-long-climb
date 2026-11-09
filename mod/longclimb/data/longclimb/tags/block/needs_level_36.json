@@ -1,7 +1,12 @@
 {
  "values": [
+  "longclimb:deepslate_rare_citrine_ore",
   "longclimb:dragonstone_block",
-  "longclimb:end_dragonstone_ore",
+  "longclimb:end_maradonyx_ore",
+  "longclimb:maradonyx_block",
+  "longclimb:nether_dragonstone_ore",
+  "longclimb:rare_citrine_block",
+  "longclimb:rare_citrine_ore",
   {
    "id": "#ddsstinkers:needs_level_36",
    "required": false

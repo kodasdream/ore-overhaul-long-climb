@@ -1,0 +1,7 @@
+{
+ "variants": {
+  "": {
+   "model": "longclimb:block/yurium_block"
+  }
+ }
+}

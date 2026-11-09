@@ -1,14 +1,21 @@
 {
  "type": "minecraft:ore",
- "size": 2,
+ "size": 3,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
-    "predicate_type": "minecraft:block_match",
-    "block": "minecraft:end_stone"
+    "predicate_type": "minecraft:tag_match",
+    "tag": "minecraft:stone_ore_replaceables"
    },
-   "state": "longclimb:end_prismium_ore"
+   "state": "longclimb:prismium_ore"
+  },
+  {
+   "target": {
+    "predicate_type": "minecraft:tag_match",
+    "tag": "minecraft:deepslate_ore_replaceables"
+   },
+   "state": "longclimb:deepslate_prismium_ore"
   }
  ]
 }

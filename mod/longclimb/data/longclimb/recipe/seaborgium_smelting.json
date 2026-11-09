@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_seaborgium",
+ "result": {
+  "id": "longclimb:seaborgium_ingot"
+ },
+ "experience": 1.8,
+ "cookingtime": 500
+}

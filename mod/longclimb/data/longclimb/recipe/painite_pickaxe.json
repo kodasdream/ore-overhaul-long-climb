@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:painite_gem",
-  "H": "longclimb:orichalcum_ingot",
-  "G": "longclimb:tanzanite_gem"
+  "H": "#longclimb:materials_level_31",
+  "G": "#longclimb:gems_level_23"
  },
  "result": {
   "id": "longclimb:painite_pickaxe",

@@ -1,7 +1,16 @@
 {
  "values": [
-  "longclimb:end_vibranium_ore",
+  "longclimb:deepslate_goshenite_ore",
+  "longclimb:deepslate_hackmanite_ore",
+  "longclimb:deepslate_vibranium_ore",
+  "longclimb:goshenite_block",
+  "longclimb:goshenite_ore",
+  "longclimb:green_catseye_block",
+  "longclimb:hackmanite_block",
+  "longclimb:hackmanite_ore",
+  "longclimb:nether_green_catseye_ore",
   "longclimb:vibranium_block",
+  "longclimb:vibranium_ore",
   {
    "id": "#ddsstinkers:needs_level_26",
    "required": false

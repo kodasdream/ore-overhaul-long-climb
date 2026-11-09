@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:valyrium_pickaxe",
+  "A": "longclimb:valyrium_axe",
+  "S": "longclimb:valyrium_shovel",
+  "O": "longclimb:valyrium_hoe",
+  "W": "longclimb:valyrium_sword",
+  "M": "longclimb:valyrium_ingot"
+ },
+ "result": {
+  "id": "longclimb:valyrium_aiot",
+  "count": 1
+ }
+}

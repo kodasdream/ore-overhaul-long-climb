@@ -1,9 +1,15 @@
 {
  "values": [
   "longclimb:deepslate_magnesium_ore",
+  "longclimb:deepslate_manganese_ore",
+  "longclimb:deepslate_rose_quartz_ore",
   "longclimb:deepslate_silver_ore",
   "longclimb:magnesium_block",
   "longclimb:magnesium_ore",
+  "longclimb:manganese_block",
+  "longclimb:manganese_ore",
+  "longclimb:rose_quartz_block",
+  "longclimb:rose_quartz_ore",
   "longclimb:silver_block",
   "longclimb:silver_ore",
   "minecraft:nether_quartz_ore",

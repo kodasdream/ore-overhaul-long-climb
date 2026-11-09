@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:chloronium_gem"
+ },
+ "result": {
+  "id": "longclimb:chloronium_block",
+  "count": 1
+ }
+}

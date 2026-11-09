@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:sugilite_block"
+ ],
+ "result": {
+  "id": "longclimb:sugilite_gem",
+  "count": 9
+ }
+}

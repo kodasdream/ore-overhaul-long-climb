@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:silver_pickaxe",
+  "A": "longclimb:silver_axe",
+  "S": "longclimb:silver_shovel",
+  "O": "longclimb:silver_hoe",
+  "W": "longclimb:silver_sword",
+  "M": "longclimb:silver_ingot"
+ },
+ "result": {
+  "id": "longclimb:silver_aiot",
+  "count": 1
+ }
+}

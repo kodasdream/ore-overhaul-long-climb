@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "#minecraft:logs",
+  "T": "minecraft:wooden_shovel",
+  "H": "minecraft:stick"
+ },
+ "result": {
+  "id": "longclimb:wooden_excavator",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:scandium_block"
+ ],
+ "result": {
+  "id": "longclimb:scandium_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_yurium",
+ "result": {
+  "id": "longclimb:yurium_ingot"
+ },
+ "experience": 1.9,
+ "cookingtime": 520
+}

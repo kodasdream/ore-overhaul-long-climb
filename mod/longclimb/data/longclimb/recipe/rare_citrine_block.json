@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:rare_citrine_gem"
+ },
+ "result": {
+  "id": "longclimb:rare_citrine_block",
+  "count": 1
+ }
+}

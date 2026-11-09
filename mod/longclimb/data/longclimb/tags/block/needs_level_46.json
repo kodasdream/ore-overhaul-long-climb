@@ -1,6 +1,8 @@
 {
  "values": [
-  "longclimb:nether_singularite_ore",
+  "longclimb:cyber_crystal_block",
+  "longclimb:end_cyber_crystal_ore",
+  "longclimb:molten_singularite_ore",
   "longclimb:singularite_block",
   {
    "id": "#ddsstinkers:needs_level_46",

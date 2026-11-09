@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:azurite_block"
+ ],
+ "result": {
+  "id": "longclimb:azurite_gem",
+  "count": 9
+ }
+}

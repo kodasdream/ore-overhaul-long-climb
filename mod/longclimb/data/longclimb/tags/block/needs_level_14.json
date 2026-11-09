@@ -1,12 +1,26 @@
 {
  "values": [
+  "longclimb:bedrock_eezo_ore",
+  "longclimb:deepslate_indium_ore",
+  "longclimb:deepslate_iris_agate_ore",
+  "longclimb:deepslate_rainbow_opal_ore",
   "longclimb:deepslate_sapphire_ore",
+  "longclimb:deepslate_tourmaline_ore",
   "longclimb:eezo_block",
-  "longclimb:end_eezo_ore",
-  "longclimb:nether_osram_ore",
+  "longclimb:indium_block",
+  "longclimb:indium_ore",
+  "longclimb:iris_agate_block",
+  "longclimb:iris_agate_ore",
+  "longclimb:molten_osram_ore",
+  "longclimb:obsidiorite_block",
+  "longclimb:obsidiorite_rock",
   "longclimb:osram_block",
+  "longclimb:rainbow_opal_block",
+  "longclimb:rainbow_opal_ore",
   "longclimb:sapphire_block",
   "longclimb:sapphire_ore",
+  "longclimb:tourmaline_block",
+  "longclimb:tourmaline_ore",
   {
    "id": "#ddsstinkers:needs_level_14",
    "required": false

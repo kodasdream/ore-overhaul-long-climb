@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:rainbow_fluorite_block"
+ ],
+ "result": {
+  "id": "longclimb:rainbow_fluorite_gem",
+  "count": 9
+ }
+}

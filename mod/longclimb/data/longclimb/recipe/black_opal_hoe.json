@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  " H ",
-  " H "
+  "MMGM ",
+  "   H ",
+  "   H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:black_opal_gem",
-  "H": "longclimb:painite_gem"
+  "H": "#longclimb:materials_level_32",
+  "G": "#longclimb:gems_level_32"
  },
  "result": {
   "id": "longclimb:black_opal_hoe",

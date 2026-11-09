@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:astralite_pickaxe",
+  "A": "longclimb:astralite_axe",
+  "S": "longclimb:astralite_shovel",
+  "O": "longclimb:astralite_hoe",
+  "W": "longclimb:astralite_sword",
+  "M": "longclimb:astralite_ingot"
+ },
+ "result": {
+  "id": "longclimb:astralite_aiot",
+  "count": 1
+ }
+}

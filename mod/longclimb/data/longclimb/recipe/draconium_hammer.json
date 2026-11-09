@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:draconium_block",
+  "T": "longclimb:draconium_pickaxe",
+  "H": "longclimb:mithril_block",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:draconium_hammer",
+  "count": 1
+ }
+}

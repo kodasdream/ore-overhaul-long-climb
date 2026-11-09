@@ -1,0 +1,10 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:deep_dark",
+  "minecraft:dripstone_caves",
+  "minecraft:sulfur_caves"
+ ],
+ "features": "longclimb:ore_tungsten",
+ "step": "underground_ores"
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:aquamorganite_gem"
+ },
+ "result": {
+  "id": "longclimb:aquamorganite_block",
+  "count": 1
+ }
+}

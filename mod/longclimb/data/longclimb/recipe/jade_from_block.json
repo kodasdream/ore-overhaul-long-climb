@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:jade_block"
+ ],
+ "result": {
+  "id": "longclimb:jade_gem",
+  "count": 9
+ }
+}

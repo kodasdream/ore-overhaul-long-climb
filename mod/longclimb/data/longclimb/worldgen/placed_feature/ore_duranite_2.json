@@ -1,0 +1,33 @@
+{
+ "feature": "longclimb:ore_duranite_2",
+ "placement": [
+  {
+   "type": "minecraft:rarity_filter",
+   "chance": 250
+  },
+  {
+   "type": "minecraft:in_square"
+  },
+  {
+   "type": "minecraft:heightmap",
+   "heightmap": "OCEAN_FLOOR_WG"
+  },
+  {
+   "type": "minecraft:surface_water_depth_filter",
+   "max_water_depth": 0
+  },
+  {
+   "type": "minecraft:offset",
+   "x": 0,
+   "y": {
+    "type": "minecraft:uniform",
+    "min_inclusive": -4,
+    "max_inclusive": -3
+   },
+   "z": 0
+  },
+  {
+   "type": "minecraft:biome"
+  }
+ ]
+}

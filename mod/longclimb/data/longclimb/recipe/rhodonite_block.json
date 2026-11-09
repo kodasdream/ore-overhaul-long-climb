@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:rhodonite_gem"
+ },
+ "result": {
+  "id": "longclimb:rhodonite_block",
+  "count": 1
+ }
+}

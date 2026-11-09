@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:tanzanite_gem",
-  "H": "longclimb:chromium_ingot",
-  "G": "minecraft:diamond"
+  "H": "#longclimb:materials_level_22",
+  "G": "#longclimb:gems_level_20"
  },
  "result": {
   "id": "longclimb:tanzanite_pickaxe",

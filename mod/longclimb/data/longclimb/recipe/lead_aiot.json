@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:lead_pickaxe",
+  "A": "longclimb:lead_axe",
+  "S": "longclimb:lead_shovel",
+  "O": "longclimb:lead_hoe",
+  "W": "longclimb:lead_sword",
+  "M": "longclimb:lead_ingot"
+ },
+ "result": {
+  "id": "longclimb:lead_aiot",
+  "count": 1
+ }
+}

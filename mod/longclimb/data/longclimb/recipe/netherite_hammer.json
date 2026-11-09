@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:netherite_block",
+  "T": "minecraft:netherite_pickaxe",
+  "H": "longclimb:valyrium_block",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:netherite_hammer",
+  "count": 1
+ }
+}

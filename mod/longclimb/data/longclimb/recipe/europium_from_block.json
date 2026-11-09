@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:europium_block"
+ ],
+ "result": {
+  "id": "longclimb:europium_ingot",
+  "count": 9
+ }
+}

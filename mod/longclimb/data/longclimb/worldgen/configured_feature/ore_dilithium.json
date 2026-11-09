@@ -1,14 +1,21 @@
 {
  "type": "minecraft:ore",
- "size": 3,
+ "size": 5,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
     "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:base_stone_nether"
+    "tag": "minecraft:stone_ore_replaceables"
    },
-   "state": "longclimb:nether_dilithium_ore"
+   "state": "longclimb:dilithium_ore"
+  },
+  {
+   "target": {
+    "predicate_type": "minecraft:tag_match",
+    "tag": "minecraft:deepslate_ore_replaceables"
+   },
+   "state": "longclimb:deepslate_dilithium_ore"
   }
  ]
 }

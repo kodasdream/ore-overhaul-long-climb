@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:lithium_block"
+ ],
+ "result": {
+  "id": "longclimb:lithium_ingot",
+  "count": 9
+ }
+}

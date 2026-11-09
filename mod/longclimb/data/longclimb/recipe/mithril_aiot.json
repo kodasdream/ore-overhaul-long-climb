@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:mithril_pickaxe",
+  "A": "longclimb:mithril_axe",
+  "S": "longclimb:mithril_shovel",
+  "O": "longclimb:mithril_hoe",
+  "W": "longclimb:mithril_sword",
+  "M": "longclimb:mithril_ingot"
+ },
+ "result": {
+  "id": "longclimb:mithril_aiot",
+  "count": 1
+ }
+}

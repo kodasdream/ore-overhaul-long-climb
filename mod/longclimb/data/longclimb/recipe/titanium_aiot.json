@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:titanium_pickaxe",
+  "A": "longclimb:titanium_axe",
+  "S": "longclimb:titanium_shovel",
+  "O": "longclimb:titanium_hoe",
+  "W": "longclimb:titanium_sword",
+  "M": "longclimb:titanium_ingot"
+ },
+ "result": {
+  "id": "longclimb:titanium_aiot",
+  "count": 1
+ }
+}

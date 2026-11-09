@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:sunstone_block"
+ ],
+ "result": {
+  "id": "longclimb:sunstone_gem",
+  "count": 9
+ }
+}

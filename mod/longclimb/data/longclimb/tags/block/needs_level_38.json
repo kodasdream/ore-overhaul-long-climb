@@ -1,7 +1,9 @@
 {
  "values": [
-  "longclimb:end_neutronium_ore",
+  "longclimb:bedrock_neutronium_ore",
+  "longclimb:end_serpentine_ore",
   "longclimb:neutronium_block",
+  "longclimb:serpentine_block",
   {
    "id": "#ddsstinkers:needs_level_38",
    "required": false

@@ -3,6 +3,15 @@
   "longclimb:boron_block",
   "longclimb:boron_ore",
   "longclimb:deepslate_boron_ore",
+  "longclimb:deepslate_epidote_ore",
+  "longclimb:deepslate_fluorite_ore",
+  "longclimb:deepslate_scandium_ore",
+  "longclimb:epidote_block",
+  "longclimb:epidote_ore",
+  "longclimb:fluorite_block",
+  "longclimb:fluorite_ore",
+  "longclimb:scandium_block",
+  "longclimb:scandium_ore",
   {
    "id": "#ddsstinkers:needs_level_10",
    "required": false

@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_indium",
+ "result": {
+  "id": "longclimb:indium_ingot"
+ },
+ "experience": 1.05,
+ "cookingtime": 350
+}

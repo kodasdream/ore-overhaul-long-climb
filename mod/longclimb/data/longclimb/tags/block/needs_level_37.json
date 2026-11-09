@@ -1,7 +1,12 @@
 {
  "values": [
+  "longclimb:deepslate_rare_tourmaline_ore",
   "longclimb:end_eternium_ore",
+  "longclimb:end_moonstone_ore",
   "longclimb:eternium_block",
+  "longclimb:moonstone_block",
+  "longclimb:rare_tourmaline_block",
+  "longclimb:rare_tourmaline_ore",
   {
    "id": "#ddsstinkers:needs_level_37",
    "required": false

@@ -1,0 +1,39 @@
+{
+ "template": "minecraft:iron_pickaxe",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 2392,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_19",
+     "correct_for_drops": false
+    },
+    {
+     "blocks": "#minecraft:mineable/pickaxe",
+     "speed": 1.3,
+     "correct_for_drops": true
+    }
+   ]
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 7.32,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -3.2,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:repairable": {
+   "items": "longclimb:palladium_ingot"
+  }
+ }
+}

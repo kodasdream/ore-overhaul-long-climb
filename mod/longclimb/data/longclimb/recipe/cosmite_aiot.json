@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:cosmite_pickaxe",
+  "A": "longclimb:cosmite_axe",
+  "S": "longclimb:cosmite_shovel",
+  "O": "longclimb:cosmite_hoe",
+  "W": "longclimb:cosmite_sword",
+  "M": "longclimb:cosmite_ingot"
+ },
+ "result": {
+  "id": "longclimb:cosmite_aiot",
+  "count": 1
+ }
+}

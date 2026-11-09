@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_palintinium",
+ "result": {
+  "id": "longclimb:palintinium_ingot"
+ },
+ "experience": 2.05,
+ "cookingtime": 275
+}

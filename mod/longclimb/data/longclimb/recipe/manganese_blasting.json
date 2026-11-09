@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_manganese",
+ "result": {
+  "id": "longclimb:manganese_ingot"
+ },
+ "experience": 0.6,
+ "cookingtime": 130
+}

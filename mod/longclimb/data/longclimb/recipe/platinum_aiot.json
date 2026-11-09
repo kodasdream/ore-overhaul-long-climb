@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:platinum_pickaxe",
+  "A": "longclimb:platinum_axe",
+  "S": "longclimb:platinum_shovel",
+  "O": "longclimb:platinum_hoe",
+  "W": "longclimb:platinum_sword",
+  "M": "longclimb:platinum_ingot"
+ },
+ "result": {
+  "id": "longclimb:platinum_aiot",
+  "count": 1
+ }
+}

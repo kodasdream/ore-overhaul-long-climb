@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:raspberry_diamond_block"
+ ],
+ "result": {
+  "id": "longclimb:raspberry_diamond_gem",
+  "count": 9
+ }
+}

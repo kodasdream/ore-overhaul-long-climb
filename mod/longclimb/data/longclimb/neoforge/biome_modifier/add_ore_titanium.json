@@ -1,0 +1,11 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:stony_peaks",
+  "minecraft:jagged_peaks",
+  "minecraft:stony_shore",
+  "minecraft:windswept_gravelly_hills"
+ ],
+ "features": "longclimb:ore_titanium",
+ "step": "underground_ores"
+}

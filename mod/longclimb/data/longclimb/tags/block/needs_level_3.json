@@ -2,7 +2,13 @@
  "values": [
   "longclimb:aluminum_block",
   "longclimb:aluminum_ore",
+  "longclimb:bismuth_block",
+  "longclimb:bismuth_ore",
   "longclimb:deepslate_aluminum_ore",
+  "longclimb:deepslate_bismuth_ore",
+  "longclimb:deepslate_jade_ore",
+  "longclimb:jade_block",
+  "longclimb:jade_ore",
   {
    "id": "#ddsstinkers:needs_level_3",
    "required": false

@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:tin_block",
+  "T": "longclimb:tin_pickaxe",
+  "H": "minecraft:smooth_stone"
+ },
+ "result": {
+  "id": "longclimb:tin_hammer",
+  "count": 1
+ }
+}

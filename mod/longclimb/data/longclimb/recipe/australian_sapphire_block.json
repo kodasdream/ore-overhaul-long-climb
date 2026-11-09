@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:australian_sapphire_gem"
+ },
+ "result": {
+  "id": "longclimb:australian_sapphire_block",
+  "count": 1
+ }
+}

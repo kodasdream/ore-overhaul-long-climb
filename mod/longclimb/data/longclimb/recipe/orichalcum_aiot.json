@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:orichalcum_pickaxe",
+  "A": "longclimb:orichalcum_axe",
+  "S": "longclimb:orichalcum_shovel",
+  "O": "longclimb:orichalcum_hoe",
+  "W": "longclimb:orichalcum_sword",
+  "M": "longclimb:orichalcum_ingot"
+ },
+ "result": {
+  "id": "longclimb:orichalcum_aiot",
+  "count": 1
+ }
+}

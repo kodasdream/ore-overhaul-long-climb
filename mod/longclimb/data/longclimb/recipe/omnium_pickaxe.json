@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:omnium_gem",
-  "H": "longclimb:primordium_ingot",
-  "G": "longclimb:singularite_gem"
+  "H": "#longclimb:materials_level_48",
+  "G": "#longclimb:gems_level_47"
  },
  "result": {
   "id": "longclimb:omnium_pickaxe",

@@ -1,0 +1,9 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:nether_wastes",
+  "minecraft:basalt_deltas"
+ ],
+ "features": "longclimb:ore_sulfur",
+ "step": "underground_ores"
+}

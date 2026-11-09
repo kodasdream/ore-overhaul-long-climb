@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:sugilite_gem"
+ },
+ "result": {
+  "id": "longclimb:sugilite_block",
+  "count": 1
+ }
+}

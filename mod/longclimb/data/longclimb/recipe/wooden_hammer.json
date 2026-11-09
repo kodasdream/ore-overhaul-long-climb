@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "#minecraft:logs",
+  "T": "minecraft:wooden_pickaxe",
+  "H": "minecraft:stick"
+ },
+ "result": {
+  "id": "longclimb:wooden_hammer",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:amethyst_crystal_block"
+ ],
+ "result": {
+  "id": "longclimb:amethyst_crystal_gem",
+  "count": 9
+ }
+}

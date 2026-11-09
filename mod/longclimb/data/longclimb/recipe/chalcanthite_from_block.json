@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:chalcanthite_block"
+ ],
+ "result": {
+  "id": "longclimb:chalcanthite_gem",
+  "count": 9
+ }
+}

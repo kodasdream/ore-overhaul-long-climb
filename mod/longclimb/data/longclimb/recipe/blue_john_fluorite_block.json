@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:blue_john_fluorite_gem"
+ },
+ "result": {
+  "id": "longclimb:blue_john_fluorite_block",
+  "count": 1
+ }
+}

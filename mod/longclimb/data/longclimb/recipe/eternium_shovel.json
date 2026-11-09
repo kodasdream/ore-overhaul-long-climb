@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " H ",
-  " H "
+  " MMM ",
+  " MGM ",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:eternium_ingot",
-  "H": "longclimb:dragonstone_gem"
+  "H": "#longclimb:materials_level_37",
+  "G": "#longclimb:gems_level_37"
  },
  "result": {
   "id": "longclimb:eternium_shovel",

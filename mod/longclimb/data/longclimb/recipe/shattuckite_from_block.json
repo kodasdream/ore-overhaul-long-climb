@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:shattuckite_block"
+ ],
+ "result": {
+  "id": "longclimb:shattuckite_gem",
+  "count": 9
+ }
+}

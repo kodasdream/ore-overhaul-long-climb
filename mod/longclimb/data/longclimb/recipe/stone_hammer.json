@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:smooth_stone",
+  "T": "minecraft:stone_pickaxe",
+  "H": "#minecraft:logs"
+ },
+ "result": {
+  "id": "longclimb:stone_hammer",
+  "count": 1
+ }
+}

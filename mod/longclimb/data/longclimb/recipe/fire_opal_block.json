@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:fire_opal_gem"
+ },
+ "result": {
+  "id": "longclimb:fire_opal_block",
+  "count": 1
+ }
+}

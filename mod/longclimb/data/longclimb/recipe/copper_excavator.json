@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:copper_block",
+  "T": "minecraft:copper_shovel",
+  "H": "longclimb:aluminum_block"
+ },
+ "result": {
+  "id": "longclimb:copper_excavator",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:technetium_block"
+ ],
+ "result": {
+  "id": "longclimb:technetium_ingot",
+  "count": 9
+ }
+}

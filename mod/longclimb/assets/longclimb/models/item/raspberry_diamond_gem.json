@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:item/generated",
+ "textures": {
+  "layer0": "longclimb:item/raspberry_diamond_gem"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:peacock_topaz_block"
+ ],
+ "result": {
+  "id": "longclimb:peacock_topaz_gem",
+  "count": 9
+ }
+}

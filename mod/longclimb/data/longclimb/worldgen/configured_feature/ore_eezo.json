@@ -6,9 +6,9 @@
   {
    "target": {
     "predicate_type": "minecraft:block_match",
-    "block": "minecraft:end_stone"
+    "block": "minecraft:bedrock"
    },
-   "state": "longclimb:end_eezo_ore"
+   "state": "longclimb:bedrock_eezo_ore"
   }
  ]
 }

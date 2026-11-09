@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:neutronium_pickaxe",
+  "A": "longclimb:neutronium_axe",
+  "S": "longclimb:neutronium_shovel",
+  "O": "longclimb:neutronium_hoe",
+  "W": "longclimb:neutronium_sword",
+  "M": "longclimb:neutronium_ingot"
+ },
+ "result": {
+  "id": "longclimb:neutronium_aiot",
+  "count": 1
+ }
+}

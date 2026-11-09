@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:obsidian",
+ "properties": {
+  "hardness": 8.25,
+  "explosion_resistance": 10.5
+ },
+ "components": {
+  "minecraft:rarity": "uncommon"
+ }
+}

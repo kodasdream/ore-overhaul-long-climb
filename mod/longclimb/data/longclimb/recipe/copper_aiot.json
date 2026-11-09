@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:copper_pickaxe",
+  "A": "minecraft:copper_axe",
+  "S": "minecraft:copper_shovel",
+  "O": "minecraft:copper_hoe",
+  "W": "minecraft:copper_sword",
+  "M": "minecraft:copper_ingot"
+ },
+ "result": {
+  "id": "longclimb:copper_aiot",
+  "count": 1
+ }
+}

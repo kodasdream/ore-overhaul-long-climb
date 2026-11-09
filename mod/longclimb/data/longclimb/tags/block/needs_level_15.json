@@ -1,11 +1,21 @@
 {
  "values": [
+  "longclimb:amazonite_block",
+  "longclimb:amazonite_ore",
   "longclimb:ardite_block",
   "longclimb:aurorium_block",
+  "longclimb:cadmium_block",
+  "longclimb:cadmium_ore",
+  "longclimb:deepslate_amazonite_ore",
+  "longclimb:deepslate_cadmium_ore",
+  "longclimb:deepslate_dilithium_ore",
+  "longclimb:deepslate_wernerite_ore",
   "longclimb:dilithium_block",
+  "longclimb:dilithium_ore",
+  "longclimb:end_aurorium_ore",
   "longclimb:nether_ardite_ore",
-  "longclimb:nether_aurorium_ore",
-  "longclimb:nether_dilithium_ore",
+  "longclimb:wernerite_block",
+  "longclimb:wernerite_ore",
   {
    "id": "#ddsstinkers:needs_level_15",
    "required": false

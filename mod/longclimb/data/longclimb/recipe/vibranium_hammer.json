@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:vibranium_block",
+  "T": "longclimb:vibranium_pickaxe",
+  "H": "longclimb:endorium_block",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:vibranium_hammer",
+  "count": 1
+ }
+}

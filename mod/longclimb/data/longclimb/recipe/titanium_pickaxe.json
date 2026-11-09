@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:titanium_ingot",
-  "H": "minecraft:diamond",
-  "G": "minecraft:diamond"
+  "H": "#longclimb:materials_level_20",
+  "G": "#longclimb:gems_level_20"
  },
  "result": {
   "id": "longclimb:titanium_pickaxe",

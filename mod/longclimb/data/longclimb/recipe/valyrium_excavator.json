@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:valyrium_block",
+  "T": "longclimb:valyrium_shovel",
+  "H": "longclimb:tanzanite_block",
+  "G": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:valyrium_excavator",
+  "count": 1
+ }
+}

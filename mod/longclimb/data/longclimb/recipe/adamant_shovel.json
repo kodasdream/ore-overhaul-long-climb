@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " H ",
-  " H "
+  " MMM ",
+  " MGM ",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:adamant_ingot",
-  "H": "longclimb:vibranium_ingot"
+  "H": "#longclimb:materials_level_27",
+  "G": "#longclimb:gems_level_23"
  },
  "result": {
   "id": "longclimb:adamant_shovel",

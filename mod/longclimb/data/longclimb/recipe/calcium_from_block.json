@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:calcium_block"
+ ],
+ "result": {
+  "id": "longclimb:calcium_ingot",
+  "count": 9
+ }
+}

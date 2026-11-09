@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:rose_quartz_gem"
+ },
+ "result": {
+  "id": "longclimb:rose_quartz_block",
+  "count": 1
+ }
+}

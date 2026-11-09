@@ -1,0 +1,3398 @@
+{
+"pages": [
+[
+{
+"t": "Ore Overhaul\nLong Climb\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "Press B to open this book (Options > Mods to change the key).\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "Contents\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "> How the climb works\n",
+"c": 736657,
+"b": false,
+"p": 2
+},
+{
+"t": "> The 5x5 table\n",
+"c": 736657,
+"b": false,
+"p": 5
+},
+{
+"t": "> Tools, hammers, AIOTs\n",
+"c": 736657,
+"b": false,
+"p": 8
+},
+{
+"t": "> Tiers 0 to 50\n",
+"c": 736657,
+"b": false,
+"p": 11
+},
+{
+"t": "> Where the ores are\n",
+"c": 736657,
+"b": false,
+"p": 38
+}
+],
+[
+{
+"t": "How the climb works\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "Every ore has a mining level. A pickaxe mines anything up to its own level, and each ore needs the pickaxe of the tier before it.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Wood is tier 0 and stone tier 1. Tin needs a stone pickaxe, copper is tier 5, iron 8, diamond 20, netherite 25, and the climb ends at genesium, tier 50.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Hover a tool to see its level. Look at an ore to see the level it needs, and whether what you hold is enough (the Mining Tooltips mod).\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "The 5x5 table\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "Made on a 3x3 from 4 crafting tables, 4 logs and a stone pickaxe.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Anything made only from early things (wood, stone, coal, sand, plants, mob drops) still crafts on a 3x3. Everything that takes later materials needs the 5x5 table and about 2 to 3 times the material.\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "A log gives 2 planks, and 2 planks give 2 sticks.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "JEI shows every recipe; its + button lays one out in the table. Each shift-click on the result crafts one. Items stay in the table when you close it.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Tools\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "Every tier has a pickaxe, axe, shovel, hoe, sword and armor. Most take the rarest gem below them, with the tier below as the handle.\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Hammer, excavator\n",
+"c": 2047871,
+"b": true,
+"p": null
+}
+],
+[
+{
+"t": "Break 3x3. 4x durability; the hammer digs at 40% speed, the excavator 28%. Blocks above the tool's level, or far harder than the one you hit, stay.\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "AIOT\n",
+"c": 2047871,
+"b": true,
+"p": null
+}
+],
+[
+{
+"t": "All 5 tools plus 8 of the material: one tool that does every job, with 5x durability and every tool and weapon enchantment. Right-click makes paths, sneak-right-click tills.\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Tiers 0 to 50\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "0 Wood\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with your hand; tools 59 uses, speed 2\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "1 Stone\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Wood; tools 131 uses, speed 4\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Calcium, Silicon\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "2 Tin\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Stone; tools 144 uses, speed 4.23\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Amber\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "3 Zinc\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Tin; tools 158 uses, speed 4.47\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Jasper, Lithium, Onyx\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "4 Aluminum\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Zinc; tools 173 uses, speed 4.73\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Bismuth, Jade\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "5 Copper\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Aluminum; tools 190 uses, speed 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Azurite, Malachite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "6 Silver\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Copper; tools 188 uses, speed 3.75\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Manganese, Rose Quartz\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "7 Lead\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Silver; tools 326 uses, speed 3.94\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Smoky Quartz, Stibnite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "8 Iron\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Lead; tools 250 uses, speed 6\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Garnet, Vanadium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "9 Thorium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Iron; tools 135 uses, speed 6.75\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Cinnabar, Citrine, Howlite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "10 Osmium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Thorium; tools 375 uses, speed 4.5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Amethyst Crystal, Moss Agate, Pietersite, Quicksilver\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "11 Boron\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Osmium; tools 328 uses, speed 6\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Epidote, Fluorite, Scandium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "12 Nickel\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Boron; tools 345 uses, speed 4.5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Blue John Fluorite, Brickerite, Molybdenum, Turquoise\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "13 Platinum\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Nickel; tools 540 uses, speed 6\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Peridot, Shattuckite, Sunset Jasper, Topaz\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "14 Ruby\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Platinum; tools 500 uses, speed 7.76\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Aquamarine, Rainbow Fluorite, Yttrium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "15 Sapphire\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Ruby; tools 582 uses, speed 7.95\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Indium, Iris Agate, Rainbow Opal, Tourmaline\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "16 Ardite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Sapphire; tools 743 uses, speed 2.62\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Amazonite, Cadmium, Wernerite\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "17 Cobalt\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Ardite; tools 585 uses, speed 9\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Iolite, Yellow Onyx, Zirconium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "18 Tungsten\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Cobalt; tools 1150 uses, speed 7.63\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Aquamorganite, Chrysolite, Olivine\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "19 Palladium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Tungsten; tools 598 uses, speed 3.26\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Mystic Topaz, Niobium, Spinel\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "20 Diamond\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Palladium; tools 1561 uses, speed 8\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Pyrite, Ruthenium, Sardonyx\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "21 Titanium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Diamond; tools 1645 uses, speed 8.19\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Ilmenite, Kunzite, Sugillite, Sulfur\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "22 Chromium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Titanium; tools 1734 uses, speed 8.39\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Alexandrite, Carnotite, Tantalum\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "23 Tanzanite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Chromium; tools 1462 uses, speed 9.62\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Ametrine, Matrix Opal, Pelenium, Technetium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "24 Valyrium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Tanzanite; tools 1535 uses, speed 4.03\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Bixbite, Fire Opal, Opal, Rutile\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "25 Netherite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Valyrium; tools 2031 uses, speed 9\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Holmium, Labradorite, Sunstone\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "26 Endorium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Netherite; tools 2166 uses, speed 9.37\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Bloodstone, Catseye, Indigolite, Zircon\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "27 Vibranium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Endorium; tools 926 uses, speed 5.71\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Goshenite, Catseye, Hackmantite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "28 Adamant\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Vibranium; tools 1313 uses, speed 4.5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Hercynite, Humoranium, Vesuviante\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "29 Mithril\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Adamant; tools 2626 uses, speed 10.57\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Americium, Ammolite, Orange Diamond\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "30 Draconium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Mithril; tools 2800 uses, speed 11\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Chloronium, Prism, Seaborgium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "31 Orichalcum\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Draconium; tools 2971 uses, speed 11.34\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Chalcanthite, Red Diamond, Sonoranite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "32 Painite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Orichalcum; tools 2522 uses, speed 13.09\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Grandidierite, Pitambari Neelam, Yurium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "33 Black Opal\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Painite; tools 2676 uses, speed 13.49\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Medusa Quartz, Peacock Topaz Ore, Pink Diamond\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "34 Aetherium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Black Opal; tools 3550 uses, speed 12.41\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Anti-Humoranium, Cyan Emerald, Watermelon Tourmaline\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "35 Starsteel\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Aetherium; tools 3767 uses, speed 12.79\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Rare Sapphire, Bluestone, Palintinium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "36 Void Crystal\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Starsteel; tools 3197 uses, speed 14.76\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Rare Amethyst, Raspberry Diamond, Rhodonite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "37 Dragonstone\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Void Crystal; tools 3393 uses, speed 15.21\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Maradonyx, Rare Citrine\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "38 Eternium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Dragonstone; tools 4500 uses, speed 14\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Moonstone, Bicolor Tourmaline\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "39 Neutronium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Eternium; tools 4886 uses, speed 14.51\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Serpentine\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "40 Cosmite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Neutronium; tools 5304 uses, speed 15.04\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Larimar\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "41 Celestium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Cosmite; tools 5758 uses, speed 15.59\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Potassium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "42 Astralite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Celestium; tools 6252 uses, speed 16.16\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Europium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "43 Voidsteel\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Astralite; tools 6787 uses, speed 16.75\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: White Diamond\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "44 Prismium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Voidsteel; tools 5895 uses, speed 19.45\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Rare Tanzanite\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "45 Chaotic\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Prismium; tools 7500 uses, speed 9\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Purple Diamond\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "46 Chronite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Chaotic; tools 10059 uses, speed 19.73\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Rare Sapphire\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "47 Singularite\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Chronite; tools 10119 uses, speed 24.23\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Cyber Crystal\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "48 Primordium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Singularite; tools 15905 uses, speed 23.72\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Pink Ruby\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "49 Omnium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Primordium; tools 16000 uses, speed 29.12\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Xernium\n",
+"c": 5921370,
+"b": false,
+"p": null
+},
+{
+"t": "50 Genesium\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "mined with Omnium; tools 26000 uses, speed 30\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "also: Matizium\n",
+"c": 5921370,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Where the ores are\n",
+"c": 2047871,
+"b": true,
+"p": null
+},
+{
+"t": "Calcium (level 0)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Silicon (level 0)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Tin (level 1)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y0 to 96, 10 per chunk, size 9\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Amber (level 1)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Zinc (level 2)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-16 to 72, 9 per chunk, size 8\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Jasper (level 2)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Lithium (level 2)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Onyx (level 2)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Aluminum (level 3)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-32 to 64, 8 per chunk, size 8\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Bismuth (level 3)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Jade (level 3)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Copper (level 4)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-16 to 112, 12 per chunk, size 10\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "overworld: y-64 to 64, 6 per chunk, size 16, only in dripstone caves\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Azurite (level 4)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Malachite (level 4)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Silver (level 5)\n",
+"c": 1993514,
+"b": true,
+"p": null
+}
+],
+[
+{
+"t": "overworld: y-32 to 96, 8 per chunk, size 7, only in snowy plains, ice spikes, snowy taiga, snowy beach, snowy slopes, frozen peaks, jagged peaks, grove, frozen river, taiga, old growth pine taiga, old growth spruce taiga, windswept hills, windswept\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "gravelly hills, windswept forest, stony peaks, meadow, cherry grove\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Manganese (level 5)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rose Quartz (level 5)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Lead (level 6)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-32 to 40, 8 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Smoky Quartz (level 6)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Stibnite (level 6)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Iron (level 7)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 72, 11 per chunk, size 9\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Garnet (level 7)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Vanadium (level 7)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Thorium (level 8)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 48, 7 per chunk, size 5, only in desert, badlands, eroded badlands, wooded badlands, savanna, savanna plateau, windswept savanna\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Cinnabar (level 8)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Citrine (level 8)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Howlite (level 8)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in snowy plains, ice spikes, snowy taiga, snowy slopes, frozen peaks, grove, frozen river, snowy beach\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Osmium (level 9)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 48, 5 per chunk, size 8\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Amethyst Crystal (level 9)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Moss Agate (level 9)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in swamp, mangrove swamp\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Pietersite (level 9)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in desert, badlands, eroded badlands, wooded badlands\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Quicksilver (level 9)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Boron (level 10)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-56 to 40, 8 per chunk, size 6, only in swamp, mangrove swamp, river, beach\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Epidote (level 10)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in lush caves\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Fluorite (level 10)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Scandium (level 10)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Nickel (level 11)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-56 to 16, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Blue John Fluorite (level 11)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in flower forest, sunflower plains\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Brickerite (level 11)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Molybdenum (level 11)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Turquoise (level 11)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Platinum (level 12)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 48, 6 per chunk, size 4, only in windswept hills, windswept gravelly hills, windswept forest, stony peaks, jagged peaks, frozen peaks, snowy slopes, meadow, grove, cherry grove\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Peridot (level 12)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Shattuckite (level 12)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in dripstone caves\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Sunset Jasper (level 12)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Topaz (level 12)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Ruby (level 13)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 32, 5 per chunk, size 4, only in jungle, sparse jungle, bamboo jungle, savanna, savanna plateau\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Aquamarine (level 13)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Rainbow Fluorite (level 13)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in cherry grove\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Yttrium (level 13)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Sapphire (level 14)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 32, 5 per chunk, size 4, only in ocean, deep ocean, cold ocean, deep cold ocean, lukewarm ocean, deep lukewarm ocean, warm ocean, frozen ocean, deep frozen ocean\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Indium (level 14)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Iris Agate (level 14)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rainbow Opal (level 14)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in swamp, mangrove swamp\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Tourmaline (level 14)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Ardite (level 15)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y32 to 96, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "nether: y0 to 128, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Amazonite (level 15)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Cadmium (level 15)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Wernerite (level 15)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in snowy plains, ice spikes, snowy taiga, snowy slopes, frozen peaks, grove, frozen river, snowy beach\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Cobalt (level 16)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y32 to 96, 4 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "nether: y0 to 128, 4 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Iolite (level 16)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Yellow Onyx (level 16)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in lush caves\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Zirconium (level 16)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Tungsten (level 17)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 32, 8 per chunk, size 5, only in deep dark, dripstone caves, sulfur caves\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Aquamorganite (level 17)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in dripstone caves\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Chrysolite (level 17)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Olivine (level 17)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Palladium (level 18)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y48 to 64, 10 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "overworld: y-64 to 64, 8 per chunk, size 4, only in lush caves\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Mystic Topaz (level 18)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 8 per chunk, size 6, only in badlands, eroded badlands, wooded badlands\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Niobium (level 18)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Spinel (level 18)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Diamond (level 19)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 16, 2 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Pyrite (level 19)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Ruthenium (level 19)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Sardonyx (level 19)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Titanium (level 20)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 128, 6 per chunk, size 4, only in stony peaks, jagged peaks, stony shore, windswept gravelly hills\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Ilmenite (level 20)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in basalt deltas\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Kunzite (level 20)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Sugillite (level 20)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Sulfur (level 20)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in nether wastes, basalt deltas\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Chromium (level 21)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 120, 8 per chunk, size 5, only in basalt deltas\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Alexandrite (level 21)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Carnotite (level 21)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in basalt deltas\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Tantalum (level 21)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Tanzanite (level 22)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y100 to 123, 8 per chunk, size 4\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Ametrine (level 22)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Matrix Opal (level 22)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y0 to 8, 8 per chunk, size 6, only in lush caves\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Pelenium (level 22)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Technetium (level 22)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Valyrium (level 23)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y0 to 128, 14 per chunk, size 4\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Bixbite (level 23)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest, nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Fire Opal (level 23)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Opal (level 23)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rutile (level 23)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Netherite (level 24)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 24, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "nether: y8 to 119, 3 per chunk, size 2\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Holmium (level 24)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Labradorite (level 24)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Sunstone (level 24)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Endorium (level 25)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y30 to 80, 16 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Bloodstone (level 25)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest, nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Catseye (level 25)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in warped forest\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Indigolite (level 25)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Zircon (level 25)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Vibranium (level 26)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 64, 5 per chunk, size 5, only in desert, windswept hills, windswept gravelly hills, windswept forest, savanna plateau\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "overworld: y-64 to 128, 1 in 7 chunks, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Goshenite (level 26)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Catseye (level 26)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in warped forest\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Hackmantite (level 26)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Adamant (level 27)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y40 to 90, 20 per chunk, size 4, only in end highlands\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Hercynite (level 27)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Humoranium (level 27)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in soul sand valley\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Vesuviante (level 27)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Mithril (level 28)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 96, 6 per chunk, size 4, only in flower forest, cherry grove, meadow, dappled forest\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Americium (level 28)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 6 per chunk, size 7\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Ammolite (level 28)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-48 to 64, 5 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Orange Diamond (level 28)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest, nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Draconium (level 29)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 80, 40 per chunk, size 5, only in small end islands, end barrens\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Chloronium (level 29)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Prism (level 29)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Seaborgium (level 29)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest, nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Orichalcum (level 30)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 32, 6 per chunk, size 4, only in warm ocean, lukewarm ocean, deep lukewarm ocean\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Chalcanthite (level 30)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Red Diamond (level 30)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest, nether wastes\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Sonoranite (level 30)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Painite (level 31)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 0, 6 per chunk, size 3, only in badlands, eroded badlands, wooded badlands\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Grandidierite (level 31)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Pitambari Neelam (level 31)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Yurium (level 31)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in crimson forest\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Black Opal (level 32)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 64, 16 per chunk, size 4, only in soul sand valley\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Medusa Quartz (level 32)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Peacock Topaz Ore (level 32)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Pink Diamond (level 32)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in soul sand valley\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Aetherium (level 33)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y90 to 256, 24 per chunk, size 4, only in frozen peaks, jagged peaks, stony peaks, snowy slopes\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Anti-Humoranium (level 33)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y10 to 118, 6 per chunk, size 5, only in soul sand valley\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Cyan Emerald (level 33)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Watermelon Tourmaline (level 33)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Starsteel (level 34)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: floating balls of obsidiorite, 1 in 24 chunks\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rare Sapphire (level 34)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Bluestone (level 34)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Palintinium (level 34)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Void Crystal (level 35)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: undersides of islands, 20 per chunk, size 6\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Rare Amethyst (level 35)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Raspberry Diamond (level 35)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rhodonite (level 35)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Dragonstone (level 36)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 120, 14 per chunk, size 4, only in crimson forest\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Maradonyx (level 36)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rare Citrine (level 36)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Eternium (level 37)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y30 to 80, 24 per chunk, size 4, only in end midlands\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Moonstone (level 37)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Bicolor Tourmaline (level 37)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Neutronium (level 38)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y122 to 127, 6 per chunk, size 4, only in bedrock\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Serpentine (level 38)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Cosmite (level 39)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 120, 14 per chunk, size 4, only in warped forest\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Larimar (level 39)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Celestium (level 40)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 64, 12 per chunk, size 3, only in snowy plains, ice spikes, snowy slopes, frozen peaks, snowy taiga\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Potassium (level 40)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Astralite (level 41)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: floating balls of obsidiorite, 1 in 24 chunks\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Europium (level 41)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Voidsteel (level 42)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: undersides of islands, 24 per chunk, size 6, only in end barrens, small end islands, end midlands\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "White Diamond (level 42)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Prismium (level 43)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 64, 12 per chunk, size 3, only in lush caves, mushroom fields, cherry grove\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Rare Tanzanite (level 43)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Chaotic (level 44)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y30 to 80, 12 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Purple Diamond (level 44)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Chronite (level 45)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to 48, 12 per chunk, size 3, only in dark forest, pale garden, dappled forest\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Rare Sapphire (level 45)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Singularite (level 46)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y8 to 31, 5 per chunk, size 5, only in lava\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Cyber Crystal (level 46)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Primordium (level 47)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -60, 3 per chunk, size 3, only in bedrock\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Pink Ruby (level 47)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Omnium (level 48)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y30 to 80, 14 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+],
+[
+{
+"t": "Xernium (level 48)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "end: y20 to 90, 6 per chunk, size 5\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Genesium (level 49)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "nether: y0 to 4, 4 per chunk, size 3, only in bedrock\n",
+"c": 0,
+"b": false,
+"p": null
+},
+{
+"t": "Matizium (level 49)\n",
+"c": 1993514,
+"b": true,
+"p": null
+},
+{
+"t": "overworld: y-64 to -16, 2 per chunk, size 3\n",
+"c": 0,
+"b": false,
+"p": null
+}
+]
+]
+}

@@ -1,6 +1,14 @@
 {
  "values": [
-  "longclimb:end_starsteel_ore",
+  "longclimb:australian_sapphire_block",
+  "longclimb:australian_sapphire_ore",
+  "longclimb:bluestone_block",
+  "longclimb:deepslate_australian_sapphire_ore",
+  "longclimb:deepslate_palintinium_ore",
+  "longclimb:end_bluestone_ore",
+  "longclimb:obsidiorite_starsteel_ore",
+  "longclimb:palintinium_block",
+  "longclimb:palintinium_ore",
   "longclimb:starsteel_block",
   {
    "id": "#ddsstinkers:needs_level_34",

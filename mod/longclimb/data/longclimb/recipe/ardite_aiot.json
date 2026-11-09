@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:ardite_pickaxe",
+  "A": "longclimb:ardite_axe",
+  "S": "longclimb:ardite_shovel",
+  "O": "longclimb:ardite_hoe",
+  "W": "longclimb:ardite_sword",
+  "M": "longclimb:ardite_ingot"
+ },
+ "result": {
+  "id": "longclimb:ardite_aiot",
+  "count": 1
+ }
+}

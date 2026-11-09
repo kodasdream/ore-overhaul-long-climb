@@ -1,21 +1,14 @@
 {
  "type": "minecraft:ore",
- "size": 4,
+ "size": 10,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:stone_ore_replaceables"
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:granite"
    },
-   "state": "longclimb:jauxum_ore"
-  },
-  {
-   "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:deepslate_ore_replaceables"
-   },
-   "state": "longclimb:deepslate_jauxum_ore"
+   "state": "longclimb:granite_jauxum_ore"
   }
  ]
 }

@@ -1,10 +1,17 @@
 {
  "values": [
-  "longclimb:deepslate_duranite_ore",
+  "longclimb:deepslate_ruthenium_ore",
+  "longclimb:deepslate_sardonyx_ore",
   "longclimb:duranite_block",
-  "longclimb:duranite_ore",
+  "longclimb:meteorite_duranite_ore",
   "longclimb:nether_prometheum_ore",
+  "longclimb:nether_pyrite_ore",
   "longclimb:prometheum_block",
+  "longclimb:pyrite_block",
+  "longclimb:ruthenium_block",
+  "longclimb:ruthenium_ore",
+  "longclimb:sardonyx_block",
+  "longclimb:sardonyx_ore",
   "minecraft:deepslate_diamond_ore",
   "minecraft:diamond_ore",
   {

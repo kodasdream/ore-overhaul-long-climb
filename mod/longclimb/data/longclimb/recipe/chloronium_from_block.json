@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:chloronium_block"
+ ],
+ "result": {
+  "id": "longclimb:chloronium_gem",
+  "count": 9
+ }
+}

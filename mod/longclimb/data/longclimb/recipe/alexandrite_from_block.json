@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:alexandrite_block"
+ ],
+ "result": {
+  "id": "longclimb:alexandrite_gem",
+  "count": 9
+ }
+}

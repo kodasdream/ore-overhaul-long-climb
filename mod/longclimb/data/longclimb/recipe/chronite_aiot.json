@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:chronite_pickaxe",
+  "A": "longclimb:chronite_axe",
+  "S": "longclimb:chronite_shovel",
+  "O": "longclimb:chronite_hoe",
+  "W": "longclimb:chronite_sword",
+  "M": "longclimb:chronite_ingot"
+ },
+ "result": {
+  "id": "longclimb:chronite_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:hackmanite_block"
+ ],
+ "result": {
+  "id": "longclimb:hackmanite_gem",
+  "count": 9
+ }
+}

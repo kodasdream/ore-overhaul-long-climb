@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:amethyst_crystal_gem"
+ },
+ "result": {
+  "id": "longclimb:amethyst_crystal_block",
+  "count": 1
+ }
+}

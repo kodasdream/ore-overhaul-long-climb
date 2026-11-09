@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:platinum_block",
+  "T": "longclimb:platinum_shovel",
+  "H": "longclimb:nickel_block"
+ },
+ "result": {
+  "id": "longclimb:platinum_excavator",
+  "count": 1
+ }
+}

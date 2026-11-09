@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MM ",
-  "MH ",
-  " H "
+  "MMM  ",
+  "MMGH ",
+  "M  H ",
+  "   H ",
+  "   H "
  ],
  "key": {
   "M": "longclimb:titanium_ingot",
-  "H": "minecraft:diamond"
+  "H": "#longclimb:materials_level_20",
+  "G": "#longclimb:gems_level_20"
  },
  "result": {
   "id": "longclimb:titanium_axe",

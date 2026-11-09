@@ -1,8 +1,17 @@
 {
  "values": [
   "longclimb:abyssum_block",
+  "longclimb:aquamorganite_block",
+  "longclimb:aquamorganite_ore",
+  "longclimb:chrysolite_block",
+  "longclimb:chrysolite_ore",
+  "longclimb:deepslate_aquamorganite_ore",
+  "longclimb:deepslate_chrysolite_ore",
+  "longclimb:deepslate_olivine_ore",
   "longclimb:deepslate_tungsten_ore",
   "longclimb:end_abyssum_ore",
+  "longclimb:olivine_block",
+  "longclimb:olivine_ore",
   "longclimb:tungsten_block",
   "longclimb:tungsten_ore",
   {

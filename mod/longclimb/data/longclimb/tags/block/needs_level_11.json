@@ -1,11 +1,22 @@
 {
  "values": [
-  "longclimb:deepslate_meteorite_ore",
+  "longclimb:blue_john_fluorite_block",
+  "longclimb:blue_john_fluorite_ore",
+  "longclimb:brickerite_block",
+  "longclimb:brickerite_ore",
+  "longclimb:deepslate_blue_john_fluorite_ore",
+  "longclimb:deepslate_brickerite_ore",
+  "longclimb:deepslate_molybdenum_ore",
   "longclimb:deepslate_nickel_ore",
+  "longclimb:deepslate_turquoise_ore",
   "longclimb:meteorite_block",
-  "longclimb:meteorite_ore",
+  "longclimb:meteorite_rock",
+  "longclimb:molybdenum_block",
+  "longclimb:molybdenum_ore",
   "longclimb:nickel_block",
   "longclimb:nickel_ore",
+  "longclimb:turquoise_block",
+  "longclimb:turquoise_ore",
   {
    "id": "#ddsstinkers:needs_level_11",
    "required": false

@@ -1,7 +1,9 @@
 {
  "values": [
   "longclimb:astralite_block",
-  "longclimb:end_astralite_ore",
+  "longclimb:end_europium_ore",
+  "longclimb:europium_block",
+  "longclimb:obsidiorite_astralite_ore",
   {
    "id": "#ddsstinkers:needs_level_41",
    "required": false

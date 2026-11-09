@@ -2,14 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  "MGM",
-  " H ",
-  " H "
+  "MMGMM",
+  "M H M",
+  "  H  ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:chaotic_ingot",
-  "H": "longclimb:prismium_gem",
-  "G": "longclimb:prismium_gem"
+  "H": "#longclimb:materials_level_44",
+  "G": "#longclimb:gems_level_44"
  },
  "result": {
   "id": "longclimb:chaotic_pickaxe",

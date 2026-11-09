@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:aquamarine_block"
+ ],
+ "result": {
+  "id": "longclimb:aquamarine_gem",
+  "count": 9
+ }
+}

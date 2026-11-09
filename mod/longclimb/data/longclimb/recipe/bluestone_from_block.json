@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:bluestone_block"
+ ],
+ "result": {
+  "id": "longclimb:bluestone_gem",
+  "count": 9
+ }
+}

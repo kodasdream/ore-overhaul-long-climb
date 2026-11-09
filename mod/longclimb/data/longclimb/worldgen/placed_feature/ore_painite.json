@@ -2,8 +2,8 @@
  "feature": "longclimb:ore_painite",
  "placement": [
   {
-   "type": "minecraft:rarity_filter",
-   "chance": 12
+   "type": "minecraft:count",
+   "count": 6
   },
   {
    "type": "minecraft:in_square"
@@ -16,7 +16,7 @@
      "absolute": -64
     },
     "max_inclusive": {
-     "absolute": -58
+     "absolute": 0
     }
    }
   },

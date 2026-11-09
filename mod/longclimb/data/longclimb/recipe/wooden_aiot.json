@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:wooden_pickaxe",
+  "A": "minecraft:wooden_axe",
+  "S": "minecraft:wooden_shovel",
+  "O": "minecraft:wooden_hoe",
+  "W": "minecraft:wooden_sword",
+  "M": "#minecraft:planks"
+ },
+ "result": {
+  "id": "longclimb:wooden_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:hercynite_block"
+ ],
+ "result": {
+  "id": "longclimb:hercynite_gem",
+  "count": 9
+ }
+}

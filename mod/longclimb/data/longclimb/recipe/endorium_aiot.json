@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:endorium_pickaxe",
+  "A": "longclimb:endorium_axe",
+  "S": "longclimb:endorium_shovel",
+  "O": "longclimb:endorium_hoe",
+  "W": "longclimb:endorium_sword",
+  "M": "longclimb:endorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:endorium_aiot",
+  "count": 1
+ }
+}

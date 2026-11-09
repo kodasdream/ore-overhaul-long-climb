@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:thorium_pickaxe",
+  "A": "longclimb:thorium_axe",
+  "S": "longclimb:thorium_shovel",
+  "O": "longclimb:thorium_hoe",
+  "W": "longclimb:thorium_sword",
+  "M": "longclimb:thorium_ingot"
+ },
+ "result": {
+  "id": "longclimb:thorium_aiot",
+  "count": 1
+ }
+}

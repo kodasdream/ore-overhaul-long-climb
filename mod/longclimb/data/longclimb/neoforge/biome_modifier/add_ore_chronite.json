@@ -1,0 +1,10 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:dark_forest",
+  "minecraft:pale_garden",
+  "minecraft:dappled_forest"
+ ],
+ "features": "longclimb:ore_chronite",
+ "step": "underground_ores"
+}

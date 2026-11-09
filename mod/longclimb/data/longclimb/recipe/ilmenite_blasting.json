@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:blasting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_ilmenite",
+ "result": {
+  "id": "longclimb:ilmenite_ingot"
+ },
+ "experience": 1.35,
+ "cookingtime": 205
+}

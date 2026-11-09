@@ -2,13 +2,16 @@
  "type": "minecraft:crafting_shaped",
  "category": "equipment",
  "pattern": [
-  " M ",
-  " M ",
-  " H "
+  "  M  ",
+  "  M  ",
+  " MGM ",
+  "  H  ",
+  "  H  "
  ],
  "key": {
   "M": "longclimb:cobalt_ingot",
-  "H": "longclimb:ardite_ingot"
+  "H": "#longclimb:materials_level_16",
+  "G": "#longclimb:gems_level_15"
  },
  "result": {
   "id": "longclimb:cobalt_sword",

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:carnotite_ingot"
+ },
+ "result": {
+  "id": "longclimb:carnotite_block",
+  "count": 1
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:yellow_onyx_gem"
+ },
+ "result": {
+  "id": "longclimb:yellow_onyx_block",
+  "count": 1
+ }
+}

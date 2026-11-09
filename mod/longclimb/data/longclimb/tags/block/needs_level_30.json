@@ -1,7 +1,16 @@
 {
  "values": [
-  "longclimb:end_orichalcum_ore",
+  "longclimb:chalcanthite_block",
+  "longclimb:chalcanthite_ore",
+  "longclimb:deepslate_chalcanthite_ore",
+  "longclimb:deepslate_orichalcum_ore",
+  "longclimb:deepslate_sonoranite_ore",
+  "longclimb:nether_red_diamond_ore",
   "longclimb:orichalcum_block",
+  "longclimb:orichalcum_ore",
+  "longclimb:red_diamond_block",
+  "longclimb:sonoranite_block",
+  "longclimb:sonoranite_ore",
   {
    "id": "#ddsstinkers:needs_level_30",
    "required": false

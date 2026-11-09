@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:green_catseye_block"
+ ],
+ "result": {
+  "id": "longclimb:green_catseye_gem",
+  "count": 9
+ }
+}

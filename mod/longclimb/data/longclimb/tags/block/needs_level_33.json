@@ -1,7 +1,16 @@
 {
  "values": [
   "longclimb:aetherium_block",
-  "longclimb:end_aetherium_ore",
+  "longclimb:aetherium_ore",
+  "longclimb:anti_humoranium_block",
+  "longclimb:cyan_emerald_block",
+  "longclimb:cyan_emerald_ore",
+  "longclimb:deepslate_aetherium_ore",
+  "longclimb:deepslate_cyan_emerald_ore",
+  "longclimb:deepslate_watermelon_tourmaline_ore",
+  "longclimb:nether_anti_humoranium_ore",
+  "longclimb:watermelon_tourmaline_block",
+  "longclimb:watermelon_tourmaline_ore",
   {
    "id": "#ddsstinkers:needs_level_33",
    "required": false

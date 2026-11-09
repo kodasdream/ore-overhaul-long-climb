@@ -2,7 +2,7 @@
  "template": "minecraft:iron_pickaxe",
  "rarity": "common",
  "components": {
-  "minecraft:max_damage": 137,
+  "minecraft:max_damage": 173,
   "minecraft:attribute_modifiers": [
    {
     "type": "minecraft:attack_damage",
@@ -30,7 +30,7 @@
     },
     {
      "blocks": "#minecraft:mineable/pickaxe",
-     "speed": 3.72,
+     "speed": 4.73,
      "correct_for_drops": true
     }
    ]

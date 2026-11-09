@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:garnet_gem"
+ },
+ "result": {
+  "id": "longclimb:garnet_block",
+  "count": 1
+ }
+}

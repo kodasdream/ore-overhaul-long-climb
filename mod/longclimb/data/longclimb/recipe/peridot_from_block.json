@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:peridot_block"
+ ],
+ "result": {
+  "id": "longclimb:peridot_gem",
+  "count": 9
+ }
+}

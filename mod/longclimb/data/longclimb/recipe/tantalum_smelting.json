@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_tantalum",
+ "result": {
+  "id": "longclimb:tantalum_ingot"
+ },
+ "experience": 1.4,
+ "cookingtime": 420
+}

@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:thorium_block",
+  "T": "longclimb:thorium_pickaxe",
+  "H": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "longclimb:thorium_hammer",
+  "count": 1
+ }
+}

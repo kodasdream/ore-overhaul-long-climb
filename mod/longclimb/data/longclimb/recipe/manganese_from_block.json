@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:manganese_block"
+ ],
+ "result": {
+  "id": "longclimb:manganese_ingot",
+  "count": 9
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:pitambari_neelam_gem"
+ },
+ "result": {
+  "id": "longclimb:pitambari_neelam_block",
+  "count": 1
+ }
+}

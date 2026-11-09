@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:silicon_gem"
+ },
+ "result": {
+  "id": "longclimb:silicon_block",
+  "count": 1
+ }
+}

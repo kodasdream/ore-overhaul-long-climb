@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:amazonite_gem"
+ },
+ "result": {
+  "id": "longclimb:amazonite_block",
+  "count": 1
+ }
+}

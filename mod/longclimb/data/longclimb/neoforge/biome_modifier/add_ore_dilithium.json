@@ -1,0 +1,14 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": [
+  "minecraft:desert",
+  "minecraft:beach",
+  "minecraft:snowy_beach",
+  "minecraft:ocean",
+  "minecraft:deep_ocean",
+  "minecraft:frozen_ocean",
+  "minecraft:frozen_river"
+ ],
+ "features": "longclimb:ore_dilithium",
+ "step": "underground_ores"
+}

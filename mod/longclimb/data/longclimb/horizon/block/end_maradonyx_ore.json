@@ -1,0 +1,10 @@
+{
+ "template": "minecraft:iron_ore",
+ "properties": {
+  "hardness": 15.95,
+  "explosion_resistance": 10.4
+ },
+ "components": {
+  "minecraft:rarity": "epic"
+ }
+}

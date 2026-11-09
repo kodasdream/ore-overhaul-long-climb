@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:smelting",
+ "category": "misc",
+ "ingredient": "longclimb:raw_carnotite",
+ "result": {
+  "id": "longclimb:carnotite_ingot"
+ },
+ "experience": 1.4,
+ "cookingtime": 420
+}

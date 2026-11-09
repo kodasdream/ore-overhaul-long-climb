@@ -1,7 +1,18 @@
 {
  "values": [
+  "longclimb:ametrine_block",
+  "longclimb:ametrine_ore",
+  "longclimb:deepslate_ametrine_ore",
+  "longclimb:deepslate_matrix_opal_ore",
+  "longclimb:deepslate_technetium_ore",
+  "longclimb:matrix_opal_block",
+  "longclimb:matrix_opal_ore",
+  "longclimb:nether_pelenium_ore",
   "longclimb:nether_tanzanite_ore",
+  "longclimb:pelenium_block",
   "longclimb:tanzanite_block",
+  "longclimb:technetium_block",
+  "longclimb:technetium_ore",
   {
    "id": "#ddsstinkers:needs_level_22",
    "required": false

@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "GBTBG",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:chromium_block",
+  "T": "longclimb:chromium_pickaxe",
+  "H": "longclimb:titanium_block",
+  "G": "minecraft:diamond"
+ },
+ "result": {
+  "id": "longclimb:chromium_hammer",
+  "count": 1
+ }
+}

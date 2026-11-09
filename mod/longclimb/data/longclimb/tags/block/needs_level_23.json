@@ -1,7 +1,17 @@
 {
  "values": [
-  "longclimb:end_uru_ore",
+  "longclimb:bixbite_block",
+  "longclimb:deepslate_opal_ore",
+  "longclimb:deepslate_rutile_ore",
+  "longclimb:fire_opal_block",
+  "longclimb:nether_bixbite_ore",
+  "longclimb:nether_fire_opal_ore",
   "longclimb:nether_valyrium_ore",
+  "longclimb:obsidiorite_uru_ore",
+  "longclimb:opal_block",
+  "longclimb:opal_ore",
+  "longclimb:rutile_block",
+  "longclimb:rutile_ore",
   "longclimb:uru_block",
   "longclimb:valyrium_block",
   {

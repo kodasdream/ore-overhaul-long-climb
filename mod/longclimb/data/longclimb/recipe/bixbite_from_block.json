@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:bixbite_block"
+ ],
+ "result": {
+  "id": "longclimb:bixbite_gem",
+  "count": 9
+ }
+}

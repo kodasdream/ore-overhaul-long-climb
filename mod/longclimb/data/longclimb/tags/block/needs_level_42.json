@@ -1,7 +1,9 @@
 {
  "values": [
   "longclimb:end_voidsteel_ore",
+  "longclimb:end_white_diamond_ore",
   "longclimb:voidsteel_block",
+  "longclimb:white_diamond_block",
   {
    "id": "#ddsstinkers:needs_level_42",
    "required": false

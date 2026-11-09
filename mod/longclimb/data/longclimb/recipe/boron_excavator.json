@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  " BBB ",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "longclimb:boron_block",
+  "T": "longclimb:boron_shovel",
+  "H": "longclimb:osmium_block"
+ },
+ "result": {
+  "id": "longclimb:boron_excavator",
+  "count": 1
+ }
+}

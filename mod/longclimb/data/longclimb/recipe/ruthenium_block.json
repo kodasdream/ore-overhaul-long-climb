@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:ruthenium_ingot"
+ },
+ "result": {
+  "id": "longclimb:ruthenium_block",
+  "count": 1
+ }
+}

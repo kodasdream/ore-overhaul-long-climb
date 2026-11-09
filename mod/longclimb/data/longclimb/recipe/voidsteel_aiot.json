@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:voidsteel_pickaxe",
+  "A": "longclimb:voidsteel_axe",
+  "S": "longclimb:voidsteel_shovel",
+  "O": "longclimb:voidsteel_hoe",
+  "W": "longclimb:voidsteel_sword",
+  "M": "longclimb:voidsteel_ingot"
+ },
+ "result": {
+  "id": "longclimb:voidsteel_aiot",
+  "count": 1
+ }
+}

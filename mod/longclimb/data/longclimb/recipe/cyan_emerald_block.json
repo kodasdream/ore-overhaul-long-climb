@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:cyan_emerald_gem"
+ },
+ "result": {
+  "id": "longclimb:cyan_emerald_block",
+  "count": 1
+ }
+}

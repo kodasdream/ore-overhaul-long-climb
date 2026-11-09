@@ -1,0 +1,62 @@
+{
+ "template": "minecraft:iron_axe",
+ "rarity": "uncommon",
+ "components": {
+  "minecraft:max_damage": 2500,
+  "minecraft:tool": {
+   "rules": [
+    {
+     "blocks": "#longclimb:incorrect_for_level_14",
+     "correct_for_drops": false
+    },
+    {
+     "blocks": "#minecraft:mineable/pickaxe",
+     "speed": 7.76,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/axe",
+     "speed": 7.76,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/shovel",
+     "speed": 7.76,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "#minecraft:mineable/hoe",
+     "speed": 7.76,
+     "correct_for_drops": true
+    },
+    {
+     "blocks": "minecraft:cobweb",
+     "speed": 15.0,
+     "correct_for_drops": true
+    }
+   ]
+  },
+  "minecraft:attribute_modifiers": [
+   {
+    "type": "minecraft:attack_damage",
+    "id": "minecraft:base_attack_damage",
+    "amount": 7.45,
+    "operation": "add_value",
+    "slot": "mainhand"
+   },
+   {
+    "type": "minecraft:attack_speed",
+    "id": "minecraft:base_attack_speed",
+    "amount": -2.4,
+    "operation": "add_value",
+    "slot": "mainhand"
+   }
+  ],
+  "minecraft:weapon": {
+   "item_damage_per_attack": 1
+  },
+  "minecraft:repairable": {
+   "items": "longclimb:ruby_gem"
+  }
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": "#minecraft:is_overworld",
+ "features": "longclimb:ore_tourmaline",
+ "step": "underground_ores"
+}

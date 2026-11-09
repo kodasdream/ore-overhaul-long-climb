@@ -1,14 +1,14 @@
 {
  "type": "minecraft:ore",
- "size": 1,
+ "size": 3,
  "discard_chance_on_air_exposure": 0.0,
  "targets": [
   {
    "target": {
-    "predicate_type": "minecraft:tag_match",
-    "tag": "minecraft:base_stone_nether"
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:bedrock"
    },
-   "state": "longclimb:nether_genesium_ore"
+   "state": "longclimb:bedrock_genesium_ore"
   }
  ]
 }

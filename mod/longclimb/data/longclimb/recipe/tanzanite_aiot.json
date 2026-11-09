@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:tanzanite_pickaxe",
+  "A": "longclimb:tanzanite_axe",
+  "S": "longclimb:tanzanite_shovel",
+  "O": "longclimb:tanzanite_hoe",
+  "W": "longclimb:tanzanite_sword",
+  "M": "longclimb:tanzanite_gem"
+ },
+ "result": {
+  "id": "longclimb:tanzanite_aiot",
+  "count": 1
+ }
+}

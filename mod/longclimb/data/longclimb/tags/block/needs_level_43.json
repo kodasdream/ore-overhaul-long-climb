@@ -1,7 +1,11 @@
 {
  "values": [
-  "longclimb:end_prismium_ore",
+  "longclimb:deepslate_prismium_ore",
+  "longclimb:deepslate_rare_tanzanite_ore",
   "longclimb:prismium_block",
+  "longclimb:prismium_ore",
+  "longclimb:rare_tanzanite_block",
+  "longclimb:rare_tanzanite_ore",
   {
    "id": "#ddsstinkers:needs_level_43",
    "required": false

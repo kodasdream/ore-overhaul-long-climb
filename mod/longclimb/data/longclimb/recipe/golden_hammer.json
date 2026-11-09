@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "BBBBB",
+  "BBTBB",
+  "  H  ",
+  "  H  "
+ ],
+ "key": {
+  "B": "minecraft:gold_block",
+  "T": "minecraft:golden_pickaxe",
+  "H": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "longclimb:golden_hammer",
+  "count": 1
+ }
+}

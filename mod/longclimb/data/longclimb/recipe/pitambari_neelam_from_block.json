@@ -1,0 +1,11 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  "longclimb:pitambari_neelam_block"
+ ],
+ "result": {
+  "id": "longclimb:pitambari_neelam_gem",
+  "count": 9
+ }
+}

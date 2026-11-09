@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "longclimb:palladium_pickaxe",
+  "A": "longclimb:palladium_axe",
+  "S": "longclimb:palladium_shovel",
+  "O": "longclimb:palladium_hoe",
+  "W": "longclimb:palladium_sword",
+  "M": "longclimb:palladium_ingot"
+ },
+ "result": {
+  "id": "longclimb:palladium_aiot",
+  "count": 1
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "building",
+ "pattern": [
+  "MMM",
+  "MMM",
+  "MMM"
+ ],
+ "key": {
+  "M": "longclimb:pyrite_gem"
+ },
+ "result": {
+  "id": "longclimb:pyrite_block",
+  "count": 1
+ }
+}

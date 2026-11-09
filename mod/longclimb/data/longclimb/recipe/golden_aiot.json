@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "P   A",
+  " MMM ",
+  " MSM ",
+  " MMM ",
+  "O   W"
+ ],
+ "key": {
+  "P": "minecraft:golden_pickaxe",
+  "A": "minecraft:golden_axe",
+  "S": "minecraft:golden_shovel",
+  "O": "minecraft:golden_hoe",
+  "W": "minecraft:golden_sword",
+  "M": "minecraft:gold_ingot"
+ },
+ "result": {
+  "id": "longclimb:golden_aiot",
+  "count": 1
+ }
+}
